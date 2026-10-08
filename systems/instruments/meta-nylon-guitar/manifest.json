@@ -1,0 +1,1406 @@
+{
+  "id": "meta-nylon-guitar",
+  "name": "Meta Nylon Guitar",
+  "category": "instruments",
+  "format": "wav",
+  "web_formats": [
+    "ogg"
+  ],
+  "sample_rate": 48000,
+  "bit_depth": 24,
+  "samples": [
+    {
+      "file": "INSGuitarNylon_StringLowE_Vel01Finger_E2_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_LowE_E2_03.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringLowE_Vel01Finger_F2_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_LowE_F2_03.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringLowE_Vel01Finger_Fs2_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_LowE_F#2_03.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringLowE_Vel01Finger_G2_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_LowE_G2_03.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringLowE_Vel01Finger_Gs2_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_LowE_G#2_03.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringLowE_Vel01Finger_A2_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_LowE_A2_03.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringLowE_Vel01Finger_As2_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_LowE_A#2_03.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringLowE_Vel01Finger_B2_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_LowE_B2_03.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringLowE_Vel01Finger_C3_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_LowE_C3_03.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringLowE_Vel01Finger_Cs3_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_LowE_C#3_03.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringLowE_Vel01Finger_D3_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_LowE_D3_03.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringLowE_Vel01Finger_Ds3_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_LowE_D#3_03.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringLowE_Vel01Finger_E3_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_LowE_E3_03.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringLowE_Vel01Finger_F3_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_LowE_F3_03.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringLowE_Vel01Finger_Fs3_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_LowE_F#3_03.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringLowE_Vel01Finger_G3_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_LowE_G3_03.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringLowE_Vel01Finger_Gs3_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_LowE_G#3_03.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringLowE_Vel01Finger_A3_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_LowE_A3_03.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringLowE_Vel01Finger_As3_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_LowE_A#3_03.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringLowE_Vel01Finger_B3_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_LowE_B3_03.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringLowE_Vel02Pick_E2_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_LowE_E2_02.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringLowE_Vel02Pick_F2_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_LowE_F2_02.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringLowE_Vel02Pick_Fs2_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_LowE_F#2_02.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringLowE_Vel02Pick_G2_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_LowE_G2_02.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringLowE_Vel02Pick_Gs2_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_LowE_G#2_02.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringLowE_Vel02Pick_A2_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_LowE_A2_02.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringLowE_Vel02Pick_As2_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_LowE_A#2_02.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringLowE_Vel02Pick_B2_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_LowE_B2_02.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringLowE_Vel02Pick_C3_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_LowE_C3_02.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringLowE_Vel02Pick_Cs3_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_LowE_C#3_02.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringLowE_Vel02Pick_D3_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_LowE_D3_02.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringLowE_Vel02Pick_Ds3_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_LowE_D#3_02.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringLowE_Vel02Pick_E3_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_LowE_E3_02.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringLowE_Vel02Pick_F3_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_LowE_F3_02.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringLowE_Vel02Pick_Fs3_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_LowE_F#3_02.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringLowE_Vel02Pick_G3_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_LowE_G3_02.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringLowE_Vel02Pick_Gs3_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_LowE_G#3_02.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringLowE_Vel02Pick_A3_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_LowE_A3_02.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringLowE_Vel02Pick_As3_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_LowE_A#3_02.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringLowE_Vel02Pick_B3_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_LowE_B3_02.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringLowE_Vel03Pick_E2_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_LowE_E2_01.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringLowE_Vel03Pick_F2_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_LowE_F2_01.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringLowE_Vel03Pick_Fs2_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_LowE_F#2_01.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringLowE_Vel03Pick_G2_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_LowE_G2_01.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringLowE_Vel03Pick_Gs2_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_LowE_G#2_01.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringLowE_Vel03Pick_A2_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_LowE_A2_01.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringLowE_Vel03Pick_As2_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_LowE_A#2_01.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringLowE_Vel03Pick_B2_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_LowE_B2_01.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringLowE_Vel03Pick_C3_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_LowE_C3_01.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringLowE_Vel03Pick_Cs3_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_LowE_C#3_01.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringLowE_Vel03Pick_D3_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_LowE_D3_01.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringLowE_Vel03Pick_Ds3_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_LowE_D#3_01.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringLowE_Vel03Pick_E3_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_LowE_E3_01.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringLowE_Vel03Pick_F3_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_LowE_F3_01.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringLowE_Vel03Pick_Fs3_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_LowE_F#3_01.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringLowE_Vel03Pick_G3_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_LowE_G3_01.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringLowE_Vel03Pick_Gs3_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_LowE_G#3_01.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringLowE_Vel03Pick_A3_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_LowE_A3_01.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringLowE_Vel03Pick_As3_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_LowE_A#3_01.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringLowE_Vel03Pick_B3_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_LowE_B3_01.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringA_Vel01Finger_A2_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_A_A2_03.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringA_Vel01Finger_As2_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_A_A#2_03.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringA_Vel01Finger_B2_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_A_B2_03.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringA_Vel01Finger_C3_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_A_C3_03.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringA_Vel01Finger_Cs3_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_A_C#3_03.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringA_Vel01Finger_D3_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_A_D3_03.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringA_Vel01Finger_Ds3_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_A_D#3_03.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringA_Vel01Finger_E3_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_A_E3_03.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringA_Vel01Finger_F3_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_A_F3_03.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringA_Vel01Finger_Fs3_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_A_F#3_03.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringA_Vel01Finger_G3_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_A_G3_03.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringA_Vel01Finger_Gs3_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_A_G#3_03.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringA_Vel01Finger_A3_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_A_A3_03.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringA_Vel01Finger_As3_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_A_A#3_03.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringA_Vel01Finger_B3_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_A_B3_03.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringA_Vel01Finger_C4_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_A_C4_03.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringA_Vel01Finger_Cs4_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_A_C#4_03.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringA_Vel01Finger_D4_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_A_D4_03.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringA_Vel01Finger_Ds4_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_A_D#4_03.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringA_Vel02Pick_A2_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_A_A2_02.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringA_Vel02Pick_As2_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_A_A#2_02.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringA_Vel02Pick_B2_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_A_B2_02.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringA_Vel02Pick_C3_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_A_C3_02.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringA_Vel02Pick_Cs3_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_A_C#3_02.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringA_Vel02Pick_D3_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_A_D3_02.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringA_Vel02Pick_Ds3_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_A_D#3_02.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringA_Vel02Pick_E3_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_A_E3_02.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringA_Vel02Pick_F3_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_A_F3_02.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringA_Vel02Pick_Fs3_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_A_F#3_02.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringA_Vel02Pick_G3_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_A_G3_02.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringA_Vel02Pick_Gs3_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_A_G#3_02.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringA_Vel02Pick_A3_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_A_A3_02.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringA_Vel02Pick_As3_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_A_A#3_02.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringA_Vel02Pick_B3_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_A_B3_02.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringA_Vel02Pick_C4_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_A_C4_02.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringA_Vel02Pick_Cs4_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_A_C#4_02.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringA_Vel02Pick_D4_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_A_D4_02.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringA_Vel02Pick_Ds4_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_A_D#4_02.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringA_Vel03Pick_A2_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_A_A2_01.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringA_Vel03Pick_As2_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_A_A#2_01.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringA_Vel03Pick_B2_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_A_B2_01.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringA_Vel03Pick_C3_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_A_C3_01.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringA_Vel03Pick_Cs3_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_A_C#3_01.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringA_Vel03Pick_D3_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_A_D3_01.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringA_Vel03Pick_Ds3_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_A_D#3_01.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringA_Vel03Pick_E3_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_A_E3_01.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringA_Vel03Pick_F3_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_A_F3_01.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringA_Vel03Pick_Fs3_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_A_F#3_01.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringA_Vel03Pick_G3_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_A_G3_01.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringA_Vel03Pick_Gs3_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_A_G#3_01.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringA_Vel03Pick_A3_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_A_A3_01.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringA_Vel03Pick_As3_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_A_A#3_01.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringA_Vel03Pick_B3_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_A_B3_01.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringA_Vel03Pick_C4_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_A_C4_01.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringA_Vel03Pick_Cs4_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_A_C#4_01.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringA_Vel03Pick_D4_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_A_D4_01.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringA_Vel03Pick_Ds4_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_A_D#4_01.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringD_Vel01Finger_D3_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_D_D3_03.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringD_Vel01Finger_Ds3_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_D_D#3_03.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringD_Vel01Finger_E3_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_D_E3_03.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringD_Vel01Finger_F3_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_D_F3_03.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringD_Vel01Finger_Fs3_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_D_F#3_03.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringD_Vel01Finger_G3_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_D_G3_03.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringD_Vel01Finger_Gs3_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_D_G#3_03.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringD_Vel01Finger_A3_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_D_A3_03.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringD_Vel01Finger_As3_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_D_A#3_03.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringD_Vel01Finger_B3_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_D_B3_03.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringD_Vel01Finger_C4_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_D_C4_03.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringD_Vel01Finger_Cs4_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_D_C#4_03.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringD_Vel01Finger_D4_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_D_D4_03.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringD_Vel01Finger_Ds4_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_D_D#4_03.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringD_Vel01Finger_E4_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_D_E4_03.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringD_Vel01Finger_F4_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_D_F4_03.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringD_Vel01Finger_Fs4_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_D_F#4_03.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringD_Vel01Finger_G4_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_D_G4_03.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringD_Vel01Finger_Gs4_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_D_G#4_03.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringD_Vel02Pick_D3_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_D_D3_02.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringD_Vel02Pick_Ds3_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_D_D#3_02.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringD_Vel02Pick_E3_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_D_E3_02.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringD_Vel02Pick_F3_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_D_F3_02.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringD_Vel02Pick_Fs3_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_D_F#3_02.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringD_Vel02Pick_G3_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_D_G3_02.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringD_Vel02Pick_Gs3_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_D_G#3_02.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringD_Vel02Pick_A3_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_D_A3_02.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringD_Vel02Pick_As3_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_D_A#3_02.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringD_Vel02Pick_B3_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_D_B3_02.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringD_Vel02Pick_C4_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_D_C4_02.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringD_Vel02Pick_Cs4_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_D_C#4_02.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringD_Vel02Pick_D4_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_D_D4_02.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringD_Vel02Pick_Ds4_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_D_D#4_02.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringD_Vel02Pick_E4_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_D_E4_02.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringD_Vel02Pick_F4_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_D_F4_02.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringD_Vel02Pick_Fs4_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_D_F#4_02.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringD_Vel02Pick_G4_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_D_G4_02.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringD_Vel02Pick_Gs4_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_D_G#4_02.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringD_Vel03Pick_D3_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_D_D3_01.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringD_Vel03Pick_Ds3_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_D_D#3_01.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringD_Vel03Pick_E3_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_D_E3_01.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringD_Vel03Pick_F3_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_D_F3_01.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringD_Vel03Pick_Fs3_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_D_F#3_01.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringD_Vel03Pick_G3_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_D_G3_01.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringD_Vel03Pick_Gs3_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_D_G#3_01.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringD_Vel03Pick_A3_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_D_A3_01.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringD_Vel03Pick_As3_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_D_A#3_01.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringD_Vel03Pick_B3_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_D_B3_01.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringD_Vel03Pick_C4_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_D_C4_01.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringD_Vel03Pick_Cs4_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_D_C#4_01.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringD_Vel03Pick_D4_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_D_D4_01.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringD_Vel03Pick_Ds4_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_D_D#4_01.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringD_Vel03Pick_E4_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_D_E4_01.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringD_Vel03Pick_F4_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_D_F4_01.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringD_Vel03Pick_Fs4_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_D_F#4_01.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringD_Vel03Pick_G4_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_D_G4_01.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringD_Vel03Pick_Gs4_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_D_G#4_01.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringG_Vel01Finger_G3_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_G_G3_03.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringG_Vel01Finger_Gs3_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_G_G#3_03.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringG_Vel01Finger_A3_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_G_A3_03.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringG_Vel01Finger_As3_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_G_A#3_03.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringG_Vel01Finger_B3_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_G_B3_03.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringG_Vel01Finger_C4_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_G_C4_03.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringG_Vel01Finger_Cs4_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_G_C#4_03.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringG_Vel01Finger_D4_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_G_D4_03.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringG_Vel01Finger_Ds4_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_G_D#4_03.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringG_Vel01Finger_E4_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_G_E4_03.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringG_Vel01Finger_F4_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_G_F4_03.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringG_Vel01Finger_Fs4_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_G_F#4_03.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringG_Vel01Finger_G4_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_G_G4_03.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringG_Vel01Finger_Gs4_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_G_G#4_03.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringG_Vel01Finger_A4_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_G_A4_03.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringG_Vel01Finger_As4_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_G_A#4_03.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringG_Vel01Finger_B4_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_G_B4_03.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringG_Vel01Finger_C5_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_G_C5_03.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringG_Vel01Finger_Cs5_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_G_C#5_03.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringG_Vel02Pick_G3_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_G_G3_02.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringG_Vel02Pick_Gs3_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_G_G#3_02.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringG_Vel02Pick_A3_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_G_A3_02.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringG_Vel02Pick_As3_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_G_A#3_02.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringG_Vel02Pick_B3_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_G_B3_02.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringG_Vel02Pick_C4_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_G_C4_02.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringG_Vel02Pick_Cs4_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_G_C#4_02.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringG_Vel02Pick_D4_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_G_D4_02.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringG_Vel02Pick_Ds4_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_G_D#4_02.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringG_Vel02Pick_E4_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_G_E4_02.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringG_Vel02Pick_F4_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_G_F4_02.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringG_Vel02Pick_Fs4_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_G_F#4_02.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringG_Vel02Pick_G4_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_G_G4_02.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringG_Vel02Pick_Gs4_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_G_G#4_02.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringG_Vel02Pick_A4_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_G_A4_02.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringG_Vel02Pick_As4_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_G_A#4_02.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringG_Vel02Pick_B4_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_G_B4_02.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringG_Vel02Pick_C5_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_G_C5_02.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringG_Vel02Pick_Cs5_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_G_C#5_02.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringG_Vel03Pick_G3_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_G_G3_01.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringG_Vel03Pick_Gs3_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_G_G#3_01.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringG_Vel03Pick_A3_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_G_A3_01.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringG_Vel03Pick_As3_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_G_A#3_01.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringG_Vel03Pick_B3_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_G_B3_01.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringG_Vel03Pick_C4_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_G_C4_01.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringG_Vel03Pick_Cs4_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_G_C#4_01.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringG_Vel03Pick_D4_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_G_D4_01.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringG_Vel03Pick_Ds4_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_G_D#4_01.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringG_Vel03Pick_E4_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_G_E4_01.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringG_Vel03Pick_F4_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_G_F4_01.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringG_Vel03Pick_Fs4_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_G_F#4_01.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringG_Vel03Pick_G4_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_G_G4_01.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringG_Vel03Pick_Gs4_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_G_G#4_01.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringG_Vel03Pick_A4_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_G_A4_01.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringG_Vel03Pick_As4_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_G_A#4_01.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringG_Vel03Pick_B4_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_G_B4_01.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringG_Vel03Pick_C5_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_G_C5_01.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringG_Vel03Pick_Cs5_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_G_C#5_01.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringB_Vel01Finger_B3_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_B_B3_03.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringB_Vel01Finger_C4_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_B_C4_03.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringB_Vel01Finger_Cs4_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_B_C#4_03.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringB_Vel01Finger_D4_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_B_D4_03.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringB_Vel01Finger_Ds4_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_B_D#4_03.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringB_Vel01Finger_E4_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_B_E4_03.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringB_Vel01Finger_F4_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_B_F4_03.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringB_Vel01Finger_Fs4_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_B_F#4_03.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringB_Vel01Finger_G4_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_B_G4_03.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringB_Vel01Finger_Gs4_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_B_G#4_03.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringB_Vel01Finger_A4_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_B_A4_03.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringB_Vel01Finger_As4_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_B_A#4_03.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringB_Vel01Finger_B4_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_B_B4_03.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringB_Vel01Finger_C5_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_B_C5_03.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringB_Vel01Finger_Cs5_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_B_C#5_03.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringB_Vel01Finger_D5_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_B_D5_03.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringB_Vel01Finger_Ds5_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_B_D#5_03.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringB_Vel01Finger_E5_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_B_E5_03.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringB_Vel01Finger_F5_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_B_F5_03.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringB_Vel02Pick_B3_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_B_B3_02.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringB_Vel02Pick_C4_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_B_C4_02.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringB_Vel02Pick_Cs4_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_B_C#4_02.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringB_Vel02Pick_D4_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_B_D4_02.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringB_Vel02Pick_Ds4_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_B_D#4_02.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringB_Vel02Pick_E4_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_B_E4_02.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringB_Vel02Pick_F4_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_B_F4_02.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringB_Vel02Pick_Fs4_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_B_F#4_02.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringB_Vel02Pick_G4_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_B_G4_02.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringB_Vel02Pick_Gs4_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_B_G#4_02.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringB_Vel02Pick_A4_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_B_A4_02.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringB_Vel02Pick_As4_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_B_A#4_02.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringB_Vel02Pick_B4_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_B_B4_02.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringB_Vel02Pick_C5_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_B_C5_02.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringB_Vel02Pick_Cs5_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_B_C#5_02.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringB_Vel02Pick_D5_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_B_D5_02.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringB_Vel02Pick_Ds5_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_B_D#5_02.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringB_Vel02Pick_E5_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_B_E5_02.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringB_Vel02Pick_F5_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_B_F5_02.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringB_Vel03Pick_B3_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_B_B3_01.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringB_Vel03Pick_C4_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_B_C4_01.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringB_Vel03Pick_Cs4_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_B_C#4_01.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringB_Vel03Pick_D4_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_B_D4_01.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringB_Vel03Pick_Ds4_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_B_D#4_01.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringB_Vel03Pick_E4_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_B_E4_01.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringB_Vel03Pick_F4_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_B_F4_01.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringB_Vel03Pick_Fs4_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_B_F#4_01.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringB_Vel03Pick_G4_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_B_G4_01.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringB_Vel03Pick_Gs4_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_B_G#4_01.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringB_Vel03Pick_A4_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_B_A4_01.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringB_Vel03Pick_As4_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_B_A#4_01.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringB_Vel03Pick_B4_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_B_B4_01.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringB_Vel03Pick_C5_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_B_C5_01.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringB_Vel03Pick_Cs5_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_B_C#5_01.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringB_Vel03Pick_D5_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_B_D5_01.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringB_Vel03Pick_Ds5_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_B_D#5_01.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringB_Vel03Pick_E5_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_B_E5_01.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringB_Vel03Pick_F5_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_B_F5_01.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringHighE_Vel01Finger_E4_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_HighE_E4_03.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringHighE_Vel01Finger_F4_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_HighE_F4_03.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringHighE_Vel01Finger_Fs4_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_HighE_F#4_03.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringHighE_Vel01Finger_G4_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_HighE_G4_03.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringHighE_Vel01Finger_Gs4_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_HighE_G#4_03.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringHighE_Vel01Finger_A4_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_HighE_A4_03.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringHighE_Vel01Finger_As4_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_HighE_A#4_03.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringHighE_Vel01Finger_B4_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_HighE_B4_03.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringHighE_Vel01Finger_C5_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_HighE_C5_03.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringHighE_Vel01Finger_Cs5_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_HighE_C#5_03.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringHighE_Vel01Finger_D5_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_HighE_D5_03.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringHighE_Vel01Finger_Ds5_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_HighE_D#5_03.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringHighE_Vel01Finger_E5_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_HighE_E5_03.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringHighE_Vel01Finger_F5_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_HighE_F5_03.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringHighE_Vel01Finger_Fs5_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_HighE_F#5_03.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringHighE_Vel01Finger_G5_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_HighE_G5_03.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringHighE_Vel01Finger_Gs5_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_HighE_G#5_03.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringHighE_Vel01Finger_A5_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_HighE_A5_03.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringHighE_Vel01Finger_As5_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_HighE_A#5_03.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringHighE_Vel01Finger_B5_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_HighE_B5_03.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringHighE_Vel02Pick_E4_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_HighE_E4_02.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringHighE_Vel02Pick_F4_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_HighE_F4_02.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringHighE_Vel02Pick_Fs4_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_HighE_F#4_02.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringHighE_Vel02Pick_G4_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_HighE_G4_02.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringHighE_Vel02Pick_Gs4_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_HighE_G#4_02.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringHighE_Vel02Pick_A4_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_HighE_A4_02.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringHighE_Vel02Pick_As4_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_HighE_A#4_02.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringHighE_Vel02Pick_B4_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_HighE_B4_02.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringHighE_Vel02Pick_C5_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_HighE_C5_02.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringHighE_Vel02Pick_Cs5_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_HighE_C#5_02.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringHighE_Vel02Pick_D5_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_HighE_D5_02.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringHighE_Vel02Pick_Ds5_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_HighE_D#5_02.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringHighE_Vel02Pick_E5_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_HighE_E5_02.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringHighE_Vel02Pick_F5_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_HighE_F5_02.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringHighE_Vel02Pick_Fs5_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_HighE_F#5_02.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringHighE_Vel02Pick_G5_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_HighE_G5_02.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringHighE_Vel02Pick_Gs5_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_HighE_G#5_02.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringHighE_Vel02Pick_A5_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_HighE_A5_02.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringHighE_Vel02Pick_As5_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_HighE_A#5_02.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringHighE_Vel02Pick_B5_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_HighE_B5_02.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringHighE_Vel03Pick_E4_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_HighE_E4_01.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringHighE_Vel03Pick_F4_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_HighE_F4_01.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringHighE_Vel03Pick_Fs4_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_HighE_F#4_01.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringHighE_Vel03Pick_G4_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_HighE_G4_01.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringHighE_Vel03Pick_Gs4_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_HighE_G#4_01.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringHighE_Vel03Pick_A4_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_HighE_A4_01.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringHighE_Vel03Pick_As4_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_HighE_A#4_01.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringHighE_Vel03Pick_B4_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_HighE_B4_01.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringHighE_Vel03Pick_C5_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_HighE_C5_01.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringHighE_Vel03Pick_Cs5_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_HighE_C#5_01.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringHighE_Vel03Pick_D5_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_HighE_D5_01.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringHighE_Vel03Pick_Ds5_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_HighE_D#5_01.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringHighE_Vel03Pick_E5_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_HighE_E5_01.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringHighE_Vel03Pick_F5_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_HighE_F5_01.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringHighE_Vel03Pick_Fs5_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_HighE_F#5_01.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringHighE_Vel03Pick_G5_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_HighE_G5_01.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringHighE_Vel03Pick_Gs5_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_HighE_G#5_01.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringHighE_Vel03Pick_A5_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_HighE_A5_01.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringHighE_Vel03Pick_As5_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_HighE_A#5_01.wav"
+    },
+    {
+      "file": "INSGuitarNylon_StringHighE_Vel03Pick_B5_01.wav",
+      "original_name": "MetaMix_NylonGuitar_Samples_HighE_B5_01.wav"
+    }
+  ],
+  "ogg_dir": "ogg"
+}

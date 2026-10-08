@@ -1,0 +1,1139 @@
+{
+  "id": "meta-steel-guitar",
+  "name": "Meta Steel Guitar",
+  "category": "instruments",
+  "format": "wav",
+  "web_formats": [
+    "ogg"
+  ],
+  "sample_rate": 48000,
+  "bit_depth": 24,
+  "samples": [
+    {
+      "file": "INSGuitarSteel_StringA_Vel01_A2_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringA_Vel01_A3_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringA_Vel01_As2_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringA_Vel01_As3_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringA_Vel01_B2_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringA_Vel01_B3_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringA_Vel01_C3_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringA_Vel01_C4_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringA_Vel01_Cs3_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringA_Vel01_Cs4_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringA_Vel01_D3_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringA_Vel01_D4_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringA_Vel01_Ds3_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringA_Vel01_Ds4_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringA_Vel01_E3_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringA_Vel01_E4_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringA_Vel01_F3_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringA_Vel01_F4_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringA_Vel01_Fs3_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringA_Vel01_G3_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringA_Vel01_Gs3_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringA_Vel02_A2_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringA_Vel02_A3_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringA_Vel02_As2_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringA_Vel02_As3_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringA_Vel02_B2_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringA_Vel02_B3_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringA_Vel02_C3_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringA_Vel02_C4_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringA_Vel02_Cs3_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringA_Vel02_Cs4_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringA_Vel02_D3_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringA_Vel02_D4_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringA_Vel02_Ds3_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringA_Vel02_Ds4_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringA_Vel02_E3_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringA_Vel02_E4_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringA_Vel02_F3_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringA_Vel02_F4_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringA_Vel02_Fs3_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringA_Vel02_G3_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringA_Vel02_Gs3_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringA_Vel03_A2_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringA_Vel03_A3_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringA_Vel03_As2_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringA_Vel03_As3_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringA_Vel03_B2_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringA_Vel03_B3_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringA_Vel03_C3_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringA_Vel03_C4_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringA_Vel03_Cs3_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringA_Vel03_Cs4_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringA_Vel03_D3_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringA_Vel03_D4_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringA_Vel03_Ds3_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringA_Vel03_Ds4_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringA_Vel03_E3_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringA_Vel03_E4_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringA_Vel03_F3_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringA_Vel03_F4_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringA_Vel03_Fs3_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringA_Vel03_G3_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringA_Vel03_Gs3_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringB_Vel01_A4_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringB_Vel01_As4_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringB_Vel01_B3_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringB_Vel01_B4_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringB_Vel01_C4_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringB_Vel01_C5_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringB_Vel01_Cs4_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringB_Vel01_Cs5_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringB_Vel01_D4_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringB_Vel01_D5_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringB_Vel01_Ds4_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringB_Vel01_Ds5_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringB_Vel01_E4_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringB_Vel01_E5_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringB_Vel01_F4_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringB_Vel01_F5_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringB_Vel01_Fs4_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringB_Vel01_Fs5_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringB_Vel01_G4_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringB_Vel01_G5_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringB_Vel01_Gs4_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringB_Vel02_A4_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringB_Vel02_As4_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringB_Vel02_B3_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringB_Vel02_B4_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringB_Vel02_C4_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringB_Vel02_C5_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringB_Vel02_Cs4_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringB_Vel02_Cs5_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringB_Vel02_D4_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringB_Vel02_D5_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringB_Vel02_Ds4_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringB_Vel02_Ds5_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringB_Vel02_E4_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringB_Vel02_E5_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringB_Vel02_F4_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringB_Vel02_F5_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringB_Vel02_Fs4_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringB_Vel02_Fs5_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringB_Vel02_G4_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringB_Vel02_G5_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringB_Vel02_Gs4_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringB_Vel03_A4_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringB_Vel03_As4_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringB_Vel03_B3_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringB_Vel03_B4_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringB_Vel03_C4_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringB_Vel03_C5_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringB_Vel03_Cs4_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringB_Vel03_Cs5_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringB_Vel03_D4_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringB_Vel03_D5_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringB_Vel03_Ds4_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringB_Vel03_Ds5_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringB_Vel03_E4_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringB_Vel03_E5_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringB_Vel03_F4_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringB_Vel03_F5_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringB_Vel03_Fs4_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringB_Vel03_Fs5_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringB_Vel03_G4_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringB_Vel03_G5_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringB_Vel03_Gs4_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringD_Vel01_A3_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringD_Vel01_A4_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringD_Vel01_As3_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringD_Vel01_As4_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringD_Vel01_B3_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringD_Vel01_C4_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringD_Vel01_Cs4_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringD_Vel01_D3_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringD_Vel01_D4_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringD_Vel01_Ds3_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringD_Vel01_Ds4_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringD_Vel01_E3_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringD_Vel01_E4_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringD_Vel01_F3_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringD_Vel01_F4_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringD_Vel01_Fs3_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringD_Vel01_Fs4_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringD_Vel01_G3_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringD_Vel01_G4_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringD_Vel01_Gs3_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringD_Vel01_Gs4_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringD_Vel02_A3_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringD_Vel02_A4_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringD_Vel02_As3_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringD_Vel02_As4_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringD_Vel02_B3_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringD_Vel02_C4_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringD_Vel02_Cs4_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringD_Vel02_D3_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringD_Vel02_D4_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringD_Vel02_Ds3_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringD_Vel02_Ds4_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringD_Vel02_E3_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringD_Vel02_E4_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringD_Vel02_F3_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringD_Vel02_F4_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringD_Vel02_Fs3_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringD_Vel02_Fs4_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringD_Vel02_G3_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringD_Vel02_G4_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringD_Vel02_Gs3_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringD_Vel02_Gs4_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringD_Vel03_A3_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringD_Vel03_A4_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringD_Vel03_As3_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringD_Vel03_As4_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringD_Vel03_B3_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringD_Vel03_C4_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringD_Vel03_Cs4_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringD_Vel03_D3_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringD_Vel03_D4_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringD_Vel03_Ds3_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringD_Vel03_Ds4_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringD_Vel03_E3_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringD_Vel03_E4_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringD_Vel03_F3_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringD_Vel03_F4_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringD_Vel03_Fs3_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringD_Vel03_Fs4_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringD_Vel03_G3_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringD_Vel03_G4_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringD_Vel03_Gs3_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringD_Vel03_Gs4_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringG_Vel01_A3_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringG_Vel01_A4_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringG_Vel01_As3_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringG_Vel01_As4_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringG_Vel01_B3_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringG_Vel01_B4_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringG_Vel01_C4_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringG_Vel01_C5_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringG_Vel01_Cs4_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringG_Vel01_Cs5_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringG_Vel01_D4_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringG_Vel01_D5_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringG_Vel01_Ds4_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringG_Vel01_Ds5_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringG_Vel01_E4_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringG_Vel01_F4_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringG_Vel01_Fs4_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringG_Vel01_G3_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringG_Vel01_G4_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringG_Vel01_Gs3_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringG_Vel01_Gs4_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringG_Vel02_A3_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringG_Vel02_A4_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringG_Vel02_As3_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringG_Vel02_As4_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringG_Vel02_B3_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringG_Vel02_B4_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringG_Vel02_C4_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringG_Vel02_C5_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringG_Vel02_Cs4_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringG_Vel02_Cs5_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringG_Vel02_D4_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringG_Vel02_D5_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringG_Vel02_Ds4_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringG_Vel02_Ds5_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringG_Vel02_E4_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringG_Vel02_F4_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringG_Vel02_Fs4_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringG_Vel02_G3_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringG_Vel02_G4_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringG_Vel02_Gs3_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringG_Vel02_Gs4_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringG_Vel03_A3_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringG_Vel03_A4_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringG_Vel03_As3_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringG_Vel03_As4_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringG_Vel03_B3_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringG_Vel03_B4_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringG_Vel03_C4_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringG_Vel03_C5_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringG_Vel03_Cs4_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringG_Vel03_Cs5_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringG_Vel03_D4_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringG_Vel03_D5_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringG_Vel03_Ds4_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringG_Vel03_Ds5_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringG_Vel03_E4_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringG_Vel03_F4_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringG_Vel03_Fs4_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringG_Vel03_G3_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringG_Vel03_G4_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringG_Vel03_Gs3_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringG_Vel03_Gs4_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringHighE_Vel01_A4_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringHighE_Vel01_A5_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringHighE_Vel01_As4_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringHighE_Vel01_As5_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringHighE_Vel01_B4_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringHighE_Vel01_B5_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringHighE_Vel01_C5_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringHighE_Vel01_C6_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringHighE_Vel01_Cs5_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringHighE_Vel01_D5_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringHighE_Vel01_Ds5_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringHighE_Vel01_E4_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringHighE_Vel01_E5_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringHighE_Vel01_F4_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringHighE_Vel01_F5_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringHighE_Vel01_Fs4_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringHighE_Vel01_Fs5_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringHighE_Vel01_G4_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringHighE_Vel01_G5_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringHighE_Vel01_Gs4_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringHighE_Vel01_Gs5_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringHighE_Vel02_A4_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringHighE_Vel02_A5_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringHighE_Vel02_As4_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringHighE_Vel02_As5_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringHighE_Vel02_B4_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringHighE_Vel02_B5_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringHighE_Vel02_C5_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringHighE_Vel02_C6_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringHighE_Vel02_Cs5_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringHighE_Vel02_D5_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringHighE_Vel02_Ds5_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringHighE_Vel02_E4_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringHighE_Vel02_E5_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringHighE_Vel02_F4_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringHighE_Vel02_F5_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringHighE_Vel02_Fs4_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringHighE_Vel02_Fs5_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringHighE_Vel02_G4_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringHighE_Vel02_G5_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringHighE_Vel02_Gs4_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringHighE_Vel02_Gs5_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringHighE_Vel03_A4_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringHighE_Vel03_A5_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringHighE_Vel03_As4_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringHighE_Vel03_As5_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringHighE_Vel03_B4_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringHighE_Vel03_B5_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringHighE_Vel03_C5_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringHighE_Vel03_C6_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringHighE_Vel03_Cs5_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringHighE_Vel03_D5_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringHighE_Vel03_Ds5_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringHighE_Vel03_E4_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringHighE_Vel03_E5_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringHighE_Vel03_F4_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringHighE_Vel03_F5_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringHighE_Vel03_Fs4_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringHighE_Vel03_Fs5_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringHighE_Vel03_G4_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringHighE_Vel03_G5_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringHighE_Vel03_Gs4_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringHighE_Vel03_Gs5_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringLowE_Vel01_A2_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringLowE_Vel01_A3_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringLowE_Vel01_As2_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringLowE_Vel01_As3_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringLowE_Vel01_B3_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringLowE_Vel01_C3_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringLowE_Vel01_C4_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringLowE_Vel01_Cs3_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringLowE_Vel01_D3_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringLowE_Vel01_Ds3_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringLowE_Vel01_E2_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringLowE_Vel01_E3_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringLowE_Vel01_F2_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringLowE_Vel01_F3_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringLowE_Vel01_Fs2_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringLowE_Vel01_Fs3_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringLowE_Vel01_G2_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringLowE_Vel01_G3_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringLowE_Vel01_Gs2_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringLowE_Vel01_Gs3_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringLowE_Vel02_A2_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringLowE_Vel02_A3_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringLowE_Vel02_As2_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringLowE_Vel02_As3_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringLowE_Vel02_B3_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringLowE_Vel02_C3_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringLowE_Vel02_C4_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringLowE_Vel02_Cs3_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringLowE_Vel02_D3_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringLowE_Vel02_Ds3_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringLowE_Vel02_E2_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringLowE_Vel02_E3_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringLowE_Vel02_F2_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringLowE_Vel02_F3_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringLowE_Vel02_Fs2_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringLowE_Vel02_Fs3_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringLowE_Vel02_G2_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringLowE_Vel02_G3_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringLowE_Vel02_Gs2_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringLowE_Vel02_Gs3_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringLowE_Vel03_A2_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringLowE_Vel03_A3_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringLowE_Vel03_As2_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringLowE_Vel03_As3_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringLowE_Vel03_B3_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringLowE_Vel03_C3_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringLowE_Vel03_C4_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringLowE_Vel03_Cs3_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringLowE_Vel03_D3_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringLowE_Vel03_Ds3_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringLowE_Vel03_E2_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringLowE_Vel03_E3_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringLowE_Vel03_F2_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringLowE_Vel03_F3_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringLowE_Vel03_Fs2_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringLowE_Vel03_Fs3_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringLowE_Vel03_G2_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringLowE_Vel03_G3_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringLowE_Vel03_Gs2_01.wav"
+    },
+    {
+      "file": "INSGuitarSteel_StringLowE_Vel03_Gs3_01.wav"
+    }
+  ],
+  "ogg_dir": "ogg"
+}
