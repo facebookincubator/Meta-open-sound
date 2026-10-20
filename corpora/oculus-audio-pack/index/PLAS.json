@@ -1,0 +1,310 @@
+{
+  "schema_version": "1.0.0",
+  "collection": "oculus-audio-pack",
+  "cat_short": "PLAS",
+  "license": "CC-BY-4.0",
+  "attribution": "\"Oculus Audio Pack 01\" by Oculus VR, LLC (https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/), licensed under CC BY 4.0. Files renamed to the UCS naming convention; OGG previews transcoded from the original WAVs.",
+  "sounds": [
+    {
+      "id": "PLASImpt_PlasticBottleDrop_OS_01",
+      "ucs": {
+        "cat_id": "PLASImpt",
+        "category": "PLASTIC",
+        "subcategory": "IMPACT",
+        "confidence": "machine"
+      },
+      "summary": "Use for: a plastic bottle dropped on the floor: a hollow plastic bounce and roll.",
+      "keywords": [
+        "abs",
+        "acetate",
+        "acrylic",
+        "bang",
+        "banging",
+        "bash",
+        "bump",
+        "chloride",
+        "clap",
+        "collide",
+        "colliding",
+        "crash",
+        "crashing",
+        "drop",
+        "dropped",
+        "hdpe",
+        "hit",
+        "hitting",
+        "impact",
+        "impacting",
+        "jolt",
+        "knock",
+        "nylon",
+        "polycarbonate",
+        "polypropylene",
+        "polystyrene",
+        "polyvinyl",
+        "pound",
+        "punch",
+        "pvc",
+        "ram",
+        "slam",
+        "slamming",
+        "smack",
+        "smacking",
+        "strike",
+        "striking",
+        "thrust",
+        "thump",
+        "plastic",
+        "action",
+        "bottle"
+      ],
+      "classification": {
+        "asset_format": "Oneshot",
+        "loop": false
+      },
+      "takes": [
+        {
+          "file": "PLASImpt_PlasticBottleDrop_OS_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 1.201
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "action_plastic_bottle_drop",
+        "source_collection": "02_floors_footsteps_body_mvmt_impacts_actions_etc"
+      }
+    },
+    {
+      "id": "PLASImpt_PlasticCupDrop_OS_01",
+      "ucs": {
+        "cat_id": "PLASImpt",
+        "category": "PLASTIC",
+        "subcategory": "IMPACT",
+        "confidence": "machine"
+      },
+      "summary": "Use for: a plastic cup dropped on the floor: a light hollow plastic bounce, kitchen or party foley.",
+      "keywords": [
+        "abs",
+        "acetate",
+        "acrylic",
+        "bang",
+        "banging",
+        "bash",
+        "bump",
+        "chloride",
+        "clap",
+        "collide",
+        "colliding",
+        "crash",
+        "crashing",
+        "drop",
+        "dropped",
+        "hdpe",
+        "hit",
+        "hitting",
+        "impact",
+        "impacting",
+        "jolt",
+        "knock",
+        "nylon",
+        "polycarbonate",
+        "polypropylene",
+        "polystyrene",
+        "polyvinyl",
+        "pound",
+        "punch",
+        "pvc",
+        "ram",
+        "slam",
+        "slamming",
+        "smack",
+        "smacking",
+        "strike",
+        "striking",
+        "thrust",
+        "thump",
+        "plastic",
+        "action",
+        "cup"
+      ],
+      "classification": {
+        "asset_format": "Oneshot",
+        "loop": false
+      },
+      "takes": [
+        {
+          "file": "PLASImpt_PlasticCupDrop_OS_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 1.111
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "action_drop_plastic_cup",
+        "source_collection": "02_floors_footsteps_body_mvmt_impacts_actions_etc"
+      }
+    },
+    {
+      "id": "PLASImpt_PlasticObjDrop_OS_01",
+      "ucs": {
+        "cat_id": "PLASImpt",
+        "category": "PLASTIC",
+        "subcategory": "IMPACT",
+        "confidence": "machine"
+      },
+      "summary": "Use for: a small plastic object dropped on the floor: generic plastic prop drop.",
+      "keywords": [
+        "abs",
+        "acetate",
+        "acrylic",
+        "bang",
+        "banging",
+        "bash",
+        "bump",
+        "chloride",
+        "clap",
+        "collide",
+        "colliding",
+        "crash",
+        "crashing",
+        "drop",
+        "dropped",
+        "hdpe",
+        "hit",
+        "hitting",
+        "impact",
+        "impacting",
+        "jolt",
+        "knock",
+        "nylon",
+        "polycarbonate",
+        "polypropylene",
+        "polystyrene",
+        "polyvinyl",
+        "pound",
+        "punch",
+        "pvc",
+        "ram",
+        "slam",
+        "slamming",
+        "smack",
+        "smacking",
+        "strike",
+        "striking",
+        "thrust",
+        "thump",
+        "plastic",
+        "action",
+        "obj"
+      ],
+      "classification": {
+        "asset_format": "Oneshot",
+        "loop": false
+      },
+      "takes": [
+        {
+          "file": "PLASImpt_PlasticObjDrop_OS_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 0.526
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "action_drop_plastic_obj",
+        "source_collection": "02_floors_footsteps_body_mvmt_impacts_actions_etc"
+      }
+    },
+    {
+      "id": "PLASImpt_PlasticObjOnMetalDrop_OS_01",
+      "ucs": {
+        "cat_id": "PLASImpt",
+        "category": "PLASTIC",
+        "subcategory": "IMPACT",
+        "confidence": "machine"
+      },
+      "summary": "Use for: a plastic object dropped onto a metal surface: a plastic prop landing on a workbench or a metal floor.",
+      "keywords": [
+        "abs",
+        "acetate",
+        "acrylic",
+        "bang",
+        "banging",
+        "bash",
+        "bump",
+        "chloride",
+        "clap",
+        "collide",
+        "colliding",
+        "crash",
+        "crashing",
+        "drop",
+        "dropped",
+        "hdpe",
+        "hit",
+        "hitting",
+        "impact",
+        "impacting",
+        "jolt",
+        "knock",
+        "nylon",
+        "polycarbonate",
+        "polypropylene",
+        "polystyrene",
+        "polyvinyl",
+        "pound",
+        "punch",
+        "pvc",
+        "ram",
+        "slam",
+        "slamming",
+        "smack",
+        "smacking",
+        "strike",
+        "striking",
+        "thrust",
+        "thump",
+        "plastic",
+        "action",
+        "obj",
+        "metal"
+      ],
+      "classification": {
+        "asset_format": "Oneshot",
+        "loop": false
+      },
+      "takes": [
+        {
+          "file": "PLASImpt_PlasticObjOnMetalDrop_OS_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 0.953
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "action_drop_plastic_obj_on_metal",
+        "source_collection": "02_floors_footsteps_body_mvmt_impacts_actions_etc"
+      }
+    }
+  ]
+}

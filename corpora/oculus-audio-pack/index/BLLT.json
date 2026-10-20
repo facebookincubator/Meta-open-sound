@@ -1,0 +1,186 @@
+{
+  "schema_version": "1.0.0",
+  "collection": "oculus-audio-pack",
+  "cat_short": "BLLT",
+  "license": "CC-BY-4.0",
+  "attribution": "\"Oculus Audio Pack 01\" by Oculus VR, LLC (https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/), licensed under CC BY 4.0. Files renamed to the UCS naming convention; OGG previews transcoded from the original WAVs.",
+  "sounds": [
+    {
+      "id": "BLLTShel_ShellCasingConcrete_OS_01",
+      "ucs": {
+        "cat_id": "BLLTShel",
+        "category": "BULLETS",
+        "subcategory": "SHELL",
+        "confidence": "machine"
+      },
+      "summary": "Use for: spent bullet casings bouncing on concrete: gunfire aftermath, ejected brass in an urban or indoor shooter.",
+      "keywords": [
+        "ammo",
+        "ammunition",
+        "cartridge",
+        "casing",
+        "eject",
+        "housing",
+        "shell",
+        "bullets",
+        "action",
+        "concrete"
+      ],
+      "classification": {
+        "asset_format": "Shuffle",
+        "loop": false
+      },
+      "takes": [
+        {
+          "file": "BLLTShel_ShellCasingConcrete_OS_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 1.016
+        },
+        {
+          "file": "BLLTShel_ShellCasingConcrete_OS_02.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 0.921
+        },
+        {
+          "file": "BLLTShel_ShellCasingConcrete_OS_03.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 0.866
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "action_shell_casing_on_concrete",
+        "source_collection": "02_floors_footsteps_body_mvmt_impacts_actions_etc"
+      }
+    },
+    {
+      "id": "BLLTShel_ShellCasingGrass_OS_01",
+      "ucs": {
+        "cat_id": "BLLTShel",
+        "category": "BULLETS",
+        "subcategory": "SHELL",
+        "confidence": "machine"
+      },
+      "summary": "Use for: spent bullet casings landing on grass: soft muted brass drops for outdoor gunfire.",
+      "keywords": [
+        "ammo",
+        "ammunition",
+        "cartridge",
+        "casing",
+        "eject",
+        "housing",
+        "shell",
+        "bullets",
+        "action",
+        "grass"
+      ],
+      "classification": {
+        "asset_format": "Shuffle",
+        "loop": false
+      },
+      "takes": [
+        {
+          "file": "BLLTShel_ShellCasingGrass_OS_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 0.485
+        },
+        {
+          "file": "BLLTShel_ShellCasingGrass_OS_02.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 0.611
+        },
+        {
+          "file": "BLLTShel_ShellCasingGrass_OS_03.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 0.847
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "action_shell_casing_on_grass",
+        "source_collection": "02_floors_footsteps_body_mvmt_impacts_actions_etc"
+      }
+    },
+    {
+      "id": "BLLTShel_ShellCasingMetal_OS_01",
+      "ucs": {
+        "cat_id": "BLLTShel",
+        "category": "BULLETS",
+        "subcategory": "SHELL",
+        "confidence": "machine"
+      },
+      "summary": "Use for: spent bullet casings bouncing on metal: bright brass tinkles on a metal floor, catwalk or vehicle.",
+      "keywords": [
+        "ammo",
+        "ammunition",
+        "cartridge",
+        "casing",
+        "eject",
+        "housing",
+        "shell",
+        "bullets",
+        "action",
+        "metal"
+      ],
+      "classification": {
+        "asset_format": "Shuffle",
+        "loop": false
+      },
+      "takes": [
+        {
+          "file": "BLLTShel_ShellCasingMetal_OS_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 0.678
+        },
+        {
+          "file": "BLLTShel_ShellCasingMetal_OS_02.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 1.03
+        },
+        {
+          "file": "BLLTShel_ShellCasingMetal_OS_03.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 0.844
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "action_shell_casing_on_metal",
+        "source_collection": "02_floors_footsteps_body_mvmt_impacts_actions_etc"
+      }
+    }
+  ]
+}

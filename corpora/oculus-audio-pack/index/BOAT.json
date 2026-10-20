@@ -1,0 +1,99 @@
+{
+  "schema_version": "1.0.0",
+  "collection": "oculus-audio-pack",
+  "cat_short": "BOAT",
+  "license": "CC-BY-4.0",
+  "attribution": "\"Oculus Audio Pack 01\" by Oculus VR, LLC (https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/), licensed under CC BY 4.0. Files renamed to the UCS naming convention; OGG previews transcoded from the original WAVs.",
+  "sounds": [
+    {
+      "id": "BOATRow_RowboatOarRowing_OS_01",
+      "ucs": {
+        "cat_id": "BOATRow",
+        "category": "BOATS",
+        "subcategory": "ROWBOAT",
+        "confidence": "machine"
+      },
+      "summary": "Use for: rowing a boat with oars: oar strokes and water swirls on a lake or river.",
+      "keywords": [
+        "canoe",
+        "canoes",
+        "cutter",
+        "dinghy",
+        "dory",
+        "gondola",
+        "inflatable",
+        "jon",
+        "kayak",
+        "lifeboat",
+        "longboat",
+        "oar",
+        "outrigger",
+        "paddle",
+        "punt",
+        "raft",
+        "row",
+        "rowboat",
+        "scow",
+        "scull",
+        "skiff",
+        "wherry",
+        "boats",
+        "ambient",
+        "rowing"
+      ],
+      "classification": {
+        "asset_format": "Shuffle",
+        "loop": false
+      },
+      "takes": [
+        {
+          "file": "BOATRow_RowboatOarRowing_OS_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 3.111
+        },
+        {
+          "file": "BOATRow_RowboatOarRowing_OS_02.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 3.322
+        },
+        {
+          "file": "BOATRow_RowboatOarRowing_OS_03.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 3.565
+        },
+        {
+          "file": "BOATRow_RowboatOarRowing_OS_04.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 3.654
+        },
+        {
+          "file": "BOATRow_RowboatOarRowing_OS_05.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 3.544
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "ambient_rowboat_oar_rowing",
+        "source_collection": "03_weather_ambience_etc"
+      }
+    }
+  ]
+}

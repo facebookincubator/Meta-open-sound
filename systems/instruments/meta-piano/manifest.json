@@ -1066,5 +1066,6 @@
       "file": "INSPiano_Vel04_C8_01.wav"
     }
   ],
-  "ogg_dir": "ogg"
+  "ogg_dir": "ogg",
+  "license": "CC0-1.0"
 }

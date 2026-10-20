@@ -1,0 +1,2320 @@
+{
+  "schema_version": "1.0.0",
+  "collection": "oculus-audio-pack",
+  "cat_short": "UI",
+  "license": "CC-BY-4.0",
+  "attribution": "\"Oculus Audio Pack 01\" by Oculus VR, LLC (https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/), licensed under CC BY 4.0. Files renamed to the UCS naming convention; OGG previews transcoded from the original WAVs.",
+  "sounds": [
+    {
+      "id": "UIAlert_CasualMusicalError_OS_01",
+      "ucs": {
+        "cat_id": "UIAlert",
+        "category": "USER INTERFACE",
+        "subcategory": "ALERT",
+        "confidence": "machine"
+      },
+      "summary": "Use for: an error or invalid action in a casual, musical UI theme. Pairs with the other CasualMusical back/close/confirm/error/open sounds.",
+      "keywords": [
+        "advisory",
+        "alarm",
+        "alert",
+        "alertness",
+        "attention",
+        "blip",
+        "caution",
+        "gui",
+        "message",
+        "notice",
+        "notification",
+        "pop-up",
+        "prompt",
+        "signal",
+        "sound",
+        "startup",
+        "text",
+        "tone",
+        "ui",
+        "ux",
+        "warning",
+        "user interface",
+        "casual",
+        "musical",
+        "error"
+      ],
+      "classification": {
+        "asset_format": "Oneshot",
+        "loop": false
+      },
+      "takes": [
+        {
+          "file": "UIAlert_CasualMusicalError_OS_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 1.249
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "ui_casual_musical_error",
+        "source_collection": "05_user_interface"
+      }
+    },
+    {
+      "id": "UIAlert_CasualPopsError_OS_01",
+      "ucs": {
+        "cat_id": "UIAlert",
+        "category": "USER INTERFACE",
+        "subcategory": "ALERT",
+        "confidence": "machine"
+      },
+      "summary": "Use for: an error or invalid action in a casual, poppy UI theme. Pairs with the other CasualPops back/close/confirm/error/open sounds.",
+      "keywords": [
+        "advisory",
+        "alarm",
+        "alert",
+        "alertness",
+        "attention",
+        "blip",
+        "caution",
+        "gui",
+        "message",
+        "notice",
+        "notification",
+        "pop-up",
+        "prompt",
+        "signal",
+        "sound",
+        "startup",
+        "text",
+        "tone",
+        "ui",
+        "ux",
+        "warning",
+        "user interface",
+        "casual",
+        "pops",
+        "error"
+      ],
+      "classification": {
+        "asset_format": "Oneshot",
+        "loop": false
+      },
+      "takes": [
+        {
+          "file": "UIAlert_CasualPopsError_OS_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 0.451
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "ui_casual_pops_error",
+        "source_collection": "05_user_interface"
+      }
+    },
+    {
+      "id": "UIAlert_MagicalError_OS_01",
+      "ucs": {
+        "cat_id": "UIAlert",
+        "category": "USER INTERFACE",
+        "subcategory": "ALERT",
+        "confidence": "machine"
+      },
+      "summary": "Use for: an error or invalid action in a magical, shimmering UI theme. Pairs with the other Magical back/close/confirm/error/open sounds.",
+      "keywords": [
+        "advisory",
+        "alarm",
+        "alert",
+        "alertness",
+        "attention",
+        "blip",
+        "caution",
+        "gui",
+        "message",
+        "notice",
+        "notification",
+        "pop-up",
+        "prompt",
+        "signal",
+        "sound",
+        "startup",
+        "text",
+        "tone",
+        "ui",
+        "ux",
+        "warning",
+        "user interface",
+        "magical",
+        "error"
+      ],
+      "classification": {
+        "asset_format": "Oneshot",
+        "loop": false
+      },
+      "takes": [
+        {
+          "file": "UIAlert_MagicalError_OS_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 1.427
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "ui_magical_error",
+        "source_collection": "05_user_interface"
+      }
+    },
+    {
+      "id": "UIAlert_MetalError_OS_01",
+      "ucs": {
+        "cat_id": "UIAlert",
+        "category": "USER INTERFACE",
+        "subcategory": "ALERT",
+        "confidence": "machine"
+      },
+      "summary": "Use for: an error or invalid action in a metallic UI theme. Pairs with the other Metal back/close/confirm/error/open sounds.",
+      "keywords": [
+        "advisory",
+        "alarm",
+        "alert",
+        "alertness",
+        "attention",
+        "blip",
+        "caution",
+        "gui",
+        "message",
+        "notice",
+        "notification",
+        "pop-up",
+        "prompt",
+        "signal",
+        "sound",
+        "startup",
+        "text",
+        "tone",
+        "ui",
+        "ux",
+        "warning",
+        "user interface",
+        "metal",
+        "error"
+      ],
+      "classification": {
+        "asset_format": "Oneshot",
+        "loop": false
+      },
+      "takes": [
+        {
+          "file": "UIAlert_MetalError_OS_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 0.535
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "ui_metal_error",
+        "source_collection": "05_user_interface"
+      }
+    },
+    {
+      "id": "UIAlert_MusicTone_OS_01",
+      "ucs": {
+        "cat_id": "UIAlert",
+        "category": "USER INTERFACE",
+        "subcategory": "ALERT",
+        "confidence": "machine"
+      },
+      "summary": "Use for: a short musical tone: a chime for feedback, a notification or a menu highlight.",
+      "keywords": [
+        "advisory",
+        "alarm",
+        "alert",
+        "alertness",
+        "attention",
+        "blip",
+        "caution",
+        "gui",
+        "message",
+        "notice",
+        "notification",
+        "pop-up",
+        "prompt",
+        "signal",
+        "sound",
+        "startup",
+        "text",
+        "tone",
+        "ui",
+        "ux",
+        "warning",
+        "user interface",
+        "music"
+      ],
+      "classification": {
+        "asset_format": "Shuffle",
+        "loop": false
+      },
+      "takes": [
+        {
+          "file": "UIAlert_MusicTone_OS_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 3.441
+        },
+        {
+          "file": "UIAlert_MusicTone_OS_02.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 3.49
+        },
+        {
+          "file": "UIAlert_MusicTone_OS_03.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 3.627
+        },
+        {
+          "file": "UIAlert_MusicTone_OS_04.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 3.429
+        },
+        {
+          "file": "UIAlert_MusicTone_OS_05.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 3.554
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "ui_music_tone",
+        "source_collection": "05_user_interface"
+      }
+    },
+    {
+      "id": "UIAlert_Notification_OS_01",
+      "ucs": {
+        "cat_id": "UIAlert",
+        "category": "USER INTERFACE",
+        "subcategory": "ALERT",
+        "confidence": "machine"
+      },
+      "summary": "Use for: a notification chime: a new message, an alert or a toast.",
+      "keywords": [
+        "advisory",
+        "alarm",
+        "alert",
+        "alertness",
+        "attention",
+        "blip",
+        "caution",
+        "gui",
+        "message",
+        "notice",
+        "notification",
+        "pop-up",
+        "prompt",
+        "signal",
+        "sound",
+        "startup",
+        "text",
+        "tone",
+        "ui",
+        "ux",
+        "warning",
+        "user interface"
+      ],
+      "classification": {
+        "asset_format": "Shuffle",
+        "loop": false
+      },
+      "takes": [
+        {
+          "file": "UIAlert_Notification_OS_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 0.16
+        },
+        {
+          "file": "UIAlert_Notification_OS_02.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 1.14
+        },
+        {
+          "file": "UIAlert_Notification_OS_03.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 0.535
+        },
+        {
+          "file": "UIAlert_Notification_OS_04.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 0.191
+        },
+        {
+          "file": "UIAlert_Notification_OS_05.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 0.246
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "ui_notification",
+        "source_collection": "05_user_interface"
+      }
+    },
+    {
+      "id": "UIAlert_ScifiHightechError_OS_01",
+      "ucs": {
+        "cat_id": "UIAlert",
+        "category": "USER INTERFACE",
+        "subcategory": "ALERT",
+        "confidence": "machine"
+      },
+      "summary": "Use for: an error or invalid action in a high-tech sci-fi UI theme. Pairs with the other ScifiHightech back/close/confirm/error/open sounds.",
+      "keywords": [
+        "advisory",
+        "alarm",
+        "alert",
+        "alertness",
+        "attention",
+        "blip",
+        "caution",
+        "gui",
+        "message",
+        "notice",
+        "notification",
+        "pop-up",
+        "prompt",
+        "signal",
+        "sound",
+        "startup",
+        "text",
+        "tone",
+        "ui",
+        "ux",
+        "warning",
+        "user interface",
+        "scifi",
+        "hightech",
+        "error"
+      ],
+      "classification": {
+        "asset_format": "Oneshot",
+        "loop": false
+      },
+      "takes": [
+        {
+          "file": "UIAlert_ScifiHightechError_OS_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 0.243
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "ui_scifi_hightech_error",
+        "source_collection": "05_user_interface"
+      }
+    },
+    {
+      "id": "UIAlert_ScifiTraditionalError_OS_01",
+      "ucs": {
+        "cat_id": "UIAlert",
+        "category": "USER INTERFACE",
+        "subcategory": "ALERT",
+        "confidence": "machine"
+      },
+      "summary": "Use for: an error or invalid action in a classic sci-fi UI theme. Pairs with the other ScifiTraditional back/close/confirm/error/open sounds.",
+      "keywords": [
+        "advisory",
+        "alarm",
+        "alert",
+        "alertness",
+        "attention",
+        "blip",
+        "caution",
+        "gui",
+        "message",
+        "notice",
+        "notification",
+        "pop-up",
+        "prompt",
+        "signal",
+        "sound",
+        "startup",
+        "text",
+        "tone",
+        "ui",
+        "ux",
+        "warning",
+        "user interface",
+        "scifi",
+        "traditional",
+        "error"
+      ],
+      "classification": {
+        "asset_format": "Oneshot",
+        "loop": false
+      },
+      "takes": [
+        {
+          "file": "UIAlert_ScifiTraditionalError_OS_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 1.55
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "ui_scifi_traditional_error",
+        "source_collection": "05_user_interface"
+      }
+    },
+    {
+      "id": "UIAlert_WoodError_OS_01",
+      "ucs": {
+        "cat_id": "UIAlert",
+        "category": "USER INTERFACE",
+        "subcategory": "ALERT",
+        "confidence": "machine"
+      },
+      "summary": "Use for: an error or invalid action in a wooden, organic UI theme. Pairs with the other Wood back/close/confirm/error/open sounds.",
+      "keywords": [
+        "advisory",
+        "alarm",
+        "alert",
+        "alertness",
+        "attention",
+        "blip",
+        "caution",
+        "gui",
+        "message",
+        "notice",
+        "notification",
+        "pop-up",
+        "prompt",
+        "signal",
+        "sound",
+        "startup",
+        "text",
+        "tone",
+        "ui",
+        "ux",
+        "warning",
+        "user interface",
+        "wood",
+        "error"
+      ],
+      "classification": {
+        "asset_format": "Oneshot",
+        "loop": false
+      },
+      "takes": [
+        {
+          "file": "UIAlert_WoodError_OS_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 0.401
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "ui_wood_error",
+        "source_collection": "05_user_interface"
+      }
+    },
+    {
+      "id": "UIClick_CasualMusicalBack_OS_01",
+      "ucs": {
+        "cat_id": "UIClick",
+        "category": "USER INTERFACE",
+        "subcategory": "CLICK",
+        "confidence": "machine"
+      },
+      "summary": "Use for: navigating back in a casual, musical UI theme. Pairs with the other CasualMusical back/close/confirm/error/open sounds.",
+      "keywords": [
+        "button",
+        "choose",
+        "click",
+        "gui",
+        "interaction",
+        "interface",
+        "menu",
+        "navigation",
+        "pick",
+        "press",
+        "select",
+        "tap",
+        "type",
+        "ui",
+        "ux",
+        "user interface",
+        "casual",
+        "musical",
+        "back"
+      ],
+      "classification": {
+        "asset_format": "Oneshot",
+        "loop": false
+      },
+      "takes": [
+        {
+          "file": "UIClick_CasualMusicalBack_OS_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 0.744
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "ui_casual_musical_back",
+        "source_collection": "05_user_interface"
+      }
+    },
+    {
+      "id": "UIClick_CasualMusicalClose_OS_01",
+      "ucs": {
+        "cat_id": "UIClick",
+        "category": "USER INTERFACE",
+        "subcategory": "CLICK",
+        "confidence": "machine"
+      },
+      "summary": "Use for: closing a menu or panel in a casual, musical UI theme. Pairs with the other CasualMusical back/close/confirm/error/open sounds.",
+      "keywords": [
+        "button",
+        "choose",
+        "click",
+        "gui",
+        "interaction",
+        "interface",
+        "menu",
+        "navigation",
+        "pick",
+        "press",
+        "select",
+        "tap",
+        "type",
+        "ui",
+        "ux",
+        "user interface",
+        "casual",
+        "musical",
+        "close"
+      ],
+      "classification": {
+        "asset_format": "Oneshot",
+        "loop": false
+      },
+      "takes": [
+        {
+          "file": "UIClick_CasualMusicalClose_OS_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 1.471
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "ui_casual_musical_close",
+        "source_collection": "05_user_interface"
+      }
+    },
+    {
+      "id": "UIClick_CasualMusicalConfirm_OS_01",
+      "ucs": {
+        "cat_id": "UIClick",
+        "category": "USER INTERFACE",
+        "subcategory": "CLICK",
+        "confidence": "machine"
+      },
+      "summary": "Use for: confirming a selection in a casual, musical UI theme. Pairs with the other CasualMusical back/close/confirm/error/open sounds.",
+      "keywords": [
+        "button",
+        "choose",
+        "click",
+        "gui",
+        "interaction",
+        "interface",
+        "menu",
+        "navigation",
+        "pick",
+        "press",
+        "select",
+        "tap",
+        "type",
+        "ui",
+        "ux",
+        "user interface",
+        "casual",
+        "musical",
+        "confirm"
+      ],
+      "classification": {
+        "asset_format": "Oneshot",
+        "loop": false
+      },
+      "takes": [
+        {
+          "file": "UIClick_CasualMusicalConfirm_OS_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 1.387
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "ui_casual_musical_confirm",
+        "source_collection": "05_user_interface"
+      }
+    },
+    {
+      "id": "UIClick_CasualMusicalOpen_OS_01",
+      "ucs": {
+        "cat_id": "UIClick",
+        "category": "USER INTERFACE",
+        "subcategory": "CLICK",
+        "confidence": "machine"
+      },
+      "summary": "Use for: opening a menu or panel in a casual, musical UI theme. Pairs with the other CasualMusical back/close/confirm/error/open sounds.",
+      "keywords": [
+        "button",
+        "choose",
+        "click",
+        "gui",
+        "interaction",
+        "interface",
+        "menu",
+        "navigation",
+        "pick",
+        "press",
+        "select",
+        "tap",
+        "type",
+        "ui",
+        "ux",
+        "user interface",
+        "casual",
+        "musical",
+        "open"
+      ],
+      "classification": {
+        "asset_format": "Oneshot",
+        "loop": false
+      },
+      "takes": [
+        {
+          "file": "UIClick_CasualMusicalOpen_OS_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 1.079
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "ui_casual_musical_open",
+        "source_collection": "05_user_interface"
+      }
+    },
+    {
+      "id": "UIClick_CasualOpen_OS_01",
+      "ucs": {
+        "cat_id": "UIClick",
+        "category": "USER INTERFACE",
+        "subcategory": "CLICK",
+        "confidence": "machine"
+      },
+      "summary": "Use for: opening a menu or panel in a casual UI theme.",
+      "keywords": [
+        "button",
+        "choose",
+        "click",
+        "gui",
+        "interaction",
+        "interface",
+        "menu",
+        "navigation",
+        "pick",
+        "press",
+        "select",
+        "tap",
+        "type",
+        "ui",
+        "ux",
+        "user interface",
+        "casual",
+        "open"
+      ],
+      "classification": {
+        "asset_format": "Oneshot",
+        "loop": false
+      },
+      "takes": [
+        {
+          "file": "UIClick_CasualOpen_OS_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 0.69
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "ui_casual_open",
+        "source_collection": "05_user_interface"
+      }
+    },
+    {
+      "id": "UIClick_CasualPopsBack_OS_01",
+      "ucs": {
+        "cat_id": "UIClick",
+        "category": "USER INTERFACE",
+        "subcategory": "CLICK",
+        "confidence": "machine"
+      },
+      "summary": "Use for: navigating back in a casual, poppy UI theme. Pairs with the other CasualPops back/close/confirm/error/open sounds.",
+      "keywords": [
+        "button",
+        "choose",
+        "click",
+        "gui",
+        "interaction",
+        "interface",
+        "menu",
+        "navigation",
+        "pick",
+        "press",
+        "select",
+        "tap",
+        "type",
+        "ui",
+        "ux",
+        "user interface",
+        "casual",
+        "pops",
+        "back"
+      ],
+      "classification": {
+        "asset_format": "Oneshot",
+        "loop": false
+      },
+      "takes": [
+        {
+          "file": "UIClick_CasualPopsBack_OS_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 0.335
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "ui_casual_pops_back",
+        "source_collection": "05_user_interface"
+      }
+    },
+    {
+      "id": "UIClick_CasualPopsClose_OS_01",
+      "ucs": {
+        "cat_id": "UIClick",
+        "category": "USER INTERFACE",
+        "subcategory": "CLICK",
+        "confidence": "machine"
+      },
+      "summary": "Use for: closing a menu or panel in a casual, poppy UI theme. Pairs with the other CasualPops back/close/confirm/error/open sounds.",
+      "keywords": [
+        "button",
+        "choose",
+        "click",
+        "gui",
+        "interaction",
+        "interface",
+        "menu",
+        "navigation",
+        "pick",
+        "press",
+        "select",
+        "tap",
+        "type",
+        "ui",
+        "ux",
+        "user interface",
+        "casual",
+        "pops",
+        "close"
+      ],
+      "classification": {
+        "asset_format": "Oneshot",
+        "loop": false
+      },
+      "takes": [
+        {
+          "file": "UIClick_CasualPopsClose_OS_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 0.876
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "ui_casual_pops_close",
+        "source_collection": "05_user_interface"
+      }
+    },
+    {
+      "id": "UIClick_CasualPopsConfirm_OS_01",
+      "ucs": {
+        "cat_id": "UIClick",
+        "category": "USER INTERFACE",
+        "subcategory": "CLICK",
+        "confidence": "machine"
+      },
+      "summary": "Use for: confirming a selection in a casual, poppy UI theme. Pairs with the other CasualPops back/close/confirm/error/open sounds.",
+      "keywords": [
+        "button",
+        "choose",
+        "click",
+        "gui",
+        "interaction",
+        "interface",
+        "menu",
+        "navigation",
+        "pick",
+        "press",
+        "select",
+        "tap",
+        "type",
+        "ui",
+        "ux",
+        "user interface",
+        "casual",
+        "pops",
+        "confirm"
+      ],
+      "classification": {
+        "asset_format": "Oneshot",
+        "loop": false
+      },
+      "takes": [
+        {
+          "file": "UIClick_CasualPopsConfirm_OS_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 0.27
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "ui_casual_pops_confirm",
+        "source_collection": "05_user_interface"
+      }
+    },
+    {
+      "id": "UIClick_KeyboardTyping_OS_01",
+      "ucs": {
+        "cat_id": "UIClick",
+        "category": "USER INTERFACE",
+        "subcategory": "CLICK",
+        "confidence": "machine"
+      },
+      "summary": "Use for: typing on a keyboard: an office, a hacker scene, entering text in a terminal.",
+      "keywords": [
+        "button",
+        "choose",
+        "click",
+        "gui",
+        "interaction",
+        "interface",
+        "menu",
+        "navigation",
+        "pick",
+        "press",
+        "select",
+        "tap",
+        "type",
+        "ui",
+        "ux",
+        "user interface",
+        "action",
+        "typing"
+      ],
+      "classification": {
+        "asset_format": "Oneshot",
+        "loop": false
+      },
+      "takes": [
+        {
+          "file": "UIClick_KeyboardTyping_OS_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 18.432
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "action_typing",
+        "source_collection": "02_floors_footsteps_body_mvmt_impacts_actions_etc"
+      }
+    },
+    {
+      "id": "UIClick_MagicalBack_OS_01",
+      "ucs": {
+        "cat_id": "UIClick",
+        "category": "USER INTERFACE",
+        "subcategory": "CLICK",
+        "confidence": "machine"
+      },
+      "summary": "Use for: navigating back in a magical, shimmering UI theme. Pairs with the other Magical back/close/confirm/error/open sounds.",
+      "keywords": [
+        "button",
+        "choose",
+        "click",
+        "gui",
+        "interaction",
+        "interface",
+        "menu",
+        "navigation",
+        "pick",
+        "press",
+        "select",
+        "tap",
+        "type",
+        "ui",
+        "ux",
+        "user interface",
+        "magical",
+        "back"
+      ],
+      "classification": {
+        "asset_format": "Oneshot",
+        "loop": false
+      },
+      "takes": [
+        {
+          "file": "UIClick_MagicalBack_OS_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 1.38
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "ui_magical_back",
+        "source_collection": "05_user_interface"
+      }
+    },
+    {
+      "id": "UIClick_MagicalClose_OS_01",
+      "ucs": {
+        "cat_id": "UIClick",
+        "category": "USER INTERFACE",
+        "subcategory": "CLICK",
+        "confidence": "machine"
+      },
+      "summary": "Use for: closing a menu or panel in a magical, shimmering UI theme. Pairs with the other Magical back/close/confirm/error/open sounds.",
+      "keywords": [
+        "button",
+        "choose",
+        "click",
+        "gui",
+        "interaction",
+        "interface",
+        "menu",
+        "navigation",
+        "pick",
+        "press",
+        "select",
+        "tap",
+        "type",
+        "ui",
+        "ux",
+        "user interface",
+        "magical",
+        "close"
+      ],
+      "classification": {
+        "asset_format": "Oneshot",
+        "loop": false
+      },
+      "takes": [
+        {
+          "file": "UIClick_MagicalClose_OS_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 1.534
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "ui_magical_close",
+        "source_collection": "05_user_interface"
+      }
+    },
+    {
+      "id": "UIClick_MagicalConfirm_OS_01",
+      "ucs": {
+        "cat_id": "UIClick",
+        "category": "USER INTERFACE",
+        "subcategory": "CLICK",
+        "confidence": "machine"
+      },
+      "summary": "Use for: confirming a selection in a magical, shimmering UI theme. Pairs with the other Magical back/close/confirm/error/open sounds.",
+      "keywords": [
+        "button",
+        "choose",
+        "click",
+        "gui",
+        "interaction",
+        "interface",
+        "menu",
+        "navigation",
+        "pick",
+        "press",
+        "select",
+        "tap",
+        "type",
+        "ui",
+        "ux",
+        "user interface",
+        "magical",
+        "confirm"
+      ],
+      "classification": {
+        "asset_format": "Oneshot",
+        "loop": false
+      },
+      "takes": [
+        {
+          "file": "UIClick_MagicalConfirm_OS_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 1.243
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "ui_magical_confirm",
+        "source_collection": "05_user_interface"
+      }
+    },
+    {
+      "id": "UIClick_MagicalOpen_OS_01",
+      "ucs": {
+        "cat_id": "UIClick",
+        "category": "USER INTERFACE",
+        "subcategory": "CLICK",
+        "confidence": "machine"
+      },
+      "summary": "Use for: opening a menu or panel in a magical, shimmering UI theme. Pairs with the other Magical back/close/confirm/error/open sounds.",
+      "keywords": [
+        "button",
+        "choose",
+        "click",
+        "gui",
+        "interaction",
+        "interface",
+        "menu",
+        "navigation",
+        "pick",
+        "press",
+        "select",
+        "tap",
+        "type",
+        "ui",
+        "ux",
+        "user interface",
+        "magical",
+        "open"
+      ],
+      "classification": {
+        "asset_format": "Oneshot",
+        "loop": false
+      },
+      "takes": [
+        {
+          "file": "UIClick_MagicalOpen_OS_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 1.737
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "ui_magical_open",
+        "source_collection": "05_user_interface"
+      }
+    },
+    {
+      "id": "UIClick_MetalBack_OS_01",
+      "ucs": {
+        "cat_id": "UIClick",
+        "category": "USER INTERFACE",
+        "subcategory": "CLICK",
+        "confidence": "machine"
+      },
+      "summary": "Use for: navigating back in a metallic UI theme. Pairs with the other Metal back/close/confirm/error/open sounds.",
+      "keywords": [
+        "button",
+        "choose",
+        "click",
+        "gui",
+        "interaction",
+        "interface",
+        "menu",
+        "navigation",
+        "pick",
+        "press",
+        "select",
+        "tap",
+        "type",
+        "ui",
+        "ux",
+        "user interface",
+        "metal",
+        "back"
+      ],
+      "classification": {
+        "asset_format": "Oneshot",
+        "loop": false
+      },
+      "takes": [
+        {
+          "file": "UIClick_MetalBack_OS_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 0.448
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "ui_metal_back",
+        "source_collection": "05_user_interface"
+      }
+    },
+    {
+      "id": "UIClick_MetalClose_OS_01",
+      "ucs": {
+        "cat_id": "UIClick",
+        "category": "USER INTERFACE",
+        "subcategory": "CLICK",
+        "confidence": "machine"
+      },
+      "summary": "Use for: closing a menu or panel in a metallic UI theme. Pairs with the other Metal back/close/confirm/error/open sounds.",
+      "keywords": [
+        "button",
+        "choose",
+        "click",
+        "gui",
+        "interaction",
+        "interface",
+        "menu",
+        "navigation",
+        "pick",
+        "press",
+        "select",
+        "tap",
+        "type",
+        "ui",
+        "ux",
+        "user interface",
+        "metal",
+        "close"
+      ],
+      "classification": {
+        "asset_format": "Oneshot",
+        "loop": false
+      },
+      "takes": [
+        {
+          "file": "UIClick_MetalClose_OS_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 0.857
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "ui_metal_close",
+        "source_collection": "05_user_interface"
+      }
+    },
+    {
+      "id": "UIClick_MetalConfirm_OS_01",
+      "ucs": {
+        "cat_id": "UIClick",
+        "category": "USER INTERFACE",
+        "subcategory": "CLICK",
+        "confidence": "machine"
+      },
+      "summary": "Use for: confirming a selection in a metallic UI theme. Pairs with the other Metal back/close/confirm/error/open sounds.",
+      "keywords": [
+        "button",
+        "choose",
+        "click",
+        "gui",
+        "interaction",
+        "interface",
+        "menu",
+        "navigation",
+        "pick",
+        "press",
+        "select",
+        "tap",
+        "type",
+        "ui",
+        "ux",
+        "user interface",
+        "metal",
+        "confirm"
+      ],
+      "classification": {
+        "asset_format": "Oneshot",
+        "loop": false
+      },
+      "takes": [
+        {
+          "file": "UIClick_MetalConfirm_OS_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 0.546
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "ui_metal_confirm",
+        "source_collection": "05_user_interface"
+      }
+    },
+    {
+      "id": "UIClick_MetalOpen_OS_01",
+      "ucs": {
+        "cat_id": "UIClick",
+        "category": "USER INTERFACE",
+        "subcategory": "CLICK",
+        "confidence": "machine"
+      },
+      "summary": "Use for: opening a menu or panel in a metallic UI theme. Pairs with the other Metal back/close/confirm/error/open sounds.",
+      "keywords": [
+        "button",
+        "choose",
+        "click",
+        "gui",
+        "interaction",
+        "interface",
+        "menu",
+        "navigation",
+        "pick",
+        "press",
+        "select",
+        "tap",
+        "type",
+        "ui",
+        "ux",
+        "user interface",
+        "metal",
+        "open"
+      ],
+      "classification": {
+        "asset_format": "Oneshot",
+        "loop": false
+      },
+      "takes": [
+        {
+          "file": "UIClick_MetalOpen_OS_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 0.924
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "ui_metal_open",
+        "source_collection": "05_user_interface"
+      }
+    },
+    {
+      "id": "UIClick_ScifiHightechBack_OS_01",
+      "ucs": {
+        "cat_id": "UIClick",
+        "category": "USER INTERFACE",
+        "subcategory": "CLICK",
+        "confidence": "machine"
+      },
+      "summary": "Use for: navigating back in a high-tech sci-fi UI theme. Pairs with the other ScifiHightech back/close/confirm/error/open sounds.",
+      "keywords": [
+        "button",
+        "choose",
+        "click",
+        "gui",
+        "interaction",
+        "interface",
+        "menu",
+        "navigation",
+        "pick",
+        "press",
+        "select",
+        "tap",
+        "type",
+        "ui",
+        "ux",
+        "user interface",
+        "scifi",
+        "hightech",
+        "back"
+      ],
+      "classification": {
+        "asset_format": "Oneshot",
+        "loop": false
+      },
+      "takes": [
+        {
+          "file": "UIClick_ScifiHightechBack_OS_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 0.232
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "ui_scifi_hightech_back",
+        "source_collection": "05_user_interface"
+      }
+    },
+    {
+      "id": "UIClick_ScifiHightechClose_OS_01",
+      "ucs": {
+        "cat_id": "UIClick",
+        "category": "USER INTERFACE",
+        "subcategory": "CLICK",
+        "confidence": "machine"
+      },
+      "summary": "Use for: closing a menu or panel in a high-tech sci-fi UI theme. Pairs with the other ScifiHightech back/close/confirm/error/open sounds.",
+      "keywords": [
+        "button",
+        "choose",
+        "click",
+        "gui",
+        "interaction",
+        "interface",
+        "menu",
+        "navigation",
+        "pick",
+        "press",
+        "select",
+        "tap",
+        "type",
+        "ui",
+        "ux",
+        "user interface",
+        "scifi",
+        "hightech",
+        "close"
+      ],
+      "classification": {
+        "asset_format": "Oneshot",
+        "loop": false
+      },
+      "takes": [
+        {
+          "file": "UIClick_ScifiHightechClose_OS_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 0.152
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "ui_scifi_hightech_close",
+        "source_collection": "05_user_interface"
+      }
+    },
+    {
+      "id": "UIClick_ScifiHightechConfirm_OS_01",
+      "ucs": {
+        "cat_id": "UIClick",
+        "category": "USER INTERFACE",
+        "subcategory": "CLICK",
+        "confidence": "machine"
+      },
+      "summary": "Use for: confirming a selection in a high-tech sci-fi UI theme. Pairs with the other ScifiHightech back/close/confirm/error/open sounds.",
+      "keywords": [
+        "button",
+        "choose",
+        "click",
+        "gui",
+        "interaction",
+        "interface",
+        "menu",
+        "navigation",
+        "pick",
+        "press",
+        "select",
+        "tap",
+        "type",
+        "ui",
+        "ux",
+        "user interface",
+        "scifi",
+        "hightech",
+        "confirm"
+      ],
+      "classification": {
+        "asset_format": "Oneshot",
+        "loop": false
+      },
+      "takes": [
+        {
+          "file": "UIClick_ScifiHightechConfirm_OS_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 0.457
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "ui_scifi_hightech_confirm",
+        "source_collection": "05_user_interface"
+      }
+    },
+    {
+      "id": "UIClick_ScifiHightechOpen_OS_01",
+      "ucs": {
+        "cat_id": "UIClick",
+        "category": "USER INTERFACE",
+        "subcategory": "CLICK",
+        "confidence": "machine"
+      },
+      "summary": "Use for: opening a menu or panel in a high-tech sci-fi UI theme. Pairs with the other ScifiHightech back/close/confirm/error/open sounds.",
+      "keywords": [
+        "button",
+        "choose",
+        "click",
+        "gui",
+        "interaction",
+        "interface",
+        "menu",
+        "navigation",
+        "pick",
+        "press",
+        "select",
+        "tap",
+        "type",
+        "ui",
+        "ux",
+        "user interface",
+        "scifi",
+        "hightech",
+        "open"
+      ],
+      "classification": {
+        "asset_format": "Oneshot",
+        "loop": false
+      },
+      "takes": [
+        {
+          "file": "UIClick_ScifiHightechOpen_OS_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 0.143
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "ui_scifi_hightech_open",
+        "source_collection": "05_user_interface"
+      }
+    },
+    {
+      "id": "UIClick_ScifiTraditionalBack_OS_01",
+      "ucs": {
+        "cat_id": "UIClick",
+        "category": "USER INTERFACE",
+        "subcategory": "CLICK",
+        "confidence": "machine"
+      },
+      "summary": "Use for: navigating back in a classic sci-fi UI theme. Pairs with the other ScifiTraditional back/close/confirm/error/open sounds.",
+      "keywords": [
+        "button",
+        "choose",
+        "click",
+        "gui",
+        "interaction",
+        "interface",
+        "menu",
+        "navigation",
+        "pick",
+        "press",
+        "select",
+        "tap",
+        "type",
+        "ui",
+        "ux",
+        "user interface",
+        "scifi",
+        "traditional",
+        "back"
+      ],
+      "classification": {
+        "asset_format": "Oneshot",
+        "loop": false
+      },
+      "takes": [
+        {
+          "file": "UIClick_ScifiTraditionalBack_OS_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 0.671
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "ui_scifi_traditional_back",
+        "source_collection": "05_user_interface"
+      }
+    },
+    {
+      "id": "UIClick_ScifiTraditionalClose_OS_01",
+      "ucs": {
+        "cat_id": "UIClick",
+        "category": "USER INTERFACE",
+        "subcategory": "CLICK",
+        "confidence": "machine"
+      },
+      "summary": "Use for: closing a menu or panel in a classic sci-fi UI theme. Pairs with the other ScifiTraditional back/close/confirm/error/open sounds.",
+      "keywords": [
+        "button",
+        "choose",
+        "click",
+        "gui",
+        "interaction",
+        "interface",
+        "menu",
+        "navigation",
+        "pick",
+        "press",
+        "select",
+        "tap",
+        "type",
+        "ui",
+        "ux",
+        "user interface",
+        "scifi",
+        "traditional",
+        "close"
+      ],
+      "classification": {
+        "asset_format": "Oneshot",
+        "loop": false
+      },
+      "takes": [
+        {
+          "file": "UIClick_ScifiTraditionalClose_OS_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 0.626
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "ui_scifi_traditional_close",
+        "source_collection": "05_user_interface"
+      }
+    },
+    {
+      "id": "UIClick_ScifiTraditionalConfirm_OS_01",
+      "ucs": {
+        "cat_id": "UIClick",
+        "category": "USER INTERFACE",
+        "subcategory": "CLICK",
+        "confidence": "machine"
+      },
+      "summary": "Use for: confirming a selection in a classic sci-fi UI theme. Pairs with the other ScifiTraditional back/close/confirm/error/open sounds.",
+      "keywords": [
+        "button",
+        "choose",
+        "click",
+        "gui",
+        "interaction",
+        "interface",
+        "menu",
+        "navigation",
+        "pick",
+        "press",
+        "select",
+        "tap",
+        "type",
+        "ui",
+        "ux",
+        "user interface",
+        "scifi",
+        "traditional",
+        "confirm"
+      ],
+      "classification": {
+        "asset_format": "Oneshot",
+        "loop": false
+      },
+      "takes": [
+        {
+          "file": "UIClick_ScifiTraditionalConfirm_OS_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 0.64
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "ui_scifi_traditional_confirm",
+        "source_collection": "05_user_interface"
+      }
+    },
+    {
+      "id": "UIClick_ScifiTraditionalOpen_OS_01",
+      "ucs": {
+        "cat_id": "UIClick",
+        "category": "USER INTERFACE",
+        "subcategory": "CLICK",
+        "confidence": "machine"
+      },
+      "summary": "Use for: opening a menu or panel in a classic sci-fi UI theme. Pairs with the other ScifiTraditional back/close/confirm/error/open sounds.",
+      "keywords": [
+        "button",
+        "choose",
+        "click",
+        "gui",
+        "interaction",
+        "interface",
+        "menu",
+        "navigation",
+        "pick",
+        "press",
+        "select",
+        "tap",
+        "type",
+        "ui",
+        "ux",
+        "user interface",
+        "scifi",
+        "traditional",
+        "open"
+      ],
+      "classification": {
+        "asset_format": "Oneshot",
+        "loop": false
+      },
+      "takes": [
+        {
+          "file": "UIClick_ScifiTraditionalOpen_OS_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 0.5
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "ui_scifi_traditional_open",
+        "source_collection": "05_user_interface"
+      }
+    },
+    {
+      "id": "UIClick_WoodBack_OS_01",
+      "ucs": {
+        "cat_id": "UIClick",
+        "category": "USER INTERFACE",
+        "subcategory": "CLICK",
+        "confidence": "machine"
+      },
+      "summary": "Use for: navigating back in a wooden, organic UI theme. Pairs with the other Wood back/close/confirm/error/open sounds.",
+      "keywords": [
+        "button",
+        "choose",
+        "click",
+        "gui",
+        "interaction",
+        "interface",
+        "menu",
+        "navigation",
+        "pick",
+        "press",
+        "select",
+        "tap",
+        "type",
+        "ui",
+        "ux",
+        "user interface",
+        "wood",
+        "back"
+      ],
+      "classification": {
+        "asset_format": "Oneshot",
+        "loop": false
+      },
+      "takes": [
+        {
+          "file": "UIClick_WoodBack_OS_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 0.33
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "ui_wood_back",
+        "source_collection": "05_user_interface"
+      }
+    },
+    {
+      "id": "UIClick_WoodClose_OS_01",
+      "ucs": {
+        "cat_id": "UIClick",
+        "category": "USER INTERFACE",
+        "subcategory": "CLICK",
+        "confidence": "machine"
+      },
+      "summary": "Use for: closing a menu or panel in a wooden, organic UI theme. Pairs with the other Wood back/close/confirm/error/open sounds.",
+      "keywords": [
+        "button",
+        "choose",
+        "click",
+        "gui",
+        "interaction",
+        "interface",
+        "menu",
+        "navigation",
+        "pick",
+        "press",
+        "select",
+        "tap",
+        "type",
+        "ui",
+        "ux",
+        "user interface",
+        "wood",
+        "close"
+      ],
+      "classification": {
+        "asset_format": "Oneshot",
+        "loop": false
+      },
+      "takes": [
+        {
+          "file": "UIClick_WoodClose_OS_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 0.644
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "ui_wood_close",
+        "source_collection": "05_user_interface"
+      }
+    },
+    {
+      "id": "UIClick_WoodConfirm_OS_01",
+      "ucs": {
+        "cat_id": "UIClick",
+        "category": "USER INTERFACE",
+        "subcategory": "CLICK",
+        "confidence": "machine"
+      },
+      "summary": "Use for: confirming a selection in a wooden, organic UI theme. Pairs with the other Wood back/close/confirm/error/open sounds.",
+      "keywords": [
+        "button",
+        "choose",
+        "click",
+        "gui",
+        "interaction",
+        "interface",
+        "menu",
+        "navigation",
+        "pick",
+        "press",
+        "select",
+        "tap",
+        "type",
+        "ui",
+        "ux",
+        "user interface",
+        "wood",
+        "confirm"
+      ],
+      "classification": {
+        "asset_format": "Oneshot",
+        "loop": false
+      },
+      "takes": [
+        {
+          "file": "UIClick_WoodConfirm_OS_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 0.441
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "ui_wood_confirm",
+        "source_collection": "05_user_interface"
+      }
+    },
+    {
+      "id": "UIClick_WoodOpen_OS_01",
+      "ucs": {
+        "cat_id": "UIClick",
+        "category": "USER INTERFACE",
+        "subcategory": "CLICK",
+        "confidence": "machine"
+      },
+      "summary": "Use for: opening a menu or panel in a wooden, organic UI theme. Pairs with the other Wood back/close/confirm/error/open sounds.",
+      "keywords": [
+        "button",
+        "choose",
+        "click",
+        "gui",
+        "interaction",
+        "interface",
+        "menu",
+        "navigation",
+        "pick",
+        "press",
+        "select",
+        "tap",
+        "type",
+        "ui",
+        "ux",
+        "user interface",
+        "wood",
+        "open"
+      ],
+      "classification": {
+        "asset_format": "Oneshot",
+        "loop": false
+      },
+      "takes": [
+        {
+          "file": "UIClick_WoodOpen_OS_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 0.474
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "ui_wood_open",
+        "source_collection": "05_user_interface"
+      }
+    },
+    {
+      "id": "UIData_CasualCountup_OS_01",
+      "ucs": {
+        "cat_id": "UIData",
+        "category": "USER INTERFACE",
+        "subcategory": "DATA",
+        "confidence": "machine"
+      },
+      "summary": "Use for: a casual score count-up: tallying points or coins on a results screen.",
+      "keywords": [
+        "buffer",
+        "bytes",
+        "content",
+        "data",
+        "document",
+        "download",
+        "file",
+        "gui",
+        "information",
+        "input",
+        "network",
+        "processing",
+        "record",
+        "resource",
+        "thinking",
+        "transfer",
+        "ui",
+        "upload",
+        "ux",
+        "user interface",
+        "casual",
+        "countup"
+      ],
+      "classification": {
+        "asset_format": "Oneshot",
+        "loop": false
+      },
+      "takes": [
+        {
+          "file": "UIData_CasualCountup_OS_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 0.967
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "ui_casual_countup",
+        "source_collection": "05_user_interface"
+      }
+    },
+    {
+      "id": "UIData_ScifiCountup_LOOP_01",
+      "ucs": {
+        "cat_id": "UIData",
+        "category": "USER INTERFACE",
+        "subcategory": "DATA",
+        "confidence": "machine"
+      },
+      "summary": "Use for: a sci-fi data count-up: a ticking score or readout on a high-tech display.",
+      "keywords": [
+        "buffer",
+        "bytes",
+        "content",
+        "data",
+        "document",
+        "download",
+        "file",
+        "gui",
+        "information",
+        "input",
+        "network",
+        "processing",
+        "record",
+        "resource",
+        "thinking",
+        "transfer",
+        "ui",
+        "upload",
+        "ux",
+        "user interface",
+        "scifi",
+        "countup"
+      ],
+      "classification": {
+        "asset_format": "Loop",
+        "loop": true
+      },
+      "takes": [
+        {
+          "file": "UIData_ScifiCountup_LOOP_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 2.004
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "ui_scifi_countup",
+        "source_collection": "05_user_interface"
+      }
+    },
+    {
+      "id": "UIMisc_BelltreeDown_OS_01",
+      "ucs": {
+        "cat_id": "UIMisc",
+        "category": "USER INTERFACE",
+        "subcategory": "MISC",
+        "confidence": "machine"
+      },
+      "summary": "Use for: a descending bell-tree glissando: closing a menu, a magical sparkle down.",
+      "keywords": [
+        "gui",
+        "miscellaneous",
+        "ui",
+        "ux",
+        "user interface",
+        "misc",
+        "belltree",
+        "down"
+      ],
+      "classification": {
+        "asset_format": "Oneshot",
+        "loop": false
+      },
+      "takes": [
+        {
+          "file": "UIMisc_BelltreeDown_OS_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 5.013
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "ui_belltree_down",
+        "source_collection": "05_user_interface"
+      }
+    },
+    {
+      "id": "UIMisc_BelltreeUp_OS_01",
+      "ucs": {
+        "cat_id": "UIMisc",
+        "category": "USER INTERFACE",
+        "subcategory": "MISC",
+        "confidence": "machine"
+      },
+      "summary": "Use for: an ascending bell-tree glissando: opening a menu, a reward sparkle up.",
+      "keywords": [
+        "gui",
+        "miscellaneous",
+        "ui",
+        "ux",
+        "user interface",
+        "misc",
+        "belltree"
+      ],
+      "classification": {
+        "asset_format": "Oneshot",
+        "loop": false
+      },
+      "takes": [
+        {
+          "file": "UIMisc_BelltreeUp_OS_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 5.016
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "ui_belltree_up",
+        "source_collection": "05_user_interface"
+      }
+    },
+    {
+      "id": "UIMisc_Powerup_OS_01",
+      "ucs": {
+        "cat_id": "UIMisc",
+        "category": "USER INTERFACE",
+        "subcategory": "MISC",
+        "confidence": "machine"
+      },
+      "summary": "Use for: a power-up: collecting a buff, levelling an ability, an item pickup.",
+      "keywords": [
+        "gui",
+        "miscellaneous",
+        "ui",
+        "ux",
+        "user interface",
+        "misc",
+        "powerup"
+      ],
+      "classification": {
+        "asset_format": "Shuffle",
+        "loop": false
+      },
+      "takes": [
+        {
+          "file": "UIMisc_Powerup_OS_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 1.708
+        },
+        {
+          "file": "UIMisc_Powerup_OS_02.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 1.46
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "ui_powerup",
+        "source_collection": "05_user_interface"
+      }
+    }
+  ]
+}

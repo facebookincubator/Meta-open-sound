@@ -15,7 +15,8 @@
         "velocity-layers",
         "instrument",
         "INS"
-      ]
+      ],
+      "license": "CC0-1.0"
     },
     {
       "id": "meta-nylon-guitar",
@@ -33,7 +34,8 @@
         "velocity-layers",
         "instrument",
         "INS"
-      ]
+      ],
+      "license": "CC0-1.0"
     },
     {
       "id": "meta-steel-guitar",
@@ -52,7 +54,27 @@
         "chromatic",
         "instrument",
         "INS"
-      ]
+      ],
+      "license": "CC0-1.0"
+    },
+    {
+      "id": "oculus-audio-pack",
+      "name": "Oculus Audio Pack 1",
+      "kind": "corpus",
+      "path": "corpora/oculus-audio-pack",
+      "description": "289 game and VR sound effects from the 2015 Oculus Audio Pack: footsteps on six surfaces, themed UI sets, character vocals, doors, ambience loops, musical stings, horror and interaction foley. CC BY 4.0.",
+      "tags": [
+        "sfx",
+        "ambience",
+        "ui",
+        "foley",
+        "vocals",
+        "ucs",
+        "oculus",
+        "corpus"
+      ],
+      "license": "CC-BY-4.0",
+      "attribution": "\"Oculus Audio Pack 01\" by Oculus VR, LLC (https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/), licensed under CC BY 4.0. Files renamed to the UCS naming convention; OGG previews transcoded from the original WAVs."
     }
   ]
 }

@@ -1135,5 +1135,6 @@
       "file": "INSGuitarSteel_StringLowE_Vel03_Gs3_01.wav"
     }
   ],
-  "ogg_dir": "ogg"
+  "ogg_dir": "ogg",
+  "license": "CC0-1.0"
 }

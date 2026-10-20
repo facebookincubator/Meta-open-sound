@@ -1,0 +1,64 @@
+{
+  "schema_version": "1.0.0",
+  "collection": "oculus-audio-pack",
+  "cat_short": "MOTR",
+  "license": "CC-BY-4.0",
+  "attribution": "\"Oculus Audio Pack 01\" by Oculus VR, LLC (https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/), licensed under CC BY 4.0. Files renamed to the UCS naming convention; OGG previews transcoded from the original WAVs.",
+  "sounds": [
+    {
+      "id": "MOTRSrvo_Servo_OS_01",
+      "ucs": {
+        "cat_id": "MOTRSrvo",
+        "category": "MOTORS",
+        "subcategory": "SERVO",
+        "confidence": "machine"
+      },
+      "summary": "Use for: a servo motor moving: robots, a camera mount, small motorized mechanisms.",
+      "keywords": [
+        "3d",
+        "actuator",
+        "antenna",
+        "camera",
+        "car",
+        "drive",
+        "focus",
+        "motor",
+        "printer",
+        "rc",
+        "robot",
+        "motors",
+        "servo",
+        "indoor"
+      ],
+      "classification": {
+        "asset_format": "Shuffle",
+        "loop": false
+      },
+      "takes": [
+        {
+          "file": "MOTRSrvo_Servo_OS_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 4.075
+        },
+        {
+          "file": "MOTRSrvo_Servo_OS_02.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 7.599
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "indoor_servo",
+        "source_collection": "04_indoors_hums_machines_actions_etc"
+      }
+    }
+  ]
+}

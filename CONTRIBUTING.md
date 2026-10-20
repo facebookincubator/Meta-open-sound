@@ -46,4 +46,6 @@ its metadata.
 
 By contributing to Meta Open Sound, you agree that your contributions will be
 licensed under [CC0 1.0 Universal](LICENSE), dedicating them to the public
-domain. You also agree to abide by our [Code of Conduct](CODE_OF_CONDUCT.md).
+domain. Collections Meta publishes may carry a different license, stated in the
+collection's own `LICENSE`; contributions are always CC0. You also agree to
+abide by our [Code of Conduct](CODE_OF_CONDUCT.md).

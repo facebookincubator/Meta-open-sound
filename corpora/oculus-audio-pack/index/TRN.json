@@ -1,0 +1,263 @@
+{
+  "schema_version": "1.0.0",
+  "collection": "oculus-audio-pack",
+  "cat_short": "TRN",
+  "license": "CC-BY-4.0",
+  "attribution": "\"Oculus Audio Pack 01\" by Oculus VR, LLC (https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/), licensed under CC BY 4.0. Files renamed to the UCS naming convention; OGG previews transcoded from the original WAVs.",
+  "sounds": [
+    {
+      "id": "TRNDoor_TrainDoorsClose_OS_01",
+      "ucs": {
+        "cat_id": "TRNDoor",
+        "category": "TRAINS",
+        "subcategory": "DOOR",
+        "confidence": "machine"
+      },
+      "summary": "Use for: train doors sliding shut: a subway or commuter train departing.",
+      "keywords": [
+        "access",
+        "boxcar",
+        "cab",
+        "caboose",
+        "car",
+        "coach",
+        "door",
+        "hatch",
+        "rail",
+        "railway",
+        "subway",
+        "train",
+        "trains",
+        "ambient",
+        "doors",
+        "close"
+      ],
+      "classification": {
+        "asset_format": "Oneshot",
+        "loop": false
+      },
+      "takes": [
+        {
+          "file": "TRNDoor_TrainDoorsClose_OS_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 2.127
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "ambient_train_doors_close",
+        "source_collection": "03_weather_ambience_etc"
+      }
+    },
+    {
+      "id": "TRNDoor_TrainDoorsOpen_OS_01",
+      "ucs": {
+        "cat_id": "TRNDoor",
+        "category": "TRAINS",
+        "subcategory": "DOOR",
+        "confidence": "machine"
+      },
+      "summary": "Use for: train doors sliding open: a subway or commuter train arriving.",
+      "keywords": [
+        "access",
+        "boxcar",
+        "cab",
+        "caboose",
+        "car",
+        "coach",
+        "door",
+        "hatch",
+        "rail",
+        "railway",
+        "subway",
+        "train",
+        "trains",
+        "ambient",
+        "doors",
+        "open"
+      ],
+      "classification": {
+        "asset_format": "Oneshot",
+        "loop": false
+      },
+      "takes": [
+        {
+          "file": "TRNDoor_TrainDoorsOpen_OS_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 2.724
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "ambient_train_doors_open",
+        "source_collection": "03_weather_ambience_etc"
+      }
+    },
+    {
+      "id": "TRNElec_TrainPassby_OS_01",
+      "ucs": {
+        "cat_id": "TRNElec",
+        "category": "TRAINS",
+        "subcategory": "ELECTRIC",
+        "confidence": "machine"
+      },
+      "summary": "Use for: a train passing by: a commuter train rushing past a platform or crossing.",
+      "keywords": [
+        "city",
+        "commuter",
+        "inter-city",
+        "light",
+        "line",
+        "maglev",
+        "monorail",
+        "rail",
+        "railway",
+        "regional",
+        "train",
+        "trains",
+        "electric",
+        "ambient",
+        "passby"
+      ],
+      "classification": {
+        "asset_format": "Oneshot",
+        "loop": false
+      },
+      "takes": [
+        {
+          "file": "TRNElec_TrainPassby_OS_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 27.387
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "ambient_train_passby",
+        "source_collection": "03_weather_ambience_etc"
+      }
+    },
+    {
+      "id": "TRNSbwy_SubwayPassbyEnter_OS_01",
+      "ucs": {
+        "cat_id": "TRNSbwy",
+        "category": "TRAINS",
+        "subcategory": "SUBWAY",
+        "confidence": "machine"
+      },
+      "summary": "Use for: a subway train arriving and entering the station.",
+      "keywords": [
+        "city",
+        "commuter",
+        "electric",
+        "mass",
+        "metro",
+        "mrt",
+        "railcar",
+        "railway",
+        "rapid",
+        "subway",
+        "system",
+        "train",
+        "transit",
+        "tube",
+        "tubes",
+        "underground",
+        "urban",
+        "trains",
+        "ambient",
+        "passby",
+        "enter"
+      ],
+      "classification": {
+        "asset_format": "Oneshot",
+        "loop": false
+      },
+      "takes": [
+        {
+          "file": "TRNSbwy_SubwayPassbyEnter_OS_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 28.711
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "ambient_subway_passby_enter",
+        "source_collection": "03_weather_ambience_etc"
+      }
+    },
+    {
+      "id": "TRNSbwy_SubwayPassbyExit_OS_01",
+      "ucs": {
+        "cat_id": "TRNSbwy",
+        "category": "TRAINS",
+        "subcategory": "SUBWAY",
+        "confidence": "machine"
+      },
+      "summary": "Use for: a subway train leaving the station.",
+      "keywords": [
+        "city",
+        "commuter",
+        "electric",
+        "mass",
+        "metro",
+        "mrt",
+        "railcar",
+        "railway",
+        "rapid",
+        "subway",
+        "system",
+        "train",
+        "transit",
+        "tube",
+        "tubes",
+        "underground",
+        "urban",
+        "trains",
+        "ambient",
+        "passby",
+        "exit"
+      ],
+      "classification": {
+        "asset_format": "Oneshot",
+        "loop": false
+      },
+      "takes": [
+        {
+          "file": "TRNSbwy_SubwayPassbyExit_OS_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 28.248
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "ambient_subway_passby_exit",
+        "source_collection": "03_weather_ambience_etc"
+      }
+    }
+  ]
+}

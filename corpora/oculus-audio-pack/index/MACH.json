@@ -1,0 +1,544 @@
+{
+  "schema_version": "1.0.0",
+  "collection": "oculus-audio-pack",
+  "cat_short": "MACH",
+  "license": "CC-BY-4.0",
+  "attribution": "\"Oculus Audio Pack 01\" by Oculus VR, LLC (https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/), licensed under CC BY 4.0. Files renamed to the UCS naming convention; OGG previews transcoded from the original WAVs.",
+  "sounds": [
+    {
+      "id": "MACHFan_FanOff_OS_01",
+      "ucs": {
+        "cat_id": "MACHFan",
+        "category": "MACHINES",
+        "subcategory": "FAN",
+        "confidence": "machine"
+      },
+      "summary": "Use for: an electric fan switching off and spinning down.",
+      "keywords": [
+        "air",
+        "apparatus",
+        "bladeless",
+        "blower",
+        "box",
+        "ceiling",
+        "circulator",
+        "contraption",
+        "device",
+        "exhaust",
+        "industrial",
+        "machinery",
+        "ventilation",
+        "machines",
+        "fan",
+        "indoor",
+        "off"
+      ],
+      "classification": {
+        "asset_format": "Oneshot",
+        "loop": false
+      },
+      "takes": [
+        {
+          "file": "MACHFan_FanOff_OS_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 7.657
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "indoor_fan_off",
+        "source_collection": "04_indoors_hums_machines_actions_etc"
+      }
+    },
+    {
+      "id": "MACHFan_FanStart_OS_01",
+      "ucs": {
+        "cat_id": "MACHFan",
+        "category": "MACHINES",
+        "subcategory": "FAN",
+        "confidence": "machine"
+      },
+      "summary": "Use for: an electric fan switching on and spinning up.",
+      "keywords": [
+        "air",
+        "apparatus",
+        "bladeless",
+        "blower",
+        "box",
+        "ceiling",
+        "circulator",
+        "contraption",
+        "device",
+        "exhaust",
+        "industrial",
+        "machinery",
+        "ventilation",
+        "machines",
+        "fan",
+        "indoor",
+        "start"
+      ],
+      "classification": {
+        "asset_format": "Oneshot",
+        "loop": false
+      },
+      "takes": [
+        {
+          "file": "MACHFan_FanStart_OS_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 8.939
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "indoor_fan_start",
+        "source_collection": "04_indoors_hums_machines_actions_etc"
+      }
+    },
+    {
+      "id": "MACHFan_Fan_LOOP_01",
+      "ucs": {
+        "cat_id": "MACHFan",
+        "category": "MACHINES",
+        "subcategory": "FAN",
+        "confidence": "machine"
+      },
+      "summary": "Use for: a running electric fan: a room fan, steady airflow hum.",
+      "keywords": [
+        "air",
+        "apparatus",
+        "bladeless",
+        "blower",
+        "box",
+        "ceiling",
+        "circulator",
+        "contraption",
+        "device",
+        "exhaust",
+        "industrial",
+        "machinery",
+        "ventilation",
+        "machines",
+        "fan",
+        "indoor"
+      ],
+      "classification": {
+        "asset_format": "Loop",
+        "loop": true
+      },
+      "takes": [
+        {
+          "file": "MACHFan_Fan_LOOP_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 15.0
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "indoor_fan",
+        "source_collection": "04_indoors_hums_machines_actions_etc"
+      }
+    },
+    {
+      "id": "MACHHvac_HVACOff_OS_01",
+      "ucs": {
+        "cat_id": "MACHHvac",
+        "category": "MACHINES",
+        "subcategory": "HVAC",
+        "confidence": "machine"
+      },
+      "summary": "Use for: an HVAC system shutting off.",
+      "keywords": [
+        "air",
+        "aircon",
+        "apparatus",
+        "baseboard",
+        "boiler",
+        "chiller",
+        "climate",
+        "conditioner",
+        "conditioning",
+        "contraption",
+        "control",
+        "cooler",
+        "dehumidifier",
+        "device",
+        "ductless",
+        "evaporative",
+        "filtration",
+        "furnace",
+        "handlers",
+        "heat",
+        "heater",
+        "heating",
+        "humidifier",
+        "humidifiers",
+        "machinery",
+        "mini-split",
+        "pump",
+        "pumps",
+        "purifier",
+        "radiator",
+        "systems",
+        "thermostat",
+        "thermostats",
+        "ventilation",
+        "machines",
+        "hvac",
+        "indoor",
+        "off"
+      ],
+      "classification": {
+        "asset_format": "Oneshot",
+        "loop": false
+      },
+      "takes": [
+        {
+          "file": "MACHHvac_HVACOff_OS_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 4.245
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "indoor_hvac_off",
+        "source_collection": "04_indoors_hums_machines_actions_etc"
+      }
+    },
+    {
+      "id": "MACHHvac_HVACOn_OS_01",
+      "ucs": {
+        "cat_id": "MACHHvac",
+        "category": "MACHINES",
+        "subcategory": "HVAC",
+        "confidence": "machine"
+      },
+      "summary": "Use for: an HVAC system starting up.",
+      "keywords": [
+        "air",
+        "aircon",
+        "apparatus",
+        "baseboard",
+        "boiler",
+        "chiller",
+        "climate",
+        "conditioner",
+        "conditioning",
+        "contraption",
+        "control",
+        "cooler",
+        "dehumidifier",
+        "device",
+        "ductless",
+        "evaporative",
+        "filtration",
+        "furnace",
+        "handlers",
+        "heat",
+        "heater",
+        "heating",
+        "humidifier",
+        "humidifiers",
+        "machinery",
+        "mini-split",
+        "pump",
+        "pumps",
+        "purifier",
+        "radiator",
+        "systems",
+        "thermostat",
+        "thermostats",
+        "ventilation",
+        "machines",
+        "hvac",
+        "indoor"
+      ],
+      "classification": {
+        "asset_format": "Oneshot",
+        "loop": false
+      },
+      "takes": [
+        {
+          "file": "MACHHvac_HVACOn_OS_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 6.386
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "indoor_hvac_on",
+        "source_collection": "04_indoors_hums_machines_actions_etc"
+      }
+    },
+    {
+      "id": "MACHHvac_HVAC_LOOP_01",
+      "ucs": {
+        "cat_id": "MACHHvac",
+        "category": "MACHINES",
+        "subcategory": "HVAC",
+        "confidence": "machine"
+      },
+      "summary": "Use for: a running HVAC system: building air handling, ventilation hum.",
+      "keywords": [
+        "air",
+        "aircon",
+        "apparatus",
+        "baseboard",
+        "boiler",
+        "chiller",
+        "climate",
+        "conditioner",
+        "conditioning",
+        "contraption",
+        "control",
+        "cooler",
+        "dehumidifier",
+        "device",
+        "ductless",
+        "evaporative",
+        "filtration",
+        "furnace",
+        "handlers",
+        "heat",
+        "heater",
+        "heating",
+        "humidifier",
+        "humidifiers",
+        "machinery",
+        "mini-split",
+        "pump",
+        "pumps",
+        "purifier",
+        "radiator",
+        "systems",
+        "thermostat",
+        "thermostats",
+        "ventilation",
+        "machines",
+        "hvac",
+        "indoor"
+      ],
+      "classification": {
+        "asset_format": "Loop",
+        "loop": true
+      },
+      "takes": [
+        {
+          "file": "MACHHvac_HVAC_LOOP_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 18.816
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "indoor_hvac",
+        "source_collection": "04_indoors_hums_machines_actions_etc"
+      }
+    },
+    {
+      "id": "MACHInd_Hydraulic_OS_01",
+      "ucs": {
+        "cat_id": "MACHInd",
+        "category": "MACHINES",
+        "subcategory": "INDUSTRIAL",
+        "confidence": "machine"
+      },
+      "summary": "Use for: a hydraulic mechanism: a press, a piston, a heavy hatch or lift actuating.",
+      "keywords": [
+        "apparatus",
+        "assembly",
+        "auto",
+        "automation",
+        "contraption",
+        "conveyor",
+        "cutting",
+        "device",
+        "die",
+        "distillery",
+        "duty",
+        "factory",
+        "form",
+        "heavy",
+        "hydraulic",
+        "industrial",
+        "injection",
+        "line",
+        "machine",
+        "machinery",
+        "manufacturing",
+        "milling",
+        "molding",
+        "plant",
+        "press",
+        "printing",
+        "production",
+        "punch",
+        "reactor",
+        "robotics",
+        "robots",
+        "sawmill",
+        "shearing",
+        "smelter",
+        "smeltery",
+        "stamper",
+        "system",
+        "machines",
+        "indoor"
+      ],
+      "classification": {
+        "asset_format": "Oneshot",
+        "loop": false
+      },
+      "takes": [
+        {
+          "file": "MACHInd_Hydraulic_OS_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 4.603
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "indoor_hydraulic",
+        "source_collection": "04_indoors_hums_machines_actions_etc"
+      }
+    },
+    {
+      "id": "MACHMisc_MachineGeneric_LOOP_01",
+      "ucs": {
+        "cat_id": "MACHMisc",
+        "category": "MACHINES",
+        "subcategory": "MISC",
+        "confidence": "machine"
+      },
+      "summary": "Use for: a generic running machine: an indoor mechanical device in operation.",
+      "keywords": [
+        "apparatus",
+        "contraption",
+        "device",
+        "machinery",
+        "miscellaneous",
+        "machines",
+        "misc",
+        "indoor",
+        "machine",
+        "generic"
+      ],
+      "classification": {
+        "asset_format": "Loop",
+        "loop": true
+      },
+      "takes": [
+        {
+          "file": "MACHMisc_MachineGeneric_LOOP_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 46.061
+        },
+        {
+          "file": "MACHMisc_MachineGeneric_LOOP_02.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 39.698
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "indoor_machine_generic",
+        "source_collection": "04_indoors_hums_machines_actions_etc"
+      }
+    },
+    {
+      "id": "MACHMisc_MachineHum_LOOP_01",
+      "ucs": {
+        "cat_id": "MACHMisc",
+        "category": "MACHINES",
+        "subcategory": "MISC",
+        "confidence": "machine"
+      },
+      "summary": "Use for: a steady machine hum: an indoor appliance or equipment drone.",
+      "keywords": [
+        "apparatus",
+        "contraption",
+        "device",
+        "machinery",
+        "miscellaneous",
+        "machines",
+        "misc",
+        "indoor",
+        "ambient",
+        "machine",
+        "hum"
+      ],
+      "classification": {
+        "asset_format": "Loop",
+        "loop": true
+      },
+      "takes": [
+        {
+          "file": "MACHMisc_MachineHum_LOOP_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 2,
+          "duration_s": 30.0
+        },
+        {
+          "file": "MACHMisc_MachineHum_LOOP_02.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 2,
+          "duration_s": 30.0
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "indoor_ambient_machine_hum",
+        "source_collection": "04_indoors_hums_machines_actions_etc"
+      }
+    }
+  ]
+}

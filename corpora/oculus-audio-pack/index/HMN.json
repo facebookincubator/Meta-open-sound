@@ -1,0 +1,226 @@
+{
+  "schema_version": "1.0.0",
+  "collection": "oculus-audio-pack",
+  "cat_short": "HMN",
+  "license": "CC-BY-4.0",
+  "attribution": "\"Oculus Audio Pack 01\" by Oculus VR, LLC (https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/), licensed under CC BY 4.0. Files renamed to the UCS naming convention; OGG previews transcoded from the original WAVs.",
+  "sounds": [
+    {
+      "id": "HMNBrth_FemaleBreathing_OS_01",
+      "ucs": {
+        "cat_id": "HMNBrth",
+        "category": "HUMAN",
+        "subcategory": "BREATH",
+        "confidence": "machine"
+      },
+      "summary": "Use for: a woman breathing heavily: exertion, fear, recovering after a chase.",
+      "keywords": [
+        "adult",
+        "asphyxiate",
+        "asthma",
+        "breath",
+        "breathing",
+        "breaths",
+        "child",
+        "exhalation",
+        "exhale",
+        "exhaled",
+        "exhales",
+        "exhaling",
+        "female",
+        "gasp",
+        "gasping",
+        "heave",
+        "huff",
+        "huffing",
+        "hyperventilate",
+        "hyperventilating",
+        "inhalation",
+        "inhale",
+        "inhaled",
+        "inhales",
+        "inhaling",
+        "labored",
+        "male",
+        "man",
+        "meditation",
+        "pant",
+        "panting",
+        "person",
+        "puffing",
+        "respiration",
+        "sigh",
+        "suffocate",
+        "suffocates",
+        "suffocating",
+        "wheeze",
+        "wheezing",
+        "whoop",
+        "woman",
+        "human",
+        "voice"
+      ],
+      "classification": {
+        "asset_format": "Oneshot",
+        "loop": false
+      },
+      "takes": [
+        {
+          "file": "HMNBrth_FemaleBreathing_OS_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 11.715
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "voice_female_breathing",
+        "source_collection": "06_vocal"
+      }
+    },
+    {
+      "id": "HMNBrth_MaleBreathing_OS_01",
+      "ucs": {
+        "cat_id": "HMNBrth",
+        "category": "HUMAN",
+        "subcategory": "BREATH",
+        "confidence": "machine"
+      },
+      "summary": "Use for: a man breathing heavily: exertion, fear, recovering after a chase.",
+      "keywords": [
+        "adult",
+        "asphyxiate",
+        "asthma",
+        "breath",
+        "breathing",
+        "breaths",
+        "child",
+        "exhalation",
+        "exhale",
+        "exhaled",
+        "exhales",
+        "exhaling",
+        "female",
+        "gasp",
+        "gasping",
+        "heave",
+        "huff",
+        "huffing",
+        "hyperventilate",
+        "hyperventilating",
+        "inhalation",
+        "inhale",
+        "inhaled",
+        "inhales",
+        "inhaling",
+        "labored",
+        "male",
+        "man",
+        "meditation",
+        "pant",
+        "panting",
+        "person",
+        "puffing",
+        "respiration",
+        "sigh",
+        "suffocate",
+        "suffocates",
+        "suffocating",
+        "wheeze",
+        "wheezing",
+        "whoop",
+        "woman",
+        "human",
+        "voice"
+      ],
+      "classification": {
+        "asset_format": "Oneshot",
+        "loop": false
+      },
+      "takes": [
+        {
+          "file": "HMNBrth_MaleBreathing_OS_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 10.856
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "voice_male_breathing",
+        "source_collection": "06_vocal"
+      }
+    },
+    {
+      "id": "HMNBurp_Burp_OS_01",
+      "ucs": {
+        "cat_id": "HMNBurp",
+        "category": "HUMAN",
+        "subcategory": "BURP",
+        "confidence": "machine"
+      },
+      "summary": "Use for: a human burp: comedy, eating and drinking.",
+      "keywords": [
+        "adult",
+        "belch",
+        "belching",
+        "burp",
+        "burping",
+        "child",
+        "female",
+        "hiccup",
+        "male",
+        "man",
+        "person",
+        "woman",
+        "human",
+        "voice"
+      ],
+      "classification": {
+        "asset_format": "Shuffle",
+        "loop": false
+      },
+      "takes": [
+        {
+          "file": "HMNBurp_Burp_OS_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 0.307
+        },
+        {
+          "file": "HMNBurp_Burp_OS_02.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 0.596
+        },
+        {
+          "file": "HMNBurp_Burp_OS_03.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 0.811
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "voice_burp",
+        "source_collection": "06_vocal"
+      }
+    }
+  ]
+}

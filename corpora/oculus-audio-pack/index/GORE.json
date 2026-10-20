@@ -1,0 +1,262 @@
+{
+  "schema_version": "1.0.0",
+  "collection": "oculus-audio-pack",
+  "cat_short": "GORE",
+  "license": "CC-BY-4.0",
+  "attribution": "\"Oculus Audio Pack 01\" by Oculus VR, LLC (https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/), licensed under CC BY 4.0. Files renamed to the UCS naming convention; OGG previews transcoded from the original WAVs.",
+  "sounds": [
+    {
+      "id": "GOREBone_BonesBreaking_OS_01",
+      "ucs": {
+        "cat_id": "GOREBone",
+        "category": "GORE",
+        "subcategory": "BONE",
+        "confidence": "machine"
+      },
+      "summary": "Use for: bones snapping and breaking: brutal gore impacts, a creature crushing a skeleton. Horror foley.",
+      "keywords": [
+        "bone",
+        "bonelike",
+        "bonemeal",
+        "boney",
+        "bony",
+        "break",
+        "broken",
+        "cartilages",
+        "compound",
+        "crunch",
+        "femoral",
+        "femur",
+        "fracture",
+        "gristle",
+        "humerus",
+        "jaw",
+        "jawbone",
+        "knuckle",
+        "knucklebone",
+        "ligament",
+        "marrow",
+        "rib",
+        "shatter",
+        "shinbone",
+        "shinbones",
+        "skeletal",
+        "skeleton",
+        "snap",
+        "spinal",
+        "spine",
+        "tibia",
+        "tooth",
+        "gore",
+        "creepy",
+        "bones",
+        "breaking"
+      ],
+      "classification": {
+        "asset_format": "Shuffle",
+        "loop": false
+      },
+      "takes": [
+        {
+          "file": "GOREBone_BonesBreaking_OS_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 1.051
+        },
+        {
+          "file": "GOREBone_BonesBreaking_OS_02.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 1.653
+        },
+        {
+          "file": "GOREBone_BonesBreaking_OS_03.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 1.403
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "creepy_bones_breaking",
+        "source_collection": "01_creepy_horror"
+      }
+    },
+    {
+      "id": "GOREBone_SkullCracking_OS_01",
+      "ucs": {
+        "cat_id": "GOREBone",
+        "category": "GORE",
+        "subcategory": "BONE",
+        "confidence": "machine"
+      },
+      "summary": "Use for: a skull or hard bone cracking: a brutal gore hit, a creature biting down, a finishing blow.",
+      "keywords": [
+        "bone",
+        "bonelike",
+        "bonemeal",
+        "boney",
+        "bony",
+        "break",
+        "broken",
+        "cartilages",
+        "compound",
+        "crunch",
+        "femoral",
+        "femur",
+        "fracture",
+        "gristle",
+        "humerus",
+        "jaw",
+        "jawbone",
+        "knuckle",
+        "knucklebone",
+        "ligament",
+        "marrow",
+        "rib",
+        "shatter",
+        "shinbone",
+        "shinbones",
+        "skeletal",
+        "skeleton",
+        "snap",
+        "spinal",
+        "spine",
+        "tibia",
+        "tooth",
+        "gore",
+        "creepy",
+        "skull",
+        "cracking"
+      ],
+      "classification": {
+        "asset_format": "Shuffle",
+        "loop": false
+      },
+      "takes": [
+        {
+          "file": "GOREBone_SkullCracking_OS_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 1.531
+        },
+        {
+          "file": "GOREBone_SkullCracking_OS_02.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 1.913
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "creepy_skull_cracking",
+        "source_collection": "01_creepy_horror"
+      }
+    },
+    {
+      "id": "GORESqsh_BloodSquishSlimy_OS_01",
+      "ucs": {
+        "cat_id": "GORESqsh",
+        "category": "GORE",
+        "subcategory": "SQUISH",
+        "confidence": "machine"
+      },
+      "summary": "Use for: wet, slimy flesh or blood squishes: gore hits, a monster feeding, stepping in something foul. Horror foley.",
+      "keywords": [
+        "compress",
+        "goosh",
+        "intestine",
+        "juicy",
+        "macerate",
+        "mash",
+        "mashed",
+        "mashing",
+        "moosh",
+        "mush",
+        "mushed",
+        "mushy",
+        "organ",
+        "slop",
+        "splat",
+        "squash",
+        "squashed",
+        "squashing",
+        "squashy",
+        "squeezed",
+        "squeezes",
+        "squeezing",
+        "squelch",
+        "squelchy",
+        "squidge",
+        "squiggle",
+        "squirty",
+        "squish",
+        "squishing",
+        "squishy",
+        "gore",
+        "creepy",
+        "blood",
+        "slimy"
+      ],
+      "classification": {
+        "asset_format": "Shuffle",
+        "loop": false
+      },
+      "takes": [
+        {
+          "file": "GORESqsh_BloodSquishSlimy_OS_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 2.864
+        },
+        {
+          "file": "GORESqsh_BloodSquishSlimy_OS_02.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 4.395
+        },
+        {
+          "file": "GORESqsh_BloodSquishSlimy_OS_03.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 3.051
+        },
+        {
+          "file": "GORESqsh_BloodSquishSlimy_OS_04.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 6.304
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "creepy_blood_squish_slimy",
+        "source_collection": "01_creepy_horror"
+      }
+    }
+  ]
+}

@@ -1,0 +1,1701 @@
+{
+  "schema_version": "1.0.0",
+  "collection": "oculus-audio-pack",
+  "cat_short": "VOX",
+  "license": "CC-BY-4.0",
+  "attribution": "\"Oculus Audio Pack 01\" by Oculus VR, LLC (https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/), licensed under CC BY 4.0. Files renamed to the UCS naming convention; OGG previews transcoded from the original WAVs.",
+  "sounds": [
+    {
+      "id": "VOXEfrt_Female01Effort_OS_01",
+      "ucs": {
+        "cat_id": "VOXEfrt",
+        "category": "VOICES",
+        "subcategory": "EFFORTS",
+        "confidence": "machine"
+      },
+      "summary": "Use for: a grunt of effort from a female character voice 1: attacking, jumping, lifting. Matches the other Female01 vocals.",
+      "keywords": [
+        "effort",
+        "exert",
+        "exertion",
+        "exhale",
+        "gasping",
+        "grunt",
+        "grunting",
+        "heaving",
+        "inhale",
+        "panting",
+        "pushing",
+        "strain",
+        "struggle",
+        "struggling",
+        "vocal",
+        "vocalization",
+        "wheezing",
+        "voices",
+        "efforts",
+        "voice",
+        "female"
+      ],
+      "classification": {
+        "asset_format": "Oneshot",
+        "loop": false
+      },
+      "takes": [
+        {
+          "file": "VOXEfrt_Female01Effort_OS_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 0.918
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "voice_female_01_effort",
+        "source_collection": "06_vocal/Female 01"
+      }
+    },
+    {
+      "id": "VOXEfrt_Female02Effort_OS_01",
+      "ucs": {
+        "cat_id": "VOXEfrt",
+        "category": "VOICES",
+        "subcategory": "EFFORTS",
+        "confidence": "machine"
+      },
+      "summary": "Use for: a grunt of effort from a female character voice 2: attacking, jumping, lifting. Matches the other Female02 vocals.",
+      "keywords": [
+        "effort",
+        "exert",
+        "exertion",
+        "exhale",
+        "gasping",
+        "grunt",
+        "grunting",
+        "heaving",
+        "inhale",
+        "panting",
+        "pushing",
+        "strain",
+        "struggle",
+        "struggling",
+        "vocal",
+        "vocalization",
+        "wheezing",
+        "voices",
+        "efforts",
+        "voice",
+        "female"
+      ],
+      "classification": {
+        "asset_format": "Oneshot",
+        "loop": false
+      },
+      "takes": [
+        {
+          "file": "VOXEfrt_Female02Effort_OS_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 1.022
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "voice_female_02_effort",
+        "source_collection": "06_vocal/Female 02"
+      }
+    },
+    {
+      "id": "VOXEfrt_Male01Effort_OS_01",
+      "ucs": {
+        "cat_id": "VOXEfrt",
+        "category": "VOICES",
+        "subcategory": "EFFORTS",
+        "confidence": "machine"
+      },
+      "summary": "Use for: a grunt of effort from a male character voice 1: attacking, jumping, lifting. Matches the other Male01 vocals.",
+      "keywords": [
+        "effort",
+        "exert",
+        "exertion",
+        "exhale",
+        "gasping",
+        "grunt",
+        "grunting",
+        "heaving",
+        "inhale",
+        "panting",
+        "pushing",
+        "strain",
+        "struggle",
+        "struggling",
+        "vocal",
+        "vocalization",
+        "wheezing",
+        "voices",
+        "efforts",
+        "voice",
+        "male"
+      ],
+      "classification": {
+        "asset_format": "Oneshot",
+        "loop": false
+      },
+      "takes": [
+        {
+          "file": "VOXEfrt_Male01Effort_OS_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 0.324
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "voice_male_01_effort",
+        "source_collection": "06_vocal/Male 01"
+      }
+    },
+    {
+      "id": "VOXEfrt_Male02Effort_OS_01",
+      "ucs": {
+        "cat_id": "VOXEfrt",
+        "category": "VOICES",
+        "subcategory": "EFFORTS",
+        "confidence": "machine"
+      },
+      "summary": "Use for: a grunt of effort from a male character voice 2: attacking, jumping, lifting. Matches the other Male02 vocals.",
+      "keywords": [
+        "effort",
+        "exert",
+        "exertion",
+        "exhale",
+        "gasping",
+        "grunt",
+        "grunting",
+        "heaving",
+        "inhale",
+        "panting",
+        "pushing",
+        "strain",
+        "struggle",
+        "struggling",
+        "vocal",
+        "vocalization",
+        "wheezing",
+        "voices",
+        "efforts",
+        "voice",
+        "male"
+      ],
+      "classification": {
+        "asset_format": "Oneshot",
+        "loop": false
+      },
+      "takes": [
+        {
+          "file": "VOXEfrt_Male02Effort_OS_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 0.274
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "voice_male_02_effort",
+        "source_collection": "06_vocal/Male 02"
+      }
+    },
+    {
+      "id": "VOXFem_Female01DeathScream_OS_01",
+      "ucs": {
+        "cat_id": "VOXFem",
+        "category": "VOICES",
+        "subcategory": "FEMALE",
+        "confidence": "machine"
+      },
+      "summary": "Use for: a dramatic death scream from a female character voice 1. Matches the other Female01 vocals.",
+      "keywords": [
+        "chick",
+        "dame",
+        "female",
+        "feminine",
+        "gal",
+        "girl",
+        "lady",
+        "lass",
+        "madam",
+        "miss",
+        "person",
+        "vocal",
+        "vocalization",
+        "woman",
+        "voices",
+        "voice",
+        "deathscream"
+      ],
+      "classification": {
+        "asset_format": "Oneshot",
+        "loop": false
+      },
+      "takes": [
+        {
+          "file": "VOXFem_Female01DeathScream_OS_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 2.383
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "voice_female_01_deathscream",
+        "source_collection": "06_vocal/Female 01"
+      }
+    },
+    {
+      "id": "VOXFem_Female01Death_OS_01",
+      "ucs": {
+        "cat_id": "VOXFem",
+        "category": "VOICES",
+        "subcategory": "FEMALE",
+        "confidence": "machine"
+      },
+      "summary": "Use for: a character dying: the death vocal of a female character voice 1. Matches the other Female01 vocals.",
+      "keywords": [
+        "chick",
+        "dame",
+        "female",
+        "feminine",
+        "gal",
+        "girl",
+        "lady",
+        "lass",
+        "madam",
+        "miss",
+        "person",
+        "vocal",
+        "vocalization",
+        "woman",
+        "voices",
+        "voice",
+        "deaths"
+      ],
+      "classification": {
+        "asset_format": "Shuffle",
+        "loop": false
+      },
+      "takes": [
+        {
+          "file": "VOXFem_Female01Death_OS_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 1.104
+        },
+        {
+          "file": "VOXFem_Female01Death_OS_02.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 1.318
+        },
+        {
+          "file": "VOXFem_Female01Death_OS_03.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 1.21
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "voice_female_01_deaths",
+        "source_collection": "06_vocal/Female 01"
+      }
+    },
+    {
+      "id": "VOXFem_Female01Hurt_OS_01",
+      "ucs": {
+        "cat_id": "VOXFem",
+        "category": "VOICES",
+        "subcategory": "FEMALE",
+        "confidence": "machine"
+      },
+      "summary": "Use for: a pain reaction from a female character voice 1: taking damage. Matches the other Female01 vocals.",
+      "keywords": [
+        "chick",
+        "dame",
+        "female",
+        "feminine",
+        "gal",
+        "girl",
+        "lady",
+        "lass",
+        "madam",
+        "miss",
+        "person",
+        "vocal",
+        "vocalization",
+        "woman",
+        "voices",
+        "voice",
+        "hurt"
+      ],
+      "classification": {
+        "asset_format": "Shuffle",
+        "loop": false
+      },
+      "takes": [
+        {
+          "file": "VOXFem_Female01Hurt_OS_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 0.668
+        },
+        {
+          "file": "VOXFem_Female01Hurt_OS_02.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 1.064
+        },
+        {
+          "file": "VOXFem_Female01Hurt_OS_03.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 0.543
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "voice_female_01_hurt",
+        "source_collection": "06_vocal/Female 01"
+      }
+    },
+    {
+      "id": "VOXFem_Female02DeathScream_OS_01",
+      "ucs": {
+        "cat_id": "VOXFem",
+        "category": "VOICES",
+        "subcategory": "FEMALE",
+        "confidence": "machine"
+      },
+      "summary": "Use for: a dramatic death scream from a female character voice 2. Matches the other Female02 vocals.",
+      "keywords": [
+        "chick",
+        "dame",
+        "female",
+        "feminine",
+        "gal",
+        "girl",
+        "lady",
+        "lass",
+        "madam",
+        "miss",
+        "person",
+        "vocal",
+        "vocalization",
+        "woman",
+        "voices",
+        "voice",
+        "deathscream"
+      ],
+      "classification": {
+        "asset_format": "Oneshot",
+        "loop": false
+      },
+      "takes": [
+        {
+          "file": "VOXFem_Female02DeathScream_OS_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 1.681
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "voice_female_02_deathscream",
+        "source_collection": "06_vocal/Female 02"
+      }
+    },
+    {
+      "id": "VOXFem_Female02Death_OS_01",
+      "ucs": {
+        "cat_id": "VOXFem",
+        "category": "VOICES",
+        "subcategory": "FEMALE",
+        "confidence": "machine"
+      },
+      "summary": "Use for: a character dying: the death vocal of a female character voice 2. Matches the other Female02 vocals.",
+      "keywords": [
+        "chick",
+        "dame",
+        "female",
+        "feminine",
+        "gal",
+        "girl",
+        "lady",
+        "lass",
+        "madam",
+        "miss",
+        "person",
+        "vocal",
+        "vocalization",
+        "woman",
+        "voices",
+        "voice",
+        "death"
+      ],
+      "classification": {
+        "asset_format": "Shuffle",
+        "loop": false
+      },
+      "takes": [
+        {
+          "file": "VOXFem_Female02Death_OS_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 1.591
+        },
+        {
+          "file": "VOXFem_Female02Death_OS_02.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 1.804
+        },
+        {
+          "file": "VOXFem_Female02Death_OS_03.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 1.064
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "voice_female_02_death",
+        "source_collection": "06_vocal/Female 02"
+      }
+    },
+    {
+      "id": "VOXFem_Female02Hurt_OS_01",
+      "ucs": {
+        "cat_id": "VOXFem",
+        "category": "VOICES",
+        "subcategory": "FEMALE",
+        "confidence": "machine"
+      },
+      "summary": "Use for: a pain reaction from a female character voice 2: taking damage. Matches the other Female02 vocals.",
+      "keywords": [
+        "chick",
+        "dame",
+        "female",
+        "feminine",
+        "gal",
+        "girl",
+        "lady",
+        "lass",
+        "madam",
+        "miss",
+        "person",
+        "vocal",
+        "vocalization",
+        "woman",
+        "voices",
+        "voice",
+        "hurt"
+      ],
+      "classification": {
+        "asset_format": "Shuffle",
+        "loop": false
+      },
+      "takes": [
+        {
+          "file": "VOXFem_Female02Hurt_OS_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 0.376
+        },
+        {
+          "file": "VOXFem_Female02Hurt_OS_02.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 0.382
+        },
+        {
+          "file": "VOXFem_Female02Hurt_OS_03.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 0.355
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "voice_female_02_hurt",
+        "source_collection": "06_vocal/Female 02"
+      }
+    },
+    {
+      "id": "VOXFem_GroanCreepy_OS_01",
+      "ucs": {
+        "cat_id": "VOXFem",
+        "category": "VOICES",
+        "subcategory": "FEMALE",
+        "confidence": "machine"
+      },
+      "summary": "Use for: an eerie female groan or moan: a ghost, a possessed or wounded woman, a horror jump-scare lead-in.",
+      "keywords": [
+        "chick",
+        "dame",
+        "female",
+        "feminine",
+        "gal",
+        "girl",
+        "lady",
+        "lass",
+        "madam",
+        "miss",
+        "person",
+        "vocal",
+        "vocalization",
+        "woman",
+        "voices",
+        "creepy",
+        "groan"
+      ],
+      "classification": {
+        "asset_format": "Oneshot",
+        "loop": false
+      },
+      "takes": [
+        {
+          "file": "VOXFem_GroanCreepy_OS_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 4.086
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "creepy_groan_female",
+        "source_collection": "01_creepy_horror"
+      }
+    },
+    {
+      "id": "VOXLaff_EvilLaugh_OS_01",
+      "ucs": {
+        "cat_id": "VOXLaff",
+        "category": "VOICES",
+        "subcategory": "LAUGH",
+        "confidence": "machine"
+      },
+      "summary": "Use for: a villain's evil laugh: a boss reveal, a cackling bad guy.",
+      "keywords": [
+        "belly",
+        "cackle",
+        "cackling",
+        "chortle",
+        "chortling",
+        "chuckle",
+        "chuckling",
+        "funny",
+        "giggle",
+        "giggling",
+        "guffaw",
+        "guffawing",
+        "haha",
+        "holler",
+        "hoot",
+        "humor",
+        "humour",
+        "hysterical",
+        "joke",
+        "laugh",
+        "laughing",
+        "maniacal",
+        "snicker",
+        "snickering",
+        "snigger",
+        "sniggering",
+        "titter",
+        "tittering",
+        "twitter",
+        "vocal",
+        "vocalization",
+        "voices",
+        "voice",
+        "evil"
+      ],
+      "classification": {
+        "asset_format": "Shuffle",
+        "loop": false
+      },
+      "takes": [
+        {
+          "file": "VOXLaff_EvilLaugh_OS_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 2.882
+        },
+        {
+          "file": "VOXLaff_EvilLaugh_OS_02.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 2.582
+        },
+        {
+          "file": "VOXLaff_EvilLaugh_OS_03.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 2.604
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "voice_evil_laugh",
+        "source_collection": "06_vocal"
+      }
+    },
+    {
+      "id": "VOXLaff_Female01Laugh_OS_01",
+      "ucs": {
+        "cat_id": "VOXLaff",
+        "category": "VOICES",
+        "subcategory": "LAUGH",
+        "confidence": "machine"
+      },
+      "summary": "Use for: a laugh from a female character voice 1: taunting, victory, amusement. Matches the other Female01 vocals.",
+      "keywords": [
+        "belly",
+        "cackle",
+        "cackling",
+        "chortle",
+        "chortling",
+        "chuckle",
+        "chuckling",
+        "funny",
+        "giggle",
+        "giggling",
+        "guffaw",
+        "guffawing",
+        "haha",
+        "holler",
+        "hoot",
+        "humor",
+        "humour",
+        "hysterical",
+        "joke",
+        "laugh",
+        "laughing",
+        "maniacal",
+        "snicker",
+        "snickering",
+        "snigger",
+        "sniggering",
+        "titter",
+        "tittering",
+        "twitter",
+        "vocal",
+        "vocalization",
+        "voices",
+        "voice",
+        "female"
+      ],
+      "classification": {
+        "asset_format": "Shuffle",
+        "loop": false
+      },
+      "takes": [
+        {
+          "file": "VOXLaff_Female01Laugh_OS_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 1.246
+        },
+        {
+          "file": "VOXLaff_Female01Laugh_OS_02.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 1.865
+        },
+        {
+          "file": "VOXLaff_Female01Laugh_OS_03.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 1.841
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "voice_female_01_laugh",
+        "source_collection": "06_vocal/Female 01"
+      }
+    },
+    {
+      "id": "VOXLaff_Female02Laugh_OS_01",
+      "ucs": {
+        "cat_id": "VOXLaff",
+        "category": "VOICES",
+        "subcategory": "LAUGH",
+        "confidence": "machine"
+      },
+      "summary": "Use for: a laugh from a female character voice 2: taunting, victory, amusement. Matches the other Female02 vocals.",
+      "keywords": [
+        "belly",
+        "cackle",
+        "cackling",
+        "chortle",
+        "chortling",
+        "chuckle",
+        "chuckling",
+        "funny",
+        "giggle",
+        "giggling",
+        "guffaw",
+        "guffawing",
+        "haha",
+        "holler",
+        "hoot",
+        "humor",
+        "humour",
+        "hysterical",
+        "joke",
+        "laugh",
+        "laughing",
+        "maniacal",
+        "snicker",
+        "snickering",
+        "snigger",
+        "sniggering",
+        "titter",
+        "tittering",
+        "twitter",
+        "vocal",
+        "vocalization",
+        "voices",
+        "voice",
+        "female"
+      ],
+      "classification": {
+        "asset_format": "Shuffle",
+        "loop": false
+      },
+      "takes": [
+        {
+          "file": "VOXLaff_Female02Laugh_OS_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 1.705
+        },
+        {
+          "file": "VOXLaff_Female02Laugh_OS_02.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 1.66
+        },
+        {
+          "file": "VOXLaff_Female02Laugh_OS_03.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 1.67
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "voice_female_02_laugh",
+        "source_collection": "06_vocal/Female 02"
+      }
+    },
+    {
+      "id": "VOXLaff_Male01Laugh_OS_01",
+      "ucs": {
+        "cat_id": "VOXLaff",
+        "category": "VOICES",
+        "subcategory": "LAUGH",
+        "confidence": "machine"
+      },
+      "summary": "Use for: a laugh from a male character voice 1: taunting, victory, amusement. Matches the other Male01 vocals.",
+      "keywords": [
+        "belly",
+        "cackle",
+        "cackling",
+        "chortle",
+        "chortling",
+        "chuckle",
+        "chuckling",
+        "funny",
+        "giggle",
+        "giggling",
+        "guffaw",
+        "guffawing",
+        "haha",
+        "holler",
+        "hoot",
+        "humor",
+        "humour",
+        "hysterical",
+        "joke",
+        "laugh",
+        "laughing",
+        "maniacal",
+        "snicker",
+        "snickering",
+        "snigger",
+        "sniggering",
+        "titter",
+        "tittering",
+        "twitter",
+        "vocal",
+        "vocalization",
+        "voices",
+        "voice",
+        "male"
+      ],
+      "classification": {
+        "asset_format": "Shuffle",
+        "loop": false
+      },
+      "takes": [
+        {
+          "file": "VOXLaff_Male01Laugh_OS_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 1.564
+        },
+        {
+          "file": "VOXLaff_Male01Laugh_OS_02.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 1.79
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "voice_male_01_laugh",
+        "source_collection": "06_vocal/Male 01"
+      }
+    },
+    {
+      "id": "VOXLaff_Male02Laugh_OS_01",
+      "ucs": {
+        "cat_id": "VOXLaff",
+        "category": "VOICES",
+        "subcategory": "LAUGH",
+        "confidence": "machine"
+      },
+      "summary": "Use for: a laugh from a male character voice 2: taunting, victory, amusement. Matches the other Male02 vocals.",
+      "keywords": [
+        "belly",
+        "cackle",
+        "cackling",
+        "chortle",
+        "chortling",
+        "chuckle",
+        "chuckling",
+        "funny",
+        "giggle",
+        "giggling",
+        "guffaw",
+        "guffawing",
+        "haha",
+        "holler",
+        "hoot",
+        "humor",
+        "humour",
+        "hysterical",
+        "joke",
+        "laugh",
+        "laughing",
+        "maniacal",
+        "snicker",
+        "snickering",
+        "snigger",
+        "sniggering",
+        "titter",
+        "tittering",
+        "twitter",
+        "vocal",
+        "vocalization",
+        "voices",
+        "voice",
+        "male"
+      ],
+      "classification": {
+        "asset_format": "Shuffle",
+        "loop": false
+      },
+      "takes": [
+        {
+          "file": "VOXLaff_Male02Laugh_OS_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 1.605
+        },
+        {
+          "file": "VOXLaff_Male02Laugh_OS_02.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 1.663
+        },
+        {
+          "file": "VOXLaff_Male02Laugh_OS_03.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 1.539
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "voice_male_02_laugh",
+        "source_collection": "06_vocal/Male 02"
+      }
+    },
+    {
+      "id": "VOXMale_GroanCreepy_OS_01",
+      "ucs": {
+        "cat_id": "VOXMale",
+        "category": "VOICES",
+        "subcategory": "MALE",
+        "confidence": "machine"
+      },
+      "summary": "Use for: an eerie male groan or moan: a zombie, a ghost, a wounded man in the dark.",
+      "keywords": [
+        "bloke",
+        "boy",
+        "brother",
+        "chap",
+        "dude",
+        "fellow",
+        "gentleman",
+        "guy",
+        "male",
+        "man",
+        "masculine",
+        "person",
+        "vocal",
+        "vocalization",
+        "voices",
+        "creepy",
+        "groan"
+      ],
+      "classification": {
+        "asset_format": "Oneshot",
+        "loop": false
+      },
+      "takes": [
+        {
+          "file": "VOXMale_GroanCreepy_OS_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 5.224
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "creepy_groan_male",
+        "source_collection": "01_creepy_horror"
+      }
+    },
+    {
+      "id": "VOXMale_Male01DeathScream_OS_01",
+      "ucs": {
+        "cat_id": "VOXMale",
+        "category": "VOICES",
+        "subcategory": "MALE",
+        "confidence": "machine"
+      },
+      "summary": "Use for: a dramatic death scream from a male character voice 1. Matches the other Male01 vocals.",
+      "keywords": [
+        "bloke",
+        "boy",
+        "brother",
+        "chap",
+        "dude",
+        "fellow",
+        "gentleman",
+        "guy",
+        "male",
+        "man",
+        "masculine",
+        "person",
+        "vocal",
+        "vocalization",
+        "voices",
+        "voice",
+        "deathscream"
+      ],
+      "classification": {
+        "asset_format": "Oneshot",
+        "loop": false
+      },
+      "takes": [
+        {
+          "file": "VOXMale_Male01DeathScream_OS_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 3.349
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "voice_male_01_deathscream",
+        "source_collection": "06_vocal/Male 01"
+      }
+    },
+    {
+      "id": "VOXMale_Male01Death_OS_01",
+      "ucs": {
+        "cat_id": "VOXMale",
+        "category": "VOICES",
+        "subcategory": "MALE",
+        "confidence": "machine"
+      },
+      "summary": "Use for: a character dying: the death vocal of a male character voice 1. Matches the other Male01 vocals.",
+      "keywords": [
+        "bloke",
+        "boy",
+        "brother",
+        "chap",
+        "dude",
+        "fellow",
+        "gentleman",
+        "guy",
+        "male",
+        "man",
+        "masculine",
+        "person",
+        "vocal",
+        "vocalization",
+        "voices",
+        "voice",
+        "death"
+      ],
+      "classification": {
+        "asset_format": "Shuffle",
+        "loop": false
+      },
+      "takes": [
+        {
+          "file": "VOXMale_Male01Death_OS_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 1.182
+        },
+        {
+          "file": "VOXMale_Male01Death_OS_02.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 1.885
+        },
+        {
+          "file": "VOXMale_Male01Death_OS_03.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 2.053
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "voice_male_01_death",
+        "source_collection": "06_vocal/Male 01"
+      }
+    },
+    {
+      "id": "VOXMale_Male01Hurt_OS_01",
+      "ucs": {
+        "cat_id": "VOXMale",
+        "category": "VOICES",
+        "subcategory": "MALE",
+        "confidence": "machine"
+      },
+      "summary": "Use for: a pain reaction from a male character voice 1: taking damage. Matches the other Male01 vocals.",
+      "keywords": [
+        "bloke",
+        "boy",
+        "brother",
+        "chap",
+        "dude",
+        "fellow",
+        "gentleman",
+        "guy",
+        "male",
+        "man",
+        "masculine",
+        "person",
+        "vocal",
+        "vocalization",
+        "voices",
+        "voice",
+        "hurt"
+      ],
+      "classification": {
+        "asset_format": "Shuffle",
+        "loop": false
+      },
+      "takes": [
+        {
+          "file": "VOXMale_Male01Hurt_OS_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 0.637
+        },
+        {
+          "file": "VOXMale_Male01Hurt_OS_02.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 1.005
+        },
+        {
+          "file": "VOXMale_Male01Hurt_OS_03.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 0.37
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "voice_male_01_hurt",
+        "source_collection": "06_vocal/Male 01"
+      }
+    },
+    {
+      "id": "VOXMale_Male02DeathScream_OS_01",
+      "ucs": {
+        "cat_id": "VOXMale",
+        "category": "VOICES",
+        "subcategory": "MALE",
+        "confidence": "machine"
+      },
+      "summary": "Use for: a dramatic death scream from a male character voice 2. Matches the other Male02 vocals.",
+      "keywords": [
+        "bloke",
+        "boy",
+        "brother",
+        "chap",
+        "dude",
+        "fellow",
+        "gentleman",
+        "guy",
+        "male",
+        "man",
+        "masculine",
+        "person",
+        "vocal",
+        "vocalization",
+        "voices",
+        "voice",
+        "deathscream"
+      ],
+      "classification": {
+        "asset_format": "Oneshot",
+        "loop": false
+      },
+      "takes": [
+        {
+          "file": "VOXMale_Male02DeathScream_OS_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 2.833
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "voice_male_02_deathscream",
+        "source_collection": "06_vocal/Male 02"
+      }
+    },
+    {
+      "id": "VOXMale_Male02Death_OS_01",
+      "ucs": {
+        "cat_id": "VOXMale",
+        "category": "VOICES",
+        "subcategory": "MALE",
+        "confidence": "machine"
+      },
+      "summary": "Use for: a character dying: the death vocal of a male character voice 2. Matches the other Male02 vocals.",
+      "keywords": [
+        "bloke",
+        "boy",
+        "brother",
+        "chap",
+        "dude",
+        "fellow",
+        "gentleman",
+        "guy",
+        "male",
+        "man",
+        "masculine",
+        "person",
+        "vocal",
+        "vocalization",
+        "voices",
+        "voice",
+        "death"
+      ],
+      "classification": {
+        "asset_format": "Shuffle",
+        "loop": false
+      },
+      "takes": [
+        {
+          "file": "VOXMale_Male02Death_OS_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 1.073
+        },
+        {
+          "file": "VOXMale_Male02Death_OS_02.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 1.538
+        },
+        {
+          "file": "VOXMale_Male02Death_OS_03.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 1.215
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "voice_male_02_death",
+        "source_collection": "06_vocal/Male 02"
+      }
+    },
+    {
+      "id": "VOXMale_Male02Hurt_OS_01",
+      "ucs": {
+        "cat_id": "VOXMale",
+        "category": "VOICES",
+        "subcategory": "MALE",
+        "confidence": "machine"
+      },
+      "summary": "Use for: a pain reaction from a male character voice 2: taking damage. Matches the other Male02 vocals.",
+      "keywords": [
+        "bloke",
+        "boy",
+        "brother",
+        "chap",
+        "dude",
+        "fellow",
+        "gentleman",
+        "guy",
+        "male",
+        "man",
+        "masculine",
+        "person",
+        "vocal",
+        "vocalization",
+        "voices",
+        "voice",
+        "hurt"
+      ],
+      "classification": {
+        "asset_format": "Shuffle",
+        "loop": false
+      },
+      "takes": [
+        {
+          "file": "VOXMale_Male02Hurt_OS_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 0.5
+        },
+        {
+          "file": "VOXMale_Male02Hurt_OS_02.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 0.419
+        },
+        {
+          "file": "VOXMale_Male02Hurt_OS_03.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 0.411
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "voice_male_02_hurt",
+        "source_collection": "06_vocal/Male 02"
+      }
+    },
+    {
+      "id": "VOXScrm_FemaleScream_OS_01",
+      "ucs": {
+        "cat_id": "VOXScrm",
+        "category": "VOICES",
+        "subcategory": "SCREAM",
+        "confidence": "machine"
+      },
+      "summary": "Use for: a woman screaming: horror, terror, a jump scare.",
+      "keywords": [
+        "bellow",
+        "clamour",
+        "death",
+        "fall",
+        "hollar",
+        "holler",
+        "howl",
+        "outcry",
+        "scream",
+        "screech",
+        "shout",
+        "shriek",
+        "squeal",
+        "vocal",
+        "vocalization",
+        "wail",
+        "wilhelm",
+        "yell",
+        "yelp",
+        "yowl",
+        "voices",
+        "voice",
+        "female"
+      ],
+      "classification": {
+        "asset_format": "Oneshot",
+        "loop": false
+      },
+      "takes": [
+        {
+          "file": "VOXScrm_FemaleScream_OS_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 2.092
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "voice_female_scream",
+        "source_collection": "06_vocal"
+      }
+    },
+    {
+      "id": "VOXScrm_MaleScream_OS_01",
+      "ucs": {
+        "cat_id": "VOXScrm",
+        "category": "VOICES",
+        "subcategory": "SCREAM",
+        "confidence": "machine"
+      },
+      "summary": "Use for: a man screaming: horror, pain, terror.",
+      "keywords": [
+        "bellow",
+        "clamour",
+        "death",
+        "fall",
+        "hollar",
+        "holler",
+        "howl",
+        "outcry",
+        "scream",
+        "screech",
+        "shout",
+        "shriek",
+        "squeal",
+        "vocal",
+        "vocalization",
+        "wail",
+        "wilhelm",
+        "yell",
+        "yelp",
+        "yowl",
+        "voices",
+        "voice",
+        "male"
+      ],
+      "classification": {
+        "asset_format": "Shuffle",
+        "loop": false
+      },
+      "takes": [
+        {
+          "file": "VOXScrm_MaleScream_OS_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 1.049
+        },
+        {
+          "file": "VOXScrm_MaleScream_OS_02.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 1.312
+        },
+        {
+          "file": "VOXScrm_MaleScream_OS_03.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 1.643
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "voice_male_scream",
+        "source_collection": "06_vocal"
+      }
+    },
+    {
+      "id": "VOXWhsp_WhispersCreepyReverb_OS_01",
+      "ucs": {
+        "cat_id": "VOXWhsp",
+        "category": "VOICES",
+        "subcategory": "WHISPER",
+        "confidence": "machine"
+      },
+      "summary": "Use for: eerie whispers in a large reverberant space: disembodied voices echoing through a haunted building.",
+      "keywords": [
+        "faint",
+        "gossip",
+        "grumble",
+        "grumbling",
+        "hush",
+        "hushed",
+        "mumble",
+        "murmur",
+        "mutter",
+        "muttering",
+        "quietly",
+        "secret",
+        "softly",
+        "speak",
+        "subdued",
+        "susurration",
+        "undertones",
+        "vocal",
+        "vocalization",
+        "whisper",
+        "voices",
+        "creepy",
+        "whispers",
+        "reverb"
+      ],
+      "classification": {
+        "asset_format": "Oneshot",
+        "loop": false
+      },
+      "takes": [
+        {
+          "file": "VOXWhsp_WhispersCreepyReverb_OS_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 7.096
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "creepy_whispers_reverb",
+        "source_collection": "01_creepy_horror"
+      }
+    },
+    {
+      "id": "VOXWhsp_WhispersCreepy_OS_01",
+      "ucs": {
+        "cat_id": "VOXWhsp",
+        "category": "VOICES",
+        "subcategory": "WHISPER",
+        "confidence": "machine"
+      },
+      "summary": "Use for: unintelligible eerie whispers: ghosts, voices in your head, a haunted room. Dry version.",
+      "keywords": [
+        "faint",
+        "gossip",
+        "grumble",
+        "grumbling",
+        "hush",
+        "hushed",
+        "mumble",
+        "murmur",
+        "mutter",
+        "muttering",
+        "quietly",
+        "secret",
+        "softly",
+        "speak",
+        "subdued",
+        "susurration",
+        "undertones",
+        "vocal",
+        "vocalization",
+        "whisper",
+        "voices",
+        "creepy",
+        "whispers"
+      ],
+      "classification": {
+        "asset_format": "Oneshot",
+        "loop": false
+      },
+      "takes": [
+        {
+          "file": "VOXWhsp_WhispersCreepy_OS_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 5.376
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "creepy_whispers",
+        "source_collection": "01_creepy_horror"
+      }
+    }
+  ]
+}

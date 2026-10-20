@@ -1,0 +1,85 @@
+{
+  "schema_version": "1.0.0",
+  "collection": "oculus-audio-pack",
+  "cat_short": "CERM",
+  "license": "CC-BY-4.0",
+  "attribution": "\"Oculus Audio Pack 01\" by Oculus VR, LLC (https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/), licensed under CC BY 4.0. Files renamed to the UCS naming convention; OGG previews transcoded from the original WAVs.",
+  "sounds": [
+    {
+      "id": "CERMImpt_CeramicSmallImpact_OS_01",
+      "ucs": {
+        "cat_id": "CERMImpt",
+        "category": "CERAMICS",
+        "subcategory": "IMPACT",
+        "confidence": "machine"
+      },
+      "summary": "Use for: a small ceramic object hitting a surface: setting down a mug or plate, a small porcelain knock.",
+      "keywords": [
+        "bang",
+        "banging",
+        "bash",
+        "bump",
+        "ceramic",
+        "ceramics",
+        "china",
+        "clap",
+        "clay",
+        "clink",
+        "clunk",
+        "collide",
+        "colliding",
+        "collision",
+        "crash",
+        "crashing",
+        "crockery",
+        "drop",
+        "earthenware",
+        "hit",
+        "hitting",
+        "impact",
+        "impacting",
+        "jolt",
+        "knock",
+        "porcelain",
+        "pottery",
+        "pound",
+        "ram",
+        "shock",
+        "slam",
+        "slamming",
+        "smack",
+        "smacking",
+        "stoneware",
+        "strike",
+        "striking",
+        "terracotta",
+        "thrust",
+        "thump",
+        "tile",
+        "ware",
+        "small"
+      ],
+      "classification": {
+        "asset_format": "Oneshot",
+        "loop": false
+      },
+      "takes": [
+        {
+          "file": "CERMImpt_CeramicSmallImpact_OS_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 1.273
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "impact_small_ceramic",
+        "source_collection": "02_floors_footsteps_body_mvmt_impacts_actions_etc"
+      }
+    }
+  ]
+}

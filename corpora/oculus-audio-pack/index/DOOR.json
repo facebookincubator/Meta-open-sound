@@ -1,0 +1,904 @@
+{
+  "schema_version": "1.0.0",
+  "collection": "oculus-audio-pack",
+  "cat_short": "DOOR",
+  "license": "CC-BY-4.0",
+  "attribution": "\"Oculus Audio Pack 01\" by Oculus VR, LLC (https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/), licensed under CC BY 4.0. Files renamed to the UCS naming convention; OGG previews transcoded from the original WAVs.",
+  "sounds": [
+    {
+      "id": "DOORGlas_GlassDoorClose_OS_01",
+      "ucs": {
+        "cat_id": "DOORGlas",
+        "category": "DOORS",
+        "subcategory": "GLASS",
+        "confidence": "machine"
+      },
+      "summary": "Use for: closing a glass door. Pairs with the other GlassDoor sounds.",
+      "keywords": [
+        "bay",
+        "door",
+        "french",
+        "front",
+        "glass",
+        "patio",
+        "store",
+        "doors",
+        "close"
+      ],
+      "classification": {
+        "asset_format": "Oneshot",
+        "loop": false
+      },
+      "takes": [
+        {
+          "file": "DOORGlas_GlassDoorClose_OS_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 0.816
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "doors_glass_close",
+        "source_collection": "07_doors"
+      }
+    },
+    {
+      "id": "DOORGlas_GlassDoorOpen_OS_01",
+      "ucs": {
+        "cat_id": "DOORGlas",
+        "category": "DOORS",
+        "subcategory": "GLASS",
+        "confidence": "machine"
+      },
+      "summary": "Use for: opening a glass door. Pairs with the other GlassDoor sounds.",
+      "keywords": [
+        "bay",
+        "door",
+        "french",
+        "front",
+        "glass",
+        "patio",
+        "store",
+        "doors",
+        "open"
+      ],
+      "classification": {
+        "asset_format": "Oneshot",
+        "loop": false
+      },
+      "takes": [
+        {
+          "file": "DOORGlas_GlassDoorOpen_OS_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 0.774
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "doors_glass_open",
+        "source_collection": "07_doors"
+      }
+    },
+    {
+      "id": "DOORHdwr_FrontDoorKnob_OS_01",
+      "ucs": {
+        "cat_id": "DOORHdwr",
+        "category": "DOORS",
+        "subcategory": "HARDWARE",
+        "confidence": "machine"
+      },
+      "summary": "Use for: turning the knob of a heavy residential front door. Pairs with the other FrontDoor sounds.",
+      "keywords": [
+        "bar",
+        "chain",
+        "deadbolt",
+        "door",
+        "doorknob",
+        "fixture",
+        "handle",
+        "hardware",
+        "hinge",
+        "jiggle",
+        "knob",
+        "latch",
+        "lock",
+        "peephole",
+        "picking",
+        "push",
+        "stop",
+        "doors",
+        "frontdoor"
+      ],
+      "classification": {
+        "asset_format": "Oneshot",
+        "loop": false
+      },
+      "takes": [
+        {
+          "file": "DOORHdwr_FrontDoorKnob_OS_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 0.835
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "doors_frontdoor_doorknob",
+        "source_collection": "07_doors"
+      }
+    },
+    {
+      "id": "DOORHdwr_FrontDoorLock_OS_01",
+      "ucs": {
+        "cat_id": "DOORHdwr",
+        "category": "DOORS",
+        "subcategory": "HARDWARE",
+        "confidence": "machine"
+      },
+      "summary": "Use for: locking a heavy residential front door. Pairs with the other FrontDoor sounds.",
+      "keywords": [
+        "bar",
+        "chain",
+        "deadbolt",
+        "door",
+        "doorknob",
+        "fixture",
+        "handle",
+        "hardware",
+        "hinge",
+        "jiggle",
+        "knob",
+        "latch",
+        "lock",
+        "peephole",
+        "picking",
+        "push",
+        "stop",
+        "doors",
+        "frontdoor"
+      ],
+      "classification": {
+        "asset_format": "Oneshot",
+        "loop": false
+      },
+      "takes": [
+        {
+          "file": "DOORHdwr_FrontDoorLock_OS_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 0.372
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "doors_frontdoor_lock",
+        "source_collection": "07_doors"
+      }
+    },
+    {
+      "id": "DOORHdwr_GlassDoorKnob_OS_01",
+      "ucs": {
+        "cat_id": "DOORHdwr",
+        "category": "DOORS",
+        "subcategory": "HARDWARE",
+        "confidence": "machine"
+      },
+      "summary": "Use for: turning the knob of a glass door. Pairs with the other GlassDoor sounds.",
+      "keywords": [
+        "bar",
+        "chain",
+        "deadbolt",
+        "door",
+        "doorknob",
+        "fixture",
+        "handle",
+        "hardware",
+        "hinge",
+        "jiggle",
+        "knob",
+        "latch",
+        "lock",
+        "peephole",
+        "picking",
+        "push",
+        "stop",
+        "doors",
+        "glass"
+      ],
+      "classification": {
+        "asset_format": "Oneshot",
+        "loop": false
+      },
+      "takes": [
+        {
+          "file": "DOORHdwr_GlassDoorKnob_OS_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 0.601
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "doors_glass_knob",
+        "source_collection": "07_doors"
+      }
+    },
+    {
+      "id": "DOORHdwr_GlassDoorLock_OS_01",
+      "ucs": {
+        "cat_id": "DOORHdwr",
+        "category": "DOORS",
+        "subcategory": "HARDWARE",
+        "confidence": "machine"
+      },
+      "summary": "Use for: locking a glass door. Pairs with the other GlassDoor sounds.",
+      "keywords": [
+        "bar",
+        "chain",
+        "deadbolt",
+        "door",
+        "doorknob",
+        "fixture",
+        "handle",
+        "hardware",
+        "hinge",
+        "jiggle",
+        "knob",
+        "latch",
+        "lock",
+        "peephole",
+        "picking",
+        "push",
+        "stop",
+        "doors",
+        "glass"
+      ],
+      "classification": {
+        "asset_format": "Oneshot",
+        "loop": false
+      },
+      "takes": [
+        {
+          "file": "DOORHdwr_GlassDoorLock_OS_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 0.456
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "doors_glass_lock",
+        "source_collection": "07_doors"
+      }
+    },
+    {
+      "id": "DOORHdwr_OfficeDoorKnob_OS_01",
+      "ucs": {
+        "cat_id": "DOORHdwr",
+        "category": "DOORS",
+        "subcategory": "HARDWARE",
+        "confidence": "machine"
+      },
+      "summary": "Use for: turning the knob of an office door. Pairs with the other OfficeDoor sounds.",
+      "keywords": [
+        "bar",
+        "chain",
+        "deadbolt",
+        "door",
+        "doorknob",
+        "fixture",
+        "handle",
+        "hardware",
+        "hinge",
+        "jiggle",
+        "knob",
+        "latch",
+        "lock",
+        "peephole",
+        "picking",
+        "push",
+        "stop",
+        "doors",
+        "office"
+      ],
+      "classification": {
+        "asset_format": "Oneshot",
+        "loop": false
+      },
+      "takes": [
+        {
+          "file": "DOORHdwr_OfficeDoorKnob_OS_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 0.704
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "doors_office_doorknob",
+        "source_collection": "07_doors"
+      }
+    },
+    {
+      "id": "DOORHdwr_OfficeDoorLock_OS_01",
+      "ucs": {
+        "cat_id": "DOORHdwr",
+        "category": "DOORS",
+        "subcategory": "HARDWARE",
+        "confidence": "machine"
+      },
+      "summary": "Use for: locking an office door. Pairs with the other OfficeDoor sounds.",
+      "keywords": [
+        "bar",
+        "chain",
+        "deadbolt",
+        "door",
+        "doorknob",
+        "fixture",
+        "handle",
+        "hardware",
+        "hinge",
+        "jiggle",
+        "knob",
+        "latch",
+        "lock",
+        "peephole",
+        "picking",
+        "push",
+        "stop",
+        "doors",
+        "office"
+      ],
+      "classification": {
+        "asset_format": "Oneshot",
+        "loop": false
+      },
+      "takes": [
+        {
+          "file": "DOORHdwr_OfficeDoorLock_OS_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 0.405
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "doors_office_lock",
+        "source_collection": "07_doors"
+      }
+    },
+    {
+      "id": "DOORHdwr_SlidingDoorLock_OS_01",
+      "ucs": {
+        "cat_id": "DOORHdwr",
+        "category": "DOORS",
+        "subcategory": "HARDWARE",
+        "confidence": "machine"
+      },
+      "summary": "Use for: locking a sliding door. Pairs with the other SlidingDoor sounds.",
+      "keywords": [
+        "bar",
+        "chain",
+        "deadbolt",
+        "door",
+        "doorknob",
+        "fixture",
+        "handle",
+        "hardware",
+        "hinge",
+        "jiggle",
+        "knob",
+        "latch",
+        "lock",
+        "peephole",
+        "picking",
+        "push",
+        "stop",
+        "doors",
+        "sliding"
+      ],
+      "classification": {
+        "asset_format": "Oneshot",
+        "loop": false
+      },
+      "takes": [
+        {
+          "file": "DOORHdwr_SlidingDoorLock_OS_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 0.48
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "doors_sliding_lock",
+        "source_collection": "07_doors"
+      }
+    },
+    {
+      "id": "DOORKnck_OfficeDoorKnock_OS_01",
+      "ucs": {
+        "cat_id": "DOORKnck",
+        "category": "DOORS",
+        "subcategory": "KNOCK",
+        "confidence": "machine"
+      },
+      "summary": "Use for: knocking on an office door. Pairs with the other OfficeDoor sounds.",
+      "keywords": [
+        "bang",
+        "knock",
+        "knocker",
+        "rap",
+        "thud",
+        "thump",
+        "doors",
+        "office"
+      ],
+      "classification": {
+        "asset_format": "Oneshot",
+        "loop": false
+      },
+      "takes": [
+        {
+          "file": "DOORKnck_OfficeDoorKnock_OS_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 1.208
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "doors_office_knock",
+        "source_collection": "07_doors"
+      }
+    },
+    {
+      "id": "DOORMetl_GarageDoorClose_OS_01",
+      "ucs": {
+        "cat_id": "DOORMetl",
+        "category": "DOORS",
+        "subcategory": "METAL",
+        "confidence": "machine"
+      },
+      "summary": "Use for: a garage door rolling closed.",
+      "keywords": [
+        "door",
+        "electrical",
+        "fire",
+        "fire-door",
+        "garage",
+        "hatch",
+        "panel",
+        "rollup",
+        "screen",
+        "doors",
+        "metal",
+        "close"
+      ],
+      "classification": {
+        "asset_format": "Oneshot",
+        "loop": false
+      },
+      "takes": [
+        {
+          "file": "DOORMetl_GarageDoorClose_OS_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 10.036
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "garage_door_close",
+        "source_collection": "07_doors"
+      }
+    },
+    {
+      "id": "DOORMetl_GarageDoorOpen_OS_01",
+      "ucs": {
+        "cat_id": "DOORMetl",
+        "category": "DOORS",
+        "subcategory": "METAL",
+        "confidence": "machine"
+      },
+      "summary": "Use for: a garage door rolling open.",
+      "keywords": [
+        "door",
+        "electrical",
+        "fire",
+        "fire-door",
+        "garage",
+        "hatch",
+        "panel",
+        "rollup",
+        "screen",
+        "doors",
+        "metal",
+        "open"
+      ],
+      "classification": {
+        "asset_format": "Oneshot",
+        "loop": false
+      },
+      "takes": [
+        {
+          "file": "DOORMetl_GarageDoorOpen_OS_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 10.927
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "garage_door_open",
+        "source_collection": "07_doors"
+      }
+    },
+    {
+      "id": "DOORMetl_HatchClose_OS_01",
+      "ucs": {
+        "cat_id": "DOORMetl",
+        "category": "DOORS",
+        "subcategory": "METAL",
+        "confidence": "machine"
+      },
+      "summary": "Use for: closing a metal hatch: a submarine, a bunker, a floor hatch.",
+      "keywords": [
+        "door",
+        "electrical",
+        "fire",
+        "fire-door",
+        "garage",
+        "hatch",
+        "panel",
+        "rollup",
+        "screen",
+        "doors",
+        "metal",
+        "interaction",
+        "close"
+      ],
+      "classification": {
+        "asset_format": "Oneshot",
+        "loop": false
+      },
+      "takes": [
+        {
+          "file": "DOORMetl_HatchClose_OS_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 2.275
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "interaction_hatch_close",
+        "source_collection": "10_interaction"
+      }
+    },
+    {
+      "id": "DOORMetl_HatchOpen_OS_01",
+      "ucs": {
+        "cat_id": "DOORMetl",
+        "category": "DOORS",
+        "subcategory": "METAL",
+        "confidence": "machine"
+      },
+      "summary": "Use for: opening a metal hatch: a submarine, a bunker, a floor hatch.",
+      "keywords": [
+        "door",
+        "electrical",
+        "fire",
+        "fire-door",
+        "garage",
+        "hatch",
+        "panel",
+        "rollup",
+        "screen",
+        "doors",
+        "metal",
+        "interaction",
+        "open"
+      ],
+      "classification": {
+        "asset_format": "Oneshot",
+        "loop": false
+      },
+      "takes": [
+        {
+          "file": "DOORMetl_HatchOpen_OS_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 1.638
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "interaction_hatch_open",
+        "source_collection": "10_interaction"
+      }
+    },
+    {
+      "id": "DOORSlid_SlidingDoorClose_OS_01",
+      "ucs": {
+        "cat_id": "DOORSlid",
+        "category": "DOORS",
+        "subcategory": "SLIDING",
+        "confidence": "machine"
+      },
+      "summary": "Use for: closing a sliding door. Pairs with the other SlidingDoor sounds.",
+      "keywords": [
+        "door",
+        "glass",
+        "patio",
+        "shower",
+        "sliding",
+        "doors",
+        "close"
+      ],
+      "classification": {
+        "asset_format": "Oneshot",
+        "loop": false
+      },
+      "takes": [
+        {
+          "file": "DOORSlid_SlidingDoorClose_OS_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 2.499
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "doors_sliding_close",
+        "source_collection": "07_doors"
+      }
+    },
+    {
+      "id": "DOORSlid_SlidingDoorOpen_OS_01",
+      "ucs": {
+        "cat_id": "DOORSlid",
+        "category": "DOORS",
+        "subcategory": "SLIDING",
+        "confidence": "machine"
+      },
+      "summary": "Use for: opening a sliding door. Pairs with the other SlidingDoor sounds.",
+      "keywords": [
+        "door",
+        "glass",
+        "patio",
+        "shower",
+        "sliding",
+        "doors",
+        "open"
+      ],
+      "classification": {
+        "asset_format": "Oneshot",
+        "loop": false
+      },
+      "takes": [
+        {
+          "file": "DOORSlid_SlidingDoorOpen_OS_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 1.845
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "doors_sliding_open",
+        "source_collection": "07_doors"
+      }
+    },
+    {
+      "id": "DOORWood_FrontDoorClose_OS_01",
+      "ucs": {
+        "cat_id": "DOORWood",
+        "category": "DOORS",
+        "subcategory": "WOOD",
+        "confidence": "machine"
+      },
+      "summary": "Use for: closing a heavy residential front door. Pairs with the other FrontDoor sounds.",
+      "keywords": [
+        "apartment",
+        "armoires",
+        "barn",
+        "cabin",
+        "church",
+        "closet",
+        "condo",
+        "entrance",
+        "front",
+        "home",
+        "house",
+        "doors",
+        "wood",
+        "frontdoor",
+        "close"
+      ],
+      "classification": {
+        "asset_format": "Oneshot",
+        "loop": false
+      },
+      "takes": [
+        {
+          "file": "DOORWood_FrontDoorClose_OS_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 0.548
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "doors_frontdoor_close",
+        "source_collection": "07_doors"
+      }
+    },
+    {
+      "id": "DOORWood_FrontDoorOpen_OS_01",
+      "ucs": {
+        "cat_id": "DOORWood",
+        "category": "DOORS",
+        "subcategory": "WOOD",
+        "confidence": "machine"
+      },
+      "summary": "Use for: opening a heavy residential front door. Pairs with the other FrontDoor sounds.",
+      "keywords": [
+        "apartment",
+        "armoires",
+        "barn",
+        "cabin",
+        "church",
+        "closet",
+        "condo",
+        "entrance",
+        "front",
+        "home",
+        "house",
+        "doors",
+        "wood",
+        "frontdoor",
+        "open"
+      ],
+      "classification": {
+        "asset_format": "Oneshot",
+        "loop": false
+      },
+      "takes": [
+        {
+          "file": "DOORWood_FrontDoorOpen_OS_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 0.591
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "doors_frontdoor_open",
+        "source_collection": "07_doors"
+      }
+    },
+    {
+      "id": "DOORWood_OfficeDoorClose_OS_01",
+      "ucs": {
+        "cat_id": "DOORWood",
+        "category": "DOORS",
+        "subcategory": "WOOD",
+        "confidence": "machine"
+      },
+      "summary": "Use for: closing an office door. Pairs with the other OfficeDoor sounds.",
+      "keywords": [
+        "apartment",
+        "armoires",
+        "barn",
+        "cabin",
+        "church",
+        "closet",
+        "condo",
+        "entrance",
+        "front",
+        "home",
+        "house",
+        "doors",
+        "wood",
+        "office",
+        "close"
+      ],
+      "classification": {
+        "asset_format": "Oneshot",
+        "loop": false
+      },
+      "takes": [
+        {
+          "file": "DOORWood_OfficeDoorClose_OS_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 0.713
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "doors_office_close",
+        "source_collection": "07_doors"
+      }
+    }
+  ]
+}

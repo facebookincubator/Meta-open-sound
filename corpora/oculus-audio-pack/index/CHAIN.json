@@ -1,0 +1,63 @@
+{
+  "schema_version": "1.0.0",
+  "collection": "oculus-audio-pack",
+  "cat_short": "CHAIN",
+  "license": "CC-BY-4.0",
+  "attribution": "\"Oculus Audio Pack 01\" by Oculus VR, LLC (https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/), licensed under CC BY 4.0. Files renamed to the UCS naming convention; OGG previews transcoded from the original WAVs.",
+  "sounds": [
+    {
+      "id": "CHAINMvmt_ChainsCreepy_OS_01",
+      "ucs": {
+        "cat_id": "CHAINMvmt",
+        "category": "CHAINS",
+        "subcategory": "MOVEMENT",
+        "confidence": "machine"
+      },
+      "summary": "Use for: rattling, dragging metal chains: a dungeon, restraints, a ghost announcing itself. Horror atmosphere.",
+      "keywords": [
+        "bind",
+        "bound",
+        "clank",
+        "clatter",
+        "drag",
+        "jingle",
+        "shackle",
+        "shackled",
+        "shake",
+        "vibrate",
+        "chains",
+        "movement",
+        "creepy"
+      ],
+      "classification": {
+        "asset_format": "Shuffle",
+        "loop": false
+      },
+      "takes": [
+        {
+          "file": "CHAINMvmt_ChainsCreepy_OS_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 5.61
+        },
+        {
+          "file": "CHAINMvmt_ChainsCreepy_OS_02.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 4.159
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "creepy_chains",
+        "source_collection": "01_creepy_horror"
+      }
+    }
+  ]
+}

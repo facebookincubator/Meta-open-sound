@@ -1,0 +1,535 @@
+{
+  "schema_version": "1.0.0",
+  "collection": "oculus-audio-pack",
+  "cat_short": "VEH",
+  "license": "CC-BY-4.0",
+  "attribution": "\"Oculus Audio Pack 01\" by Oculus VR, LLC (https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/), licensed under CC BY 4.0. Files renamed to the UCS naming convention; OGG previews transcoded from the original WAVs.",
+  "sounds": [
+    {
+      "id": "VEHCar_CarEngineHigh_LOOP_01",
+      "ucs": {
+        "cat_id": "VEHCar",
+        "category": "VEHICLES",
+        "subcategory": "CAR",
+        "confidence": "machine"
+      },
+      "summary": "Use for: a car engine at high RPM: driving fast, a sustained engine loop.",
+      "keywords": [
+        "auto",
+        "automobile",
+        "automobiles",
+        "autos",
+        "car",
+        "compact",
+        "convertible",
+        "coupe",
+        "crossover",
+        "hatchback",
+        "luxury",
+        "rental",
+        "sedan",
+        "sports",
+        "station",
+        "subcompact",
+        "taxi",
+        "wagon",
+        "vehicles",
+        "engine",
+        "high"
+      ],
+      "classification": {
+        "asset_format": "Loop",
+        "loop": true
+      },
+      "takes": [
+        {
+          "file": "VEHCar_CarEngineHigh_LOOP_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 3.946
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "car_engine_high",
+        "source_collection": "09_car"
+      }
+    },
+    {
+      "id": "VEHCar_CarEngineSlow_LOOP_01",
+      "ucs": {
+        "cat_id": "VEHCar",
+        "category": "VEHICLES",
+        "subcategory": "CAR",
+        "confidence": "machine"
+      },
+      "summary": "Use for: a car engine at low RPM: idling or cruising slowly, a sustained engine loop.",
+      "keywords": [
+        "auto",
+        "automobile",
+        "automobiles",
+        "autos",
+        "car",
+        "compact",
+        "convertible",
+        "coupe",
+        "crossover",
+        "hatchback",
+        "luxury",
+        "rental",
+        "sedan",
+        "sports",
+        "station",
+        "subcompact",
+        "taxi",
+        "wagon",
+        "vehicles",
+        "engine",
+        "slow"
+      ],
+      "classification": {
+        "asset_format": "Loop",
+        "loop": true
+      },
+      "takes": [
+        {
+          "file": "VEHCar_CarEngineSlow_LOOP_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 4.157
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "car_engine_slow",
+        "source_collection": "09_car"
+      }
+    },
+    {
+      "id": "VEHCar_CarStartRunStop_OS_01",
+      "ucs": {
+        "cat_id": "VEHCar",
+        "category": "VEHICLES",
+        "subcategory": "CAR",
+        "confidence": "machine"
+      },
+      "summary": "Use for: a car starting, running and switching off: a complete ignition-to-shutdown sequence.",
+      "keywords": [
+        "auto",
+        "automobile",
+        "automobiles",
+        "autos",
+        "car",
+        "compact",
+        "convertible",
+        "coupe",
+        "crossover",
+        "hatchback",
+        "luxury",
+        "rental",
+        "sedan",
+        "sports",
+        "station",
+        "subcompact",
+        "taxi",
+        "wagon",
+        "vehicles",
+        "start",
+        "run",
+        "stop"
+      ],
+      "classification": {
+        "asset_format": "Shuffle",
+        "loop": false
+      },
+      "takes": [
+        {
+          "file": "VEHCar_CarStartRunStop_OS_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 10.599
+        },
+        {
+          "file": "VEHCar_CarStartRunStop_OS_02.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 21.857
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "car_start_run_stop",
+        "source_collection": "09_car"
+      }
+    },
+    {
+      "id": "VEHDoor_CarDoorClose_OS_01",
+      "ucs": {
+        "cat_id": "VEHDoor",
+        "category": "VEHICLES",
+        "subcategory": "DOOR",
+        "confidence": "machine"
+      },
+      "summary": "Use for: a car door closing.",
+      "keywords": [
+        "auto",
+        "automobile",
+        "car",
+        "close",
+        "compact",
+        "convertible",
+        "coupe",
+        "crossover",
+        "door",
+        "drivers",
+        "hatchback",
+        "hood",
+        "liftgate",
+        "luxury",
+        "open",
+        "passenger",
+        "rental",
+        "sedan",
+        "sports",
+        "station",
+        "subcompact",
+        "taxi",
+        "tailgate",
+        "slam",
+        "suv",
+        "truck",
+        "trunk",
+        "van",
+        "vehicles"
+      ],
+      "classification": {
+        "asset_format": "Oneshot",
+        "loop": false
+      },
+      "takes": [
+        {
+          "file": "VEHDoor_CarDoorClose_OS_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 0.902
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "car_door_close",
+        "source_collection": "09_car"
+      }
+    },
+    {
+      "id": "VEHDoor_CarDoorOpen_OS_01",
+      "ucs": {
+        "cat_id": "VEHDoor",
+        "category": "VEHICLES",
+        "subcategory": "DOOR",
+        "confidence": "machine"
+      },
+      "summary": "Use for: a car door opening.",
+      "keywords": [
+        "auto",
+        "automobile",
+        "car",
+        "close",
+        "compact",
+        "convertible",
+        "coupe",
+        "crossover",
+        "door",
+        "drivers",
+        "hatchback",
+        "hood",
+        "liftgate",
+        "luxury",
+        "open",
+        "passenger",
+        "rental",
+        "sedan",
+        "sports",
+        "station",
+        "subcompact",
+        "taxi",
+        "tailgate",
+        "slam",
+        "suv",
+        "truck",
+        "trunk",
+        "van",
+        "vehicles"
+      ],
+      "classification": {
+        "asset_format": "Oneshot",
+        "loop": false
+      },
+      "takes": [
+        {
+          "file": "VEHDoor_CarDoorOpen_OS_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 0.876
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "car_door_open",
+        "source_collection": "09_car"
+      }
+    },
+    {
+      "id": "VEHDoor_CarTrunkClose_OS_01",
+      "ucs": {
+        "cat_id": "VEHDoor",
+        "category": "VEHICLES",
+        "subcategory": "DOOR",
+        "confidence": "machine"
+      },
+      "summary": "Use for: a car trunk slamming shut.",
+      "keywords": [
+        "auto",
+        "automobile",
+        "car",
+        "close",
+        "compact",
+        "convertible",
+        "coupe",
+        "crossover",
+        "door",
+        "drivers",
+        "hatchback",
+        "hood",
+        "liftgate",
+        "luxury",
+        "open",
+        "passenger",
+        "rental",
+        "sedan",
+        "sports",
+        "station",
+        "subcompact",
+        "taxi",
+        "tailgate",
+        "slam",
+        "suv",
+        "truck",
+        "trunk",
+        "van",
+        "vehicles"
+      ],
+      "classification": {
+        "asset_format": "Oneshot",
+        "loop": false
+      },
+      "takes": [
+        {
+          "file": "VEHDoor_CarTrunkClose_OS_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 0.74
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "car_trunk_close",
+        "source_collection": "09_car"
+      }
+    },
+    {
+      "id": "VEHMech_CarShiftStick_OS_01",
+      "ucs": {
+        "cat_id": "VEHMech",
+        "category": "VEHICLES",
+        "subcategory": "MECHANISM",
+        "confidence": "machine"
+      },
+      "summary": "Use for: shifting a car's manual gear stick.",
+      "keywords": [
+        "adjust",
+        "auto",
+        "automobile",
+        "belt",
+        "box",
+        "brake",
+        "car",
+        "choke",
+        "climate",
+        "clutch",
+        "compartment",
+        "control",
+        "crank",
+        "gas cap",
+        "gear",
+        "gearshift",
+        "glove",
+        "glovebox",
+        "handbrake",
+        "headlights",
+        "ignition",
+        "key",
+        "lever",
+        "mirror",
+        "oil cap",
+        "parking",
+        "rearview",
+        "seat",
+        "seatbelt",
+        "shift",
+        "side",
+        "signal",
+        "steering",
+        "throttle",
+        "trunk",
+        "turn",
+        "vent",
+        "wheel",
+        "window",
+        "windshield",
+        "wiper",
+        "vehicles",
+        "mechanism",
+        "stick"
+      ],
+      "classification": {
+        "asset_format": "Oneshot",
+        "loop": false
+      },
+      "takes": [
+        {
+          "file": "VEHMech_CarShiftStick_OS_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 0.318
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "car_shift_stick",
+        "source_collection": "09_car"
+      }
+    },
+    {
+      "id": "VEHWndw_CarWindowClose_OS_01",
+      "ucs": {
+        "cat_id": "VEHWndw",
+        "category": "VEHICLES",
+        "subcategory": "WINDOW",
+        "confidence": "machine"
+      },
+      "summary": "Use for: a car's power window closing.",
+      "keywords": [
+        "auto",
+        "automatic",
+        "automobile",
+        "car",
+        "drivers",
+        "down",
+        "passenger",
+        "power",
+        "roll",
+        "up",
+        "window",
+        "vehicles",
+        "close"
+      ],
+      "classification": {
+        "asset_format": "Oneshot",
+        "loop": false
+      },
+      "takes": [
+        {
+          "file": "VEHWndw_CarWindowClose_OS_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 3.784
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "car_window_close",
+        "source_collection": "09_car"
+      }
+    },
+    {
+      "id": "VEHWndw_CarWindowOpen_OS_01",
+      "ucs": {
+        "cat_id": "VEHWndw",
+        "category": "VEHICLES",
+        "subcategory": "WINDOW",
+        "confidence": "machine"
+      },
+      "summary": "Use for: a car's power window opening.",
+      "keywords": [
+        "auto",
+        "automatic",
+        "automobile",
+        "car",
+        "drivers",
+        "down",
+        "passenger",
+        "power",
+        "roll",
+        "up",
+        "window",
+        "vehicles",
+        "open"
+      ],
+      "classification": {
+        "asset_format": "Oneshot",
+        "loop": false
+      },
+      "takes": [
+        {
+          "file": "VEHWndw_CarWindowOpen_OS_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 3.328
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "car_window_open",
+        "source_collection": "09_car"
+      }
+    }
+  ]
+}

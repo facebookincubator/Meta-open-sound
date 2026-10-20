@@ -1,0 +1,192 @@
+{
+  "schema_version": "1.0.0",
+  "collection": "oculus-audio-pack",
+  "cat_short": "GLAS",
+  "license": "CC-BY-4.0",
+  "attribution": "\"Oculus Audio Pack 01\" by Oculus VR, LLC (https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/), licensed under CC BY 4.0. Files renamed to the UCS naming convention; OGG previews transcoded from the original WAVs.",
+  "sounds": [
+    {
+      "id": "GLASBrk_GlassBottleBreak_OS_01",
+      "ucs": {
+        "cat_id": "GLASBrk",
+        "category": "GLASS",
+        "subcategory": "BREAK",
+        "confidence": "machine"
+      },
+      "summary": "Use for: a glass bottle smashing: a bar fight, a thrown bottle, breaking glass.",
+      "keywords": [
+        "break",
+        "bulletproof",
+        "burst",
+        "chip",
+        "crack",
+        "crush",
+        "demolish",
+        "destroy",
+        "fracture",
+        "fragment",
+        "frosted",
+        "glass",
+        "laminated",
+        "safety",
+        "shatter",
+        "smash",
+        "snap",
+        "splinter",
+        "split",
+        "stained",
+        "tempered",
+        "tinted",
+        "window",
+        "impact",
+        "bottle"
+      ],
+      "classification": {
+        "asset_format": "Oneshot",
+        "loop": false
+      },
+      "takes": [
+        {
+          "file": "GLASBrk_GlassBottleBreak_OS_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 1.103
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "impact_glass_bottle_break",
+        "source_collection": "02_floors_footsteps_body_mvmt_impacts_actions_etc"
+      }
+    },
+    {
+      "id": "GLASBrk_WindowPaneSmallBreak_OS_01",
+      "ucs": {
+        "cat_id": "GLASBrk",
+        "category": "GLASS",
+        "subcategory": "BREAK",
+        "confidence": "machine"
+      },
+      "summary": "Use for: a small window pane breaking: a break-in, a stray ball, a thrown rock.",
+      "keywords": [
+        "break",
+        "bulletproof",
+        "burst",
+        "chip",
+        "crack",
+        "crush",
+        "demolish",
+        "destroy",
+        "fracture",
+        "fragment",
+        "frosted",
+        "glass",
+        "laminated",
+        "safety",
+        "shatter",
+        "smash",
+        "snap",
+        "splinter",
+        "split",
+        "stained",
+        "tempered",
+        "tinted",
+        "window",
+        "action",
+        "small",
+        "pane"
+      ],
+      "classification": {
+        "asset_format": "Oneshot",
+        "loop": false
+      },
+      "takes": [
+        {
+          "file": "GLASBrk_WindowPaneSmallBreak_OS_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 0.823
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "action_small_window_pane_break",
+        "source_collection": "02_floors_footsteps_body_mvmt_impacts_actions_etc"
+      }
+    },
+    {
+      "id": "GLASImpt_GlassBottleDrop_OS_01",
+      "ucs": {
+        "cat_id": "GLASImpt",
+        "category": "GLASS",
+        "subcategory": "IMPACT",
+        "confidence": "machine"
+      },
+      "summary": "Use for: a glass bottle dropped without breaking: a heavy glassy clunk and roll.",
+      "keywords": [
+        "bang",
+        "banging",
+        "blow",
+        "bulletproof",
+        "clink",
+        "collide",
+        "colliding",
+        "drop",
+        "frosted",
+        "hit",
+        "hitting",
+        "impact",
+        "impacting",
+        "jolt",
+        "knock",
+        "laminated",
+        "pound",
+        "ram",
+        "safety",
+        "slam",
+        "slamming",
+        "smack",
+        "smacking",
+        "stained",
+        "strike",
+        "striking",
+        "tempered",
+        "thud",
+        "tinted",
+        "window",
+        "glass",
+        "action",
+        "bottle"
+      ],
+      "classification": {
+        "asset_format": "Oneshot",
+        "loop": false
+      },
+      "takes": [
+        {
+          "file": "GLASImpt_GlassBottleDrop_OS_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 1.414
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "action_glass_bottle_drop",
+        "source_collection": "02_floors_footsteps_body_mvmt_impacts_actions_etc"
+      }
+    }
+  ]
+}

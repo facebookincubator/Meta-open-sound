@@ -1,0 +1,114 @@
+{
+  "schema_version": "1.0.0",
+  "collection": "oculus-audio-pack",
+  "cat_short": "VEGE",
+  "license": "CC-BY-4.0",
+  "attribution": "\"Oculus Audio Pack 01\" by Oculus VR, LLC (https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/), licensed under CC BY 4.0. Files renamed to the UCS naming convention; OGG previews transcoded from the original WAVs.",
+  "sounds": [
+    {
+      "id": "VEGELeaf_MovementThroughBushes_OS_01",
+      "ucs": {
+        "cat_id": "VEGELeaf",
+        "category": "VEGETATION",
+        "subcategory": "LEAVES",
+        "confidence": "machine"
+      },
+      "summary": "Use for: a person pushing through bushes and foliage: sneaking through undergrowth, a forest path.",
+      "keywords": [
+        "alder",
+        "apple",
+        "ash",
+        "aspen",
+        "beech",
+        "birch",
+        "boxwood",
+        "buckeye",
+        "bushes",
+        "cedar",
+        "cherry",
+        "chestnut",
+        "cypress",
+        "dogwood",
+        "elm",
+        "fall",
+        "falling",
+        "fern",
+        "fir",
+        "flora",
+        "foliage",
+        "fronds",
+        "greenery",
+        "hemlock",
+        "hickory",
+        "larch",
+        "leaf",
+        "leafage",
+        "leaves",
+        "magnolia",
+        "mahogany",
+        "maple",
+        "oak",
+        "petals",
+        "pile",
+        "pine",
+        "poplar",
+        "redwood",
+        "scrub",
+        "sequoia",
+        "shoots",
+        "shrub",
+        "shrubbery",
+        "spruce",
+        "stems",
+        "swirl",
+        "sycamore",
+        "thicket",
+        "underbrush",
+        "undergrowth",
+        "willow",
+        "yew",
+        "vegetation",
+        "body",
+        "movement",
+        "through"
+      ],
+      "classification": {
+        "asset_format": "Shuffle",
+        "loop": false
+      },
+      "takes": [
+        {
+          "file": "VEGELeaf_MovementThroughBushes_OS_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 6.381
+        },
+        {
+          "file": "VEGELeaf_MovementThroughBushes_OS_02.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 6.923
+        },
+        {
+          "file": "VEGELeaf_MovementThroughBushes_OS_03.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 11.759
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "body_movement_through_bushes",
+        "source_collection": "02_floors_footsteps_body_mvmt_impacts_actions_etc"
+      }
+    }
+  ]
+}

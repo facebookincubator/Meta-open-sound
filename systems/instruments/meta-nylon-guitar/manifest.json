@@ -1402,5 +1402,6 @@
       "original_name": "MetaMix_NylonGuitar_Samples_HighE_B5_01.wav"
     }
   ],
-  "ogg_dir": "ogg"
+  "ogg_dir": "ogg",
+  "license": "CC0-1.0"
 }

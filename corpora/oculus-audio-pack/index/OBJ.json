@@ -1,0 +1,950 @@
+{
+  "schema_version": "1.0.0",
+  "collection": "oculus-audio-pack",
+  "cat_short": "OBJ",
+  "license": "CC-BY-4.0",
+  "attribution": "\"Oculus Audio Pack 01\" by Oculus VR, LLC (https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/), licensed under CC BY 4.0. Files renamed to the UCS naming convention; OGG previews transcoded from the original WAVs.",
+  "sounds": [
+    {
+      "id": "OBJBag_CanvasCaseDrop_OS_01",
+      "ucs": {
+        "cat_id": "OBJBag",
+        "category": "OBJECTS",
+        "subcategory": "BAG",
+        "confidence": "machine"
+      },
+      "summary": "Use for: a canvas case or soft bag dropped on the floor: putting down luggage or gear.",
+      "keywords": [
+        "back",
+        "backpack",
+        "briefcase",
+        "camera",
+        "carryall",
+        "clutch",
+        "courier",
+        "drawstring",
+        "duffel",
+        "fanny",
+        "handbag",
+        "knapsack",
+        "messenger",
+        "pack",
+        "pocketbook",
+        "portfolio",
+        "pouch",
+        "purse",
+        "rucksack",
+        "sac",
+        "sachet",
+        "sack",
+        "saddlebag",
+        "satchel",
+        "schoolbag",
+        "shoulder",
+        "sling",
+        "tote",
+        "objects",
+        "bag",
+        "action",
+        "drop",
+        "canvas",
+        "case"
+      ],
+      "classification": {
+        "asset_format": "Oneshot",
+        "loop": false
+      },
+      "takes": [
+        {
+          "file": "OBJBag_CanvasCaseDrop_OS_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 0.623
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "action_drop_canvas_case",
+        "source_collection": "02_floors_footsteps_body_mvmt_impacts_actions_etc"
+      }
+    },
+    {
+      "id": "OBJBag_KnapsackLeatherClose_OS_01",
+      "ucs": {
+        "cat_id": "OBJBag",
+        "category": "OBJECTS",
+        "subcategory": "BAG",
+        "confidence": "machine"
+      },
+      "summary": "Use for: closing a leather knapsack: buckling a pack, stowing inventory.",
+      "keywords": [
+        "back",
+        "backpack",
+        "briefcase",
+        "camera",
+        "carryall",
+        "clutch",
+        "courier",
+        "drawstring",
+        "duffel",
+        "fanny",
+        "handbag",
+        "knapsack",
+        "messenger",
+        "pack",
+        "pocketbook",
+        "portfolio",
+        "pouch",
+        "purse",
+        "rucksack",
+        "sac",
+        "sachet",
+        "sack",
+        "saddlebag",
+        "satchel",
+        "schoolbag",
+        "shoulder",
+        "sling",
+        "tote",
+        "objects",
+        "bag",
+        "interaction",
+        "leather",
+        "close"
+      ],
+      "classification": {
+        "asset_format": "Oneshot",
+        "loop": false
+      },
+      "takes": [
+        {
+          "file": "OBJBag_KnapsackLeatherClose_OS_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 0.87
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "interaction_knapsack_leather_close",
+        "source_collection": "10_interaction"
+      }
+    },
+    {
+      "id": "OBJBag_KnapsackLeatherOpen_OS_01",
+      "ucs": {
+        "cat_id": "OBJBag",
+        "category": "OBJECTS",
+        "subcategory": "BAG",
+        "confidence": "machine"
+      },
+      "summary": "Use for: opening a leather knapsack: opening inventory, rummaging in a pack.",
+      "keywords": [
+        "back",
+        "backpack",
+        "briefcase",
+        "camera",
+        "carryall",
+        "clutch",
+        "courier",
+        "drawstring",
+        "duffel",
+        "fanny",
+        "handbag",
+        "knapsack",
+        "messenger",
+        "pack",
+        "pocketbook",
+        "portfolio",
+        "pouch",
+        "purse",
+        "rucksack",
+        "sac",
+        "sachet",
+        "sack",
+        "saddlebag",
+        "satchel",
+        "schoolbag",
+        "shoulder",
+        "sling",
+        "tote",
+        "objects",
+        "bag",
+        "interaction",
+        "leather",
+        "open"
+      ],
+      "classification": {
+        "asset_format": "Oneshot",
+        "loop": false
+      },
+      "takes": [
+        {
+          "file": "OBJBag_KnapsackLeatherOpen_OS_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 1.489
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "interaction_knapsack_leather_open",
+        "source_collection": "10_interaction"
+      }
+    },
+    {
+      "id": "OBJBag_KnapsackNylonClose_OS_01",
+      "ucs": {
+        "cat_id": "OBJBag",
+        "category": "OBJECTS",
+        "subcategory": "BAG",
+        "confidence": "machine"
+      },
+      "summary": "Use for: closing a nylon knapsack: zipping or velcroing a modern backpack.",
+      "keywords": [
+        "back",
+        "backpack",
+        "briefcase",
+        "camera",
+        "carryall",
+        "clutch",
+        "courier",
+        "drawstring",
+        "duffel",
+        "fanny",
+        "handbag",
+        "knapsack",
+        "messenger",
+        "pack",
+        "pocketbook",
+        "portfolio",
+        "pouch",
+        "purse",
+        "rucksack",
+        "sac",
+        "sachet",
+        "sack",
+        "saddlebag",
+        "satchel",
+        "schoolbag",
+        "shoulder",
+        "sling",
+        "tote",
+        "objects",
+        "bag",
+        "interaction",
+        "nylon",
+        "close"
+      ],
+      "classification": {
+        "asset_format": "Oneshot",
+        "loop": false
+      },
+      "takes": [
+        {
+          "file": "OBJBag_KnapsackNylonClose_OS_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 1.31
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "interaction_knapsack_nylon_close",
+        "source_collection": "10_interaction"
+      }
+    },
+    {
+      "id": "OBJBag_KnapsackNylonOpen_OS_01",
+      "ucs": {
+        "cat_id": "OBJBag",
+        "category": "OBJECTS",
+        "subcategory": "BAG",
+        "confidence": "machine"
+      },
+      "summary": "Use for: opening a nylon knapsack: opening inventory in a modern setting.",
+      "keywords": [
+        "back",
+        "backpack",
+        "briefcase",
+        "camera",
+        "carryall",
+        "clutch",
+        "courier",
+        "drawstring",
+        "duffel",
+        "fanny",
+        "handbag",
+        "knapsack",
+        "messenger",
+        "pack",
+        "pocketbook",
+        "portfolio",
+        "pouch",
+        "purse",
+        "rucksack",
+        "sac",
+        "sachet",
+        "sack",
+        "saddlebag",
+        "satchel",
+        "schoolbag",
+        "shoulder",
+        "sling",
+        "tote",
+        "objects",
+        "bag",
+        "interaction",
+        "nylon",
+        "open"
+      ],
+      "classification": {
+        "asset_format": "Oneshot",
+        "loop": false
+      },
+      "takes": [
+        {
+          "file": "OBJBag_KnapsackNylonOpen_OS_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 1.269
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "interaction_knapsack_nylon_open",
+        "source_collection": "10_interaction"
+      }
+    },
+    {
+      "id": "OBJBag_ToolBagDrop_OS_01",
+      "ucs": {
+        "cat_id": "OBJBag",
+        "category": "OBJECTS",
+        "subcategory": "BAG",
+        "confidence": "machine"
+      },
+      "summary": "Use for: a heavy tool bag dropped on the floor: a thud with rattling metal tools inside.",
+      "keywords": [
+        "back",
+        "backpack",
+        "briefcase",
+        "camera",
+        "carryall",
+        "clutch",
+        "courier",
+        "drawstring",
+        "duffel",
+        "fanny",
+        "handbag",
+        "knapsack",
+        "messenger",
+        "pack",
+        "pocketbook",
+        "portfolio",
+        "pouch",
+        "purse",
+        "rucksack",
+        "sac",
+        "sachet",
+        "sack",
+        "saddlebag",
+        "satchel",
+        "schoolbag",
+        "shoulder",
+        "sling",
+        "tote",
+        "objects",
+        "bag",
+        "action",
+        "tool",
+        "drop"
+      ],
+      "classification": {
+        "asset_format": "Oneshot",
+        "loop": false
+      },
+      "takes": [
+        {
+          "file": "OBJBag_ToolBagDrop_OS_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 1.067
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "action_tool_bag_drop",
+        "source_collection": "02_floors_footsteps_body_mvmt_impacts_actions_etc"
+      }
+    },
+    {
+      "id": "OBJBook_BookClose_OS_01",
+      "ucs": {
+        "cat_id": "OBJBook",
+        "category": "OBJECTS",
+        "subcategory": "BOOK",
+        "confidence": "machine"
+      },
+      "summary": "Use for: closing a book: finishing reading, a library, a spellbook.",
+      "keywords": [
+        "autobiography",
+        "bible",
+        "biography",
+        "book",
+        "bookkeeper",
+        "bookkeeping",
+        "booklet",
+        "bookshop",
+        "bookstore",
+        "brochure",
+        "catalog",
+        "catalogue",
+        "chapter",
+        "codex",
+        "compendium",
+        "compilation",
+        "cookbook",
+        "cover",
+        "daybook",
+        "diary",
+        "dictionary",
+        "directory",
+        "edition",
+        "encyclopedia",
+        "fiction",
+        "guidebook",
+        "handbook",
+        "hardcover",
+        "inventory",
+        "journal",
+        "ledger",
+        "leger",
+        "letters",
+        "literary",
+        "literature",
+        "magazine",
+        "manuscript",
+        "memoir",
+        "non-fiction",
+        "notebook",
+        "novel",
+        "page",
+        "pamphlet",
+        "paperback",
+        "portfolio",
+        "publication",
+        "publishing",
+        "read",
+        "reading",
+        "scrapbook",
+        "script",
+        "scroll",
+        "sketchbook",
+        "story",
+        "synopsis",
+        "textbook",
+        "tome",
+        "volume",
+        "workbook",
+        "works",
+        "worksheet",
+        "writer",
+        "yearbook",
+        "objects",
+        "interaction",
+        "close"
+      ],
+      "classification": {
+        "asset_format": "Oneshot",
+        "loop": false
+      },
+      "takes": [
+        {
+          "file": "OBJBook_BookClose_OS_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 0.532
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "interaction_book_close",
+        "source_collection": "10_interaction"
+      }
+    },
+    {
+      "id": "OBJBook_BookOpen_OS_01",
+      "ucs": {
+        "cat_id": "OBJBook",
+        "category": "OBJECTS",
+        "subcategory": "BOOK",
+        "confidence": "machine"
+      },
+      "summary": "Use for: opening a book: starting to read, opening a journal or spellbook.",
+      "keywords": [
+        "autobiography",
+        "bible",
+        "biography",
+        "book",
+        "bookkeeper",
+        "bookkeeping",
+        "booklet",
+        "bookshop",
+        "bookstore",
+        "brochure",
+        "catalog",
+        "catalogue",
+        "chapter",
+        "codex",
+        "compendium",
+        "compilation",
+        "cookbook",
+        "cover",
+        "daybook",
+        "diary",
+        "dictionary",
+        "directory",
+        "edition",
+        "encyclopedia",
+        "fiction",
+        "guidebook",
+        "handbook",
+        "hardcover",
+        "inventory",
+        "journal",
+        "ledger",
+        "leger",
+        "letters",
+        "literary",
+        "literature",
+        "magazine",
+        "manuscript",
+        "memoir",
+        "non-fiction",
+        "notebook",
+        "novel",
+        "page",
+        "pamphlet",
+        "paperback",
+        "portfolio",
+        "publication",
+        "publishing",
+        "read",
+        "reading",
+        "scrapbook",
+        "script",
+        "scroll",
+        "sketchbook",
+        "story",
+        "synopsis",
+        "textbook",
+        "tome",
+        "volume",
+        "workbook",
+        "works",
+        "worksheet",
+        "writer",
+        "yearbook",
+        "objects",
+        "interaction",
+        "open"
+      ],
+      "classification": {
+        "asset_format": "Shuffle",
+        "loop": false
+      },
+      "takes": [
+        {
+          "file": "OBJBook_BookOpen_OS_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 1.075
+        },
+        {
+          "file": "OBJBook_BookOpen_OS_02.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 1.655
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "interaction_book_open",
+        "source_collection": "10_interaction"
+      }
+    },
+    {
+      "id": "OBJCoin_CoinDrop_OS_01",
+      "ucs": {
+        "cat_id": "OBJCoin",
+        "category": "OBJECTS",
+        "subcategory": "COIN",
+        "confidence": "machine"
+      },
+      "summary": "Use for: a single coin dropped and settling on a hard floor: loose change, a pickup or a payment.",
+      "keywords": [
+        "bank",
+        "cent",
+        "change",
+        "clink",
+        "coinage",
+        "currency",
+        "dime",
+        "dollar",
+        "doubloon",
+        "dump",
+        "euro",
+        "flip",
+        "half-dollar",
+        "loose",
+        "money",
+        "nickel",
+        "penny",
+        "piggy",
+        "ping",
+        "pound",
+        "quarter",
+        "rouble",
+        "rupee",
+        "shekel",
+        "silver",
+        "spin",
+        "token",
+        "toss",
+        "yen",
+        "objects",
+        "coin",
+        "action",
+        "drop"
+      ],
+      "classification": {
+        "asset_format": "Oneshot",
+        "loop": false
+      },
+      "takes": [
+        {
+          "file": "OBJCoin_CoinDrop_OS_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 0.821
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "action_drop_coin",
+        "source_collection": "02_floors_footsteps_body_mvmt_impacts_actions_etc"
+      }
+    },
+    {
+      "id": "OBJCoin_CoinsUI_LOOP_01",
+      "ucs": {
+        "cat_id": "OBJCoin",
+        "category": "OBJECTS",
+        "subcategory": "COIN",
+        "confidence": "machine"
+      },
+      "summary": "Use for: a stream of coins: collecting currency, a payout, a reward counter.",
+      "keywords": [
+        "bank",
+        "cent",
+        "change",
+        "clink",
+        "coinage",
+        "currency",
+        "dime",
+        "dollar",
+        "doubloon",
+        "dump",
+        "euro",
+        "flip",
+        "half-dollar",
+        "loose",
+        "money",
+        "nickel",
+        "penny",
+        "piggy",
+        "ping",
+        "pound",
+        "quarter",
+        "rouble",
+        "rupee",
+        "shekel",
+        "silver",
+        "spin",
+        "token",
+        "toss",
+        "yen",
+        "objects",
+        "coin",
+        "coins"
+      ],
+      "classification": {
+        "asset_format": "Loop",
+        "loop": true
+      },
+      "takes": [
+        {
+          "file": "OBJCoin_CoinsUI_LOOP_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 4.523
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "ui_coins",
+        "source_collection": "05_user_interface"
+      }
+    },
+    {
+      "id": "OBJKey_KeyDrop_OS_01",
+      "ucs": {
+        "cat_id": "OBJKey",
+        "category": "OBJECTS",
+        "subcategory": "KEYS",
+        "confidence": "machine"
+      },
+      "summary": "Use for: keys dropped on a hard floor: a small metallic jingle-clatter, losing or finding keys.",
+      "keywords": [
+        "bicycle",
+        "car",
+        "card",
+        "fob",
+        "house",
+        "key",
+        "keychain",
+        "keyes",
+        "keyholes",
+        "keylock",
+        "keyring",
+        "keys",
+        "keyset",
+        "lanyard",
+        "lock",
+        "locker",
+        "mailbox",
+        "master",
+        "office",
+        "padlock",
+        "safe",
+        "skeleton",
+        "unlock",
+        "unlocking",
+        "unlocks",
+        "objects",
+        "action",
+        "drop"
+      ],
+      "classification": {
+        "asset_format": "Shuffle",
+        "loop": false
+      },
+      "takes": [
+        {
+          "file": "OBJKey_KeyDrop_OS_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 0.924
+        },
+        {
+          "file": "OBJKey_KeyDrop_OS_02.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 1.094
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "action_drop_key",
+        "source_collection": "02_floors_footsteps_body_mvmt_impacts_actions_etc"
+      }
+    },
+    {
+      "id": "OBJLug_CaseClose_OS_01",
+      "ucs": {
+        "cat_id": "OBJLug",
+        "category": "OBJECTS",
+        "subcategory": "LUGGAGE",
+        "confidence": "machine"
+      },
+      "summary": "Use for: closing and latching a case: a briefcase or carrying case.",
+      "keywords": [
+        "backpack",
+        "bag",
+        "baggage",
+        "baggages",
+        "bagroom",
+        "bellhop",
+        "carry-on",
+        "carryon",
+        "checked",
+        "cubes",
+        "duffel",
+        "duffels",
+        "duffle",
+        "garment",
+        "knapsack",
+        "knapsacks",
+        "luggage",
+        "packing",
+        "rolling",
+        "rucksack",
+        "samsonite",
+        "satchel",
+        "scale",
+        "skycap",
+        "stow",
+        "stowing",
+        "suitcase",
+        "suitcases",
+        "tag",
+        "toiletry",
+        "trolley",
+        "trunks",
+        "objects",
+        "interaction",
+        "case",
+        "close"
+      ],
+      "classification": {
+        "asset_format": "Oneshot",
+        "loop": false
+      },
+      "takes": [
+        {
+          "file": "OBJLug_CaseClose_OS_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 0.529
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "interaction_case_close",
+        "source_collection": "10_interaction"
+      }
+    },
+    {
+      "id": "OBJLug_CaseOpen_OS_01",
+      "ucs": {
+        "cat_id": "OBJLug",
+        "category": "OBJECTS",
+        "subcategory": "LUGGAGE",
+        "confidence": "machine"
+      },
+      "summary": "Use for: unlatching and opening a case: a briefcase or carrying case.",
+      "keywords": [
+        "backpack",
+        "bag",
+        "baggage",
+        "baggages",
+        "bagroom",
+        "bellhop",
+        "carry-on",
+        "carryon",
+        "checked",
+        "cubes",
+        "duffel",
+        "duffels",
+        "duffle",
+        "garment",
+        "knapsack",
+        "knapsacks",
+        "luggage",
+        "packing",
+        "rolling",
+        "rucksack",
+        "samsonite",
+        "satchel",
+        "scale",
+        "skycap",
+        "stow",
+        "stowing",
+        "suitcase",
+        "suitcases",
+        "tag",
+        "toiletry",
+        "trolley",
+        "trunks",
+        "objects",
+        "interaction",
+        "case",
+        "open"
+      ],
+      "classification": {
+        "asset_format": "Oneshot",
+        "loop": false
+      },
+      "takes": [
+        {
+          "file": "OBJLug_CaseOpen_OS_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 0.409
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "interaction_case_open",
+        "source_collection": "10_interaction"
+      }
+    }
+  ]
+}

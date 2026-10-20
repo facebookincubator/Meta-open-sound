@@ -1,0 +1,316 @@
+{
+  "schema_version": "1.0.0",
+  "collection": "oculus-audio-pack",
+  "cat_short": "WEAP",
+  "license": "CC-BY-4.0",
+  "attribution": "\"Oculus Audio Pack 01\" by Oculus VR, LLC (https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/), licensed under CC BY 4.0. Files renamed to the UCS naming convention; OGG previews transcoded from the original WAVs.",
+  "sounds": [
+    {
+      "id": "WEAPAxe_WoodCutAxe_OS_01",
+      "ucs": {
+        "cat_id": "WEAPAxe",
+        "category": "WEAPONS",
+        "subcategory": "AXE",
+        "confidence": "machine"
+      },
+      "summary": "Use for: chopping wood with an axe: splitting logs, a lumberjack, a campsite.",
+      "keywords": [
+        "ax",
+        "axe",
+        "blade",
+        "chop",
+        "chopper",
+        "edge",
+        "handle",
+        "hatchet",
+        "head",
+        "throwing",
+        "tomahawk",
+        "weapons",
+        "ambient",
+        "wood",
+        "cut"
+      ],
+      "classification": {
+        "asset_format": "Oneshot",
+        "loop": false
+      },
+      "takes": [
+        {
+          "file": "WEAPAxe_WoodCutAxe_OS_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 18.372
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "ambient_wood_cut_axe",
+        "source_collection": "03_weather_ambience_etc"
+      }
+    },
+    {
+      "id": "WEAPKnif_KnifeScrape_OS_01",
+      "ucs": {
+        "cat_id": "WEAPKnif",
+        "category": "WEAPONS",
+        "subcategory": "KNIFE",
+        "confidence": "machine"
+      },
+      "summary": "Use for: a knife blade scraping: sharpening, a threatening scrape, kitchen or combat foley.",
+      "keywords": [
+        "army",
+        "bayonet",
+        "blade",
+        "bowie",
+        "butcher",
+        "butterfly",
+        "chef",
+        "cleaver",
+        "dagger",
+        "dirk",
+        "hunting",
+        "jack",
+        "kitchen",
+        "knife",
+        "machete",
+        "penknife",
+        "pocket",
+        "pocketknife",
+        "scalpel",
+        "shealth",
+        "steak",
+        "stiletto",
+        "survival",
+        "swiss",
+        "switchblade",
+        "throwing",
+        "trench",
+        "utility",
+        "weapons",
+        "action",
+        "scrape"
+      ],
+      "classification": {
+        "asset_format": "Oneshot",
+        "loop": false
+      },
+      "takes": [
+        {
+          "file": "WEAPKnif_KnifeScrape_OS_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 0.981
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "action_knife_scrape",
+        "source_collection": "02_floors_footsteps_body_mvmt_impacts_actions_etc"
+      }
+    },
+    {
+      "id": "WEAPSwrd_SwordClash_OS_01",
+      "ucs": {
+        "cat_id": "WEAPSwrd",
+        "category": "WEAPONS",
+        "subcategory": "SWORD",
+        "confidence": "machine"
+      },
+      "summary": "Use for: two swords clashing: a blade-on-blade hit in melee combat.",
+      "keywords": [
+        "blade",
+        "broadsword",
+        "claymore",
+        "cutlass",
+        "dagger",
+        "epee",
+        "falchion",
+        "fencing",
+        "foil",
+        "foils",
+        "katana",
+        "longsword",
+        "machete",
+        "pommel",
+        "rapier",
+        "saber",
+        "sabre",
+        "samurai",
+        "scabbard",
+        "scimitar",
+        "slashing",
+        "sword",
+        "swords",
+        "viking",
+        "weapons",
+        "action",
+        "clash"
+      ],
+      "classification": {
+        "asset_format": "Oneshot",
+        "loop": false
+      },
+      "takes": [
+        {
+          "file": "WEAPSwrd_SwordClash_OS_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 1.547
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "action_sword_clash",
+        "source_collection": "02_floors_footsteps_body_mvmt_impacts_actions_etc"
+      }
+    },
+    {
+      "id": "WEAPSwrd_SwordScrape_OS_01",
+      "ucs": {
+        "cat_id": "WEAPSwrd",
+        "category": "WEAPONS",
+        "subcategory": "SWORD",
+        "confidence": "machine"
+      },
+      "summary": "Use for: a sword blade scraping along metal: unsheathing, a blade slide in a duel.",
+      "keywords": [
+        "blade",
+        "broadsword",
+        "claymore",
+        "cutlass",
+        "dagger",
+        "epee",
+        "falchion",
+        "fencing",
+        "foil",
+        "foils",
+        "katana",
+        "longsword",
+        "machete",
+        "pommel",
+        "rapier",
+        "saber",
+        "sabre",
+        "samurai",
+        "scabbard",
+        "scimitar",
+        "slashing",
+        "sword",
+        "swords",
+        "viking",
+        "weapons",
+        "action",
+        "scrape"
+      ],
+      "classification": {
+        "asset_format": "Shuffle",
+        "loop": false
+      },
+      "takes": [
+        {
+          "file": "WEAPSwrd_SwordScrape_OS_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 1.284
+        },
+        {
+          "file": "WEAPSwrd_SwordScrape_OS_02.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 1.336
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "action_sword_scrape",
+        "source_collection": "02_floors_footsteps_body_mvmt_impacts_actions_etc"
+      }
+    },
+    {
+      "id": "WEAPSwrd_Sword_OS_01",
+      "ucs": {
+        "cat_id": "WEAPSwrd",
+        "category": "WEAPONS",
+        "subcategory": "SWORD",
+        "confidence": "machine"
+      },
+      "summary": "Use for: sword handling and swings: drawing, brandishing or striking with a blade.",
+      "keywords": [
+        "blade",
+        "broadsword",
+        "claymore",
+        "cutlass",
+        "dagger",
+        "epee",
+        "falchion",
+        "fencing",
+        "foil",
+        "foils",
+        "katana",
+        "longsword",
+        "machete",
+        "pommel",
+        "rapier",
+        "saber",
+        "sabre",
+        "samurai",
+        "scabbard",
+        "scimitar",
+        "slashing",
+        "sword",
+        "swords",
+        "viking",
+        "weapons",
+        "action"
+      ],
+      "classification": {
+        "asset_format": "Shuffle",
+        "loop": false
+      },
+      "takes": [
+        {
+          "file": "WEAPSwrd_Sword_OS_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 1.297
+        },
+        {
+          "file": "WEAPSwrd_Sword_OS_02.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 1.762
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "action_sword",
+        "source_collection": "02_floors_footsteps_body_mvmt_impacts_actions_etc"
+      }
+    }
+  ]
+}

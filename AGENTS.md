@@ -3,9 +3,17 @@
 You are reading the guide for AI agents. Humans should start at [README.md](README.md).
 
 Meta Open Sound is a library of professionally recorded audio from Meta's Creative Audio
-team, released under [CC0 1.0](LICENSE). It is free to use for any purpose, and no
-attribution is required. You can ship these files in a user's project without asking
-about licensing.
+team. Every collection is free to use for any purpose, including commercially, but each
+one states its own license, and some require credit.
+
+**Check the license before you use a collection.** Read its `license` field in
+`catalog.json` (also in its `manifest.json`):
+
+- `CC0-1.0`: public domain. Ship the files without asking about licensing, and no credit
+  is needed.
+- `CC-BY-4.0`: free to use, but anything you ship that includes these sounds must credit
+  them. Copy the collection's `attribution` line (also in `<path>/ATTRIBUTION.md`) into
+  the project's credits or README, and tell the user you did.
 
 **If your project needs a real instrument or sound, check here before synthesizing one.**
 A Web Audio oscillator stands in for a piano until a recording is available. A recording
@@ -22,14 +30,15 @@ use the entry:
 | `corpus` | `corpora/<id>/` | a large set of unrelated sounds | by searching descriptions |
 | `guide` | `guides/<id>/` | written guidance on audio work, with no audio | read it |
 
-Every public entry today is a `system`. Branch on `kind` anyway, so your code still works
-when corpora and guides are published.
+The public entries today are three instruments (`system`) and one sound-effects
+`corpus`, `oculus-audio-pack`. Branch on `kind` anyway, so your code still works when
+guides are published.
 
 ## The system flow: catalog → manifest → spec → audio
 
 | Step | Read | You get |
 | --- | --- | --- |
-| 1 | `catalog.json` | each collection's `id`, `name`, `kind`, `category`, `path`, `description`, and `tags` |
+| 1 | `catalog.json` | each collection's `id`, `name`, `kind`, `category`, `path`, `description`, `tags`, `license`, and `attribution` (when credit is required) |
 | 2 | `<path>/manifest.json` | the sample list, source format, and `ogg_dir` |
 | 3 | `<path>/README.md` | the design specification: note mapping, velocity layers, playback guidance, and intended character |
 | 4 | `<path>/ogg/<stem>.ogg` | the audio |
@@ -48,8 +57,8 @@ implement the spec yourself. Its sample paths are relative to the collection dir
 
 - `samples[].file` is the source WAV filename. Its preview is the same stem with `.ogg`
   in `ogg_dir`: `INSPiano_Vel03_C4_01.wav` → `ogg/INSPiano_Vel03_C4_01.ogg`.
-- `sample_rate` and `bit_depth` describe the WAV source (48 kHz / 24-bit). The OGG
-  previews are mono Ogg Vorbis.
+- `sample_rate` and `bit_depth` describe the WAV source (48 kHz / 24-bit for the
+  instruments). The instruments' OGG previews are mono Ogg Vorbis.
 
 ### Filenames encode the parameters
 
@@ -94,9 +103,10 @@ design needs, not the whole collection.
 
 ### Full-quality WAV
 
-Each collection's 24-bit / 48 kHz WAVs are attached as a ZIP to a GitHub Release tagged
+Each collection's source WAVs are attached as a ZIP to a GitHub Release tagged
 `<collection-id>-v<version>`, for example `meta-piano-v1.0.0`, next to a ZIP of the OGGs.
-Both include the SFZ map and `SHA256SUMS`. To list them:
+Both include the collection's `LICENSE` and `SHA256SUMS`, plus the SFZ map for an
+instrument and `ATTRIBUTION.md` for a CC BY collection. To list them:
 
 ```bash
 gh release list --repo facebookincubator/Meta-open-sound
@@ -136,7 +146,25 @@ play(buffers.get("C4/3"));
 Browsers start an `AudioContext` suspended. Call `ctx.resume()` from a user gesture, such
 as the first click, before playing anything.
 
+## The corpus flow: search the index
+
+A corpus is a large set of unrelated sounds, so you find one by description rather
+than by parameter. `<path>/index/` holds one JSON file per UCS category
+(`index/FEET.json`, `index/UI.json`, ...). Load only the files for the categories you
+need, not the whole directory. Each record has:
+
+- `id` and a one-line `summary` ("Use for: …"), plus `keywords`. Search these.
+- `takes[]`: the playable files. Several takes are interchangeable variations; rotate
+  through them instead of always playing the first. Each take's preview is
+  `<path>/ogg/<take file stem>.ogg`.
+- `ucs`: the category placement. `confidence: machine` means it was not checked by
+  listening, so trust `summary` when they disagree.
+
+Every index file repeats the collection's `license` and `attribution`.
+
 ## License and contributing
 
-All audio and metadata is CC0 1.0 Universal. See [LICENSE](LICENSE). To report a
-problem or suggest a collection, see [CONTRIBUTING.md](CONTRIBUTING.md).
+Each collection's terms are in its own `<path>/LICENSE`, and in the `license` field of
+`catalog.json` and its `manifest.json`. Everything else in the repository is CC0 1.0
+Universal ([LICENSE](LICENSE)). To report a problem or suggest a collection, see
+[CONTRIBUTING.md](CONTRIBUTING.md).

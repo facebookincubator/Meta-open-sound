@@ -1,0 +1,367 @@
+{
+  "schema_version": "1.0.0",
+  "collection": "oculus-audio-pack",
+  "cat_short": "MECH",
+  "license": "CC-BY-4.0",
+  "attribution": "\"Oculus Audio Pack 01\" by Oculus VR, LLC (https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/), licensed under CC BY 4.0. Files renamed to the UCS naming convention; OGG previews transcoded from the original WAVs.",
+  "sounds": [
+    {
+      "id": "MECHLock_DoorLockKey_OS_01",
+      "ucs": {
+        "cat_id": "MECHLock",
+        "category": "MECHANICAL",
+        "subcategory": "LOCK",
+        "confidence": "machine"
+      },
+      "summary": "Use for: locking a door with a key: a key turning in the lock.",
+      "keywords": [
+        "biometric",
+        "bolt",
+        "cam",
+        "catch",
+        "clasp",
+        "combination",
+        "cylinder",
+        "deadbolt",
+        "electronic",
+        "fastener",
+        "hasp",
+        "keyless",
+        "latch",
+        "lock",
+        "mortise",
+        "padlock",
+        "pin",
+        "security",
+        "tumbler",
+        "mechanical",
+        "door",
+        "key"
+      ],
+      "classification": {
+        "asset_format": "Shuffle",
+        "loop": false
+      },
+      "takes": [
+        {
+          "file": "MECHLock_DoorLockKey_OS_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 1.408
+        },
+        {
+          "file": "MECHLock_DoorLockKey_OS_02.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 1.397
+        },
+        {
+          "file": "MECHLock_DoorLockKey_OS_03.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 2.016
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "door_lock_key",
+        "source_collection": "07_doors"
+      }
+    },
+    {
+      "id": "MECHLock_DoorUnlockKey_OS_01",
+      "ucs": {
+        "cat_id": "MECHLock",
+        "category": "MECHANICAL",
+        "subcategory": "LOCK",
+        "confidence": "machine"
+      },
+      "summary": "Use for: unlocking a door with a key: a key turning to open the lock.",
+      "keywords": [
+        "biometric",
+        "bolt",
+        "cam",
+        "catch",
+        "clasp",
+        "combination",
+        "cylinder",
+        "deadbolt",
+        "electronic",
+        "fastener",
+        "hasp",
+        "keyless",
+        "latch",
+        "lock",
+        "mortise",
+        "padlock",
+        "pin",
+        "security",
+        "tumbler",
+        "mechanical",
+        "door",
+        "unlock",
+        "key"
+      ],
+      "classification": {
+        "asset_format": "Shuffle",
+        "loop": false
+      },
+      "takes": [
+        {
+          "file": "MECHLock_DoorUnlockKey_OS_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 1.416
+        },
+        {
+          "file": "MECHLock_DoorUnlockKey_OS_02.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 2.107
+        },
+        {
+          "file": "MECHLock_DoorUnlockKey_OS_03.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 2.347
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "door_unlock_key",
+        "source_collection": "07_doors"
+      }
+    },
+    {
+      "id": "MECHLvr_LeverPull_OS_01",
+      "ucs": {
+        "cat_id": "MECHLvr",
+        "category": "MECHANICAL",
+        "subcategory": "LEVER",
+        "confidence": "machine"
+      },
+      "summary": "Use for: pulling a mechanical lever: a switch lever, a puzzle mechanism, a machine control.",
+      "keywords": [
+        "brake",
+        "cam",
+        "clank",
+        "clunk",
+        "control",
+        "joystick",
+        "lever",
+        "locking",
+        "pedal",
+        "push-pull",
+        "quick-release",
+        "rocker",
+        "switch",
+        "trigger",
+        "mechanical",
+        "indoor",
+        "pull"
+      ],
+      "classification": {
+        "asset_format": "Shuffle",
+        "loop": false
+      },
+      "takes": [
+        {
+          "file": "MECHLvr_LeverPull_OS_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 1.531
+        },
+        {
+          "file": "MECHLvr_LeverPull_OS_02.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 1.142
+        },
+        {
+          "file": "MECHLvr_LeverPull_OS_03.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 0.893
+        },
+        {
+          "file": "MECHLvr_LeverPull_OS_04.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 0.897
+        },
+        {
+          "file": "MECHLvr_LeverPull_OS_05.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 0.806
+        },
+        {
+          "file": "MECHLvr_LeverPull_OS_06.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 0.624
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "indoor_lever_pull",
+        "source_collection": "04_indoors_hums_machines_actions_etc"
+      }
+    },
+    {
+      "id": "MECHSwtch_SwitchSmallOff_OS_01",
+      "ucs": {
+        "cat_id": "MECHSwtch",
+        "category": "MECHANICAL",
+        "subcategory": "SWITCH",
+        "confidence": "machine"
+      },
+      "summary": "Use for: flipping a small switch off: a light switch, a device toggle.",
+      "keywords": [
+        "button",
+        "circuit",
+        "clack",
+        "click",
+        "dimmer",
+        "light",
+        "limit",
+        "micro",
+        "push-button",
+        "rocker",
+        "rotary",
+        "safety",
+        "selector",
+        "slide",
+        "switch",
+        "switchgear",
+        "toggle",
+        "wall",
+        "mechanical",
+        "indoor",
+        "small",
+        "off"
+      ],
+      "classification": {
+        "asset_format": "Shuffle",
+        "loop": false
+      },
+      "takes": [
+        {
+          "file": "MECHSwtch_SwitchSmallOff_OS_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 0.875
+        },
+        {
+          "file": "MECHSwtch_SwitchSmallOff_OS_02.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 0.236
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "indoor_switch_small_off",
+        "source_collection": "04_indoors_hums_machines_actions_etc"
+      }
+    },
+    {
+      "id": "MECHSwtch_SwitchSmallOn_OS_01",
+      "ucs": {
+        "cat_id": "MECHSwtch",
+        "category": "MECHANICAL",
+        "subcategory": "SWITCH",
+        "confidence": "machine"
+      },
+      "summary": "Use for: flipping a small switch on: a light switch, a device toggle.",
+      "keywords": [
+        "button",
+        "circuit",
+        "clack",
+        "click",
+        "dimmer",
+        "light",
+        "limit",
+        "micro",
+        "push-button",
+        "rocker",
+        "rotary",
+        "safety",
+        "selector",
+        "slide",
+        "switch",
+        "switchgear",
+        "toggle",
+        "wall",
+        "mechanical",
+        "indoor",
+        "small"
+      ],
+      "classification": {
+        "asset_format": "Shuffle",
+        "loop": false
+      },
+      "takes": [
+        {
+          "file": "MECHSwtch_SwitchSmallOn_OS_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 0.448
+        },
+        {
+          "file": "MECHSwtch_SwitchSmallOn_OS_02.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 0.356
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "indoor_switch_small_on",
+        "source_collection": "04_indoors_hums_machines_actions_etc"
+      }
+    }
+  ]
+}

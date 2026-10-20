@@ -1,0 +1,81 @@
+{
+  "schema_version": "1.0.0",
+  "collection": "oculus-audio-pack",
+  "cat_short": "TOON",
+  "license": "CC-BY-4.0",
+  "attribution": "\"Oculus Audio Pack 01\" by Oculus VR, LLC (https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/), licensed under CC BY 4.0. Files renamed to the UCS naming convention; OGG previews transcoded from the original WAVs.",
+  "sounds": [
+    {
+      "id": "TOONBoing_BounceCartoony_OS_01",
+      "ucs": {
+        "cat_id": "TOONBoing",
+        "category": "CARTOON",
+        "subcategory": "BOING",
+        "confidence": "machine"
+      },
+      "summary": "Use for: a cartoony springy bounce: a jump pad, a bouncing character, a comedic boing.",
+      "keywords": [
+        "animated",
+        "cartoony",
+        "comic",
+        "hanna",
+        "harp",
+        "jaw",
+        "mouth",
+        "pogo",
+        "silly",
+        "spring",
+        "stick",
+        "toon",
+        "cartoon",
+        "boing",
+        "bounce"
+      ],
+      "classification": {
+        "asset_format": "Shuffle",
+        "loop": false
+      },
+      "takes": [
+        {
+          "file": "TOONBoing_BounceCartoony_OS_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 0.712
+        },
+        {
+          "file": "TOONBoing_BounceCartoony_OS_02.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 1.109
+        },
+        {
+          "file": "TOONBoing_BounceCartoony_OS_03.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 1.452
+        },
+        {
+          "file": "TOONBoing_BounceCartoony_OS_04.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 1.037
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "bounce_cartoony",
+        "source_collection": "02_floors_footsteps_body_mvmt_impacts_actions_etc"
+      }
+    }
+  ]
+}

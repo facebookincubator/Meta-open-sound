@@ -1,0 +1,124 @@
+{
+  "schema_version": "1.0.0",
+  "collection": "oculus-audio-pack",
+  "cat_short": "CLOCK",
+  "license": "CC-BY-4.0",
+  "attribution": "\"Oculus Audio Pack 01\" by Oculus VR, LLC (https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/), licensed under CC BY 4.0. Files renamed to the UCS naming convention; OGG previews transcoded from the original WAVs.",
+  "sounds": [
+    {
+      "id": "CLOCKTick_ClockCreepyReverb_OS_01",
+      "ucs": {
+        "cat_id": "CLOCKTick",
+        "category": "CLOCKS",
+        "subcategory": "TICK",
+        "confidence": "machine"
+      },
+      "summary": "Use for: an ominous ticking clock in a large reverberant space: a haunted hall, a dream sequence, distant dread.",
+      "keywords": [
+        "chronometer",
+        "click",
+        "clicking",
+        "clock",
+        "egg",
+        "face",
+        "hands",
+        "numerals",
+        "pendulum",
+        "quartz",
+        "sounds",
+        "stop",
+        "stopwatch",
+        "tick",
+        "tick-tock",
+        "ticking",
+        "time",
+        "timekeeping",
+        "timer",
+        "tock",
+        "tocking",
+        "watch",
+        "clocks",
+        "creepy",
+        "reverb"
+      ],
+      "classification": {
+        "asset_format": "Oneshot",
+        "loop": false
+      },
+      "takes": [
+        {
+          "file": "CLOCKTick_ClockCreepyReverb_OS_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 8.893
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "creepy_clock_reverb",
+        "source_collection": "01_creepy_horror"
+      }
+    },
+    {
+      "id": "CLOCKTick_ClockCreepy_OS_01",
+      "ucs": {
+        "cat_id": "CLOCKTick",
+        "category": "CLOCKS",
+        "subcategory": "TICK",
+        "confidence": "machine"
+      },
+      "summary": "Use for: an ominous ticking clock: suspense, a haunted room, time running out. Dry version.",
+      "keywords": [
+        "chronometer",
+        "click",
+        "clicking",
+        "clock",
+        "egg",
+        "face",
+        "hands",
+        "numerals",
+        "pendulum",
+        "quartz",
+        "sounds",
+        "stop",
+        "stopwatch",
+        "tick",
+        "tick-tock",
+        "ticking",
+        "time",
+        "timekeeping",
+        "timer",
+        "tock",
+        "tocking",
+        "watch",
+        "clocks",
+        "creepy"
+      ],
+      "classification": {
+        "asset_format": "Oneshot",
+        "loop": false
+      },
+      "takes": [
+        {
+          "file": "CLOCKTick_ClockCreepy_OS_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 7.467
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "creepy_clock",
+        "source_collection": "01_creepy_horror"
+      }
+    }
+  ]
+}

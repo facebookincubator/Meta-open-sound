@@ -1,0 +1,115 @@
+{
+  "schema_version": "1.0.0",
+  "collection": "oculus-audio-pack",
+  "cat_short": "DRWR",
+  "license": "CC-BY-4.0",
+  "attribution": "\"Oculus Audio Pack 01\" by Oculus VR, LLC (https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/), licensed under CC BY 4.0. Files renamed to the UCS naming convention; OGG previews transcoded from the original WAVs.",
+  "sounds": [
+    {
+      "id": "DRWRWood_DrawerClose_OS_01",
+      "ucs": {
+        "cat_id": "DRWRWood",
+        "category": "DRAWERS",
+        "subcategory": "WOOD",
+        "confidence": "machine"
+      },
+      "summary": "Use for: a drawer sliding shut: a desk, a dresser, a kitchen cabinet.",
+      "keywords": [
+        "bathroom",
+        "bedroom",
+        "buffet",
+        "desk",
+        "drawer",
+        "dresser",
+        "kitchen",
+        "nightstand",
+        "drawers",
+        "wood",
+        "indoor",
+        "close"
+      ],
+      "classification": {
+        "asset_format": "Shuffle",
+        "loop": false
+      },
+      "takes": [
+        {
+          "file": "DRWRWood_DrawerClose_OS_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 1.708
+        },
+        {
+          "file": "DRWRWood_DrawerClose_OS_02.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 1.389
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "indoor_drawer_close",
+        "source_collection": "04_indoors_hums_machines_actions_etc"
+      }
+    },
+    {
+      "id": "DRWRWood_DrawerOpen_OS_01",
+      "ucs": {
+        "cat_id": "DRWRWood",
+        "category": "DRAWERS",
+        "subcategory": "WOOD",
+        "confidence": "machine"
+      },
+      "summary": "Use for: a drawer sliding open: searching a desk or dresser.",
+      "keywords": [
+        "bathroom",
+        "bedroom",
+        "buffet",
+        "desk",
+        "drawer",
+        "dresser",
+        "kitchen",
+        "nightstand",
+        "drawers",
+        "wood",
+        "indoor",
+        "open"
+      ],
+      "classification": {
+        "asset_format": "Shuffle",
+        "loop": false
+      },
+      "takes": [
+        {
+          "file": "DRWRWood_DrawerOpen_OS_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 1.858
+        },
+        {
+          "file": "DRWRWood_DrawerOpen_OS_02.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 1.061
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "indoor_drawer_open",
+        "source_collection": "04_indoors_hums_machines_actions_etc"
+      }
+    }
+  ]
+}

@@ -1,0 +1,412 @@
+{
+  "schema_version": "1.0.0",
+  "collection": "oculus-audio-pack",
+  "cat_short": "FGHT",
+  "license": "CC-BY-4.0",
+  "attribution": "\"Oculus Audio Pack 01\" by Oculus VR, LLC (https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/), licensed under CC BY 4.0. Files renamed to the UCS naming convention; OGG previews transcoded from the original WAVs.",
+  "sounds": [
+    {
+      "id": "FGHTImpt_Kick_OS_01",
+      "ucs": {
+        "cat_id": "FGHTImpt",
+        "category": "FIGHT",
+        "subcategory": "IMPACT",
+        "confidence": "machine"
+      },
+      "summary": "Use for: a kick landing on a body: melee combat, brawls, martial arts hits.",
+      "keywords": [
+        "bang",
+        "biff",
+        "blow",
+        "blows",
+        "body",
+        "bouts",
+        "brawl",
+        "brawling",
+        "counterpunch",
+        "elbows",
+        "fisticuffs",
+        "fists",
+        "haymakers",
+        "hit",
+        "hits",
+        "jab",
+        "jabs",
+        "kick",
+        "knock",
+        "knockdown",
+        "knockout",
+        "knockouts",
+        "knocks",
+        "punch",
+        "ram",
+        "roundhouse",
+        "shots",
+        "shove",
+        "slam",
+        "slap",
+        "slaps",
+        "smack",
+        "sock",
+        "strike",
+        "strikes",
+        "takedown",
+        "thwack",
+        "tko",
+        "uppercut",
+        "wallop",
+        "whack",
+        "fight",
+        "impact"
+      ],
+      "classification": {
+        "asset_format": "Shuffle",
+        "loop": false
+      },
+      "takes": [
+        {
+          "file": "FGHTImpt_Kick_OS_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 0.773
+        },
+        {
+          "file": "FGHTImpt_Kick_OS_02.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 0.859
+        },
+        {
+          "file": "FGHTImpt_Kick_OS_03.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 0.794
+        },
+        {
+          "file": "FGHTImpt_Kick_OS_04.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 0.802
+        },
+        {
+          "file": "FGHTImpt_Kick_OS_05.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 0.708
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "impact_kick",
+        "source_collection": "02_floors_footsteps_body_mvmt_impacts_actions_etc"
+      }
+    },
+    {
+      "id": "FGHTImpt_PunchHarder_OS_01",
+      "ucs": {
+        "cat_id": "FGHTImpt",
+        "category": "FIGHT",
+        "subcategory": "IMPACT",
+        "confidence": "machine"
+      },
+      "summary": "Use for: a strong punch landing: a heavier hit in a brawl or boxing match.",
+      "keywords": [
+        "bang",
+        "biff",
+        "blow",
+        "blows",
+        "body",
+        "bouts",
+        "brawl",
+        "brawling",
+        "counterpunch",
+        "elbows",
+        "fisticuffs",
+        "fists",
+        "haymakers",
+        "hit",
+        "hits",
+        "jab",
+        "jabs",
+        "kick",
+        "knock",
+        "knockdown",
+        "knockout",
+        "knockouts",
+        "knocks",
+        "punch",
+        "ram",
+        "roundhouse",
+        "shots",
+        "shove",
+        "slam",
+        "slap",
+        "slaps",
+        "smack",
+        "sock",
+        "strike",
+        "strikes",
+        "takedown",
+        "thwack",
+        "tko",
+        "uppercut",
+        "wallop",
+        "whack",
+        "fight",
+        "impact",
+        "harder"
+      ],
+      "classification": {
+        "asset_format": "Shuffle",
+        "loop": false
+      },
+      "takes": [
+        {
+          "file": "FGHTImpt_PunchHarder_OS_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 1.05
+        },
+        {
+          "file": "FGHTImpt_PunchHarder_OS_02.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 0.645
+        },
+        {
+          "file": "FGHTImpt_PunchHarder_OS_03.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 0.7
+        },
+        {
+          "file": "FGHTImpt_PunchHarder_OS_04.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 1.03
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "impact_punch_harder",
+        "source_collection": "02_floors_footsteps_body_mvmt_impacts_actions_etc"
+      }
+    },
+    {
+      "id": "FGHTImpt_PunchHardest_OS_01",
+      "ucs": {
+        "cat_id": "FGHTImpt",
+        "category": "FIGHT",
+        "subcategory": "IMPACT",
+        "confidence": "machine"
+      },
+      "summary": "Use for: a knockout punch: the heaviest, most dramatic melee hit.",
+      "keywords": [
+        "bang",
+        "biff",
+        "blow",
+        "blows",
+        "body",
+        "bouts",
+        "brawl",
+        "brawling",
+        "counterpunch",
+        "elbows",
+        "fisticuffs",
+        "fists",
+        "haymakers",
+        "hit",
+        "hits",
+        "jab",
+        "jabs",
+        "kick",
+        "knock",
+        "knockdown",
+        "knockout",
+        "knockouts",
+        "knocks",
+        "punch",
+        "ram",
+        "roundhouse",
+        "shots",
+        "shove",
+        "slam",
+        "slap",
+        "slaps",
+        "smack",
+        "sock",
+        "strike",
+        "strikes",
+        "takedown",
+        "thwack",
+        "tko",
+        "uppercut",
+        "wallop",
+        "whack",
+        "fight",
+        "impact",
+        "hardest"
+      ],
+      "classification": {
+        "asset_format": "Oneshot",
+        "loop": false
+      },
+      "takes": [
+        {
+          "file": "FGHTImpt_PunchHardest_OS_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 1.014
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "impact_punch_hardest",
+        "source_collection": "02_floors_footsteps_body_mvmt_impacts_actions_etc"
+      }
+    },
+    {
+      "id": "FGHTImpt_PunchRegular_OS_01",
+      "ucs": {
+        "cat_id": "FGHTImpt",
+        "category": "FIGHT",
+        "subcategory": "IMPACT",
+        "confidence": "machine"
+      },
+      "summary": "Use for: a regular punch landing: standard melee hits in a fight.",
+      "keywords": [
+        "bang",
+        "biff",
+        "blow",
+        "blows",
+        "body",
+        "bouts",
+        "brawl",
+        "brawling",
+        "counterpunch",
+        "elbows",
+        "fisticuffs",
+        "fists",
+        "haymakers",
+        "hit",
+        "hits",
+        "jab",
+        "jabs",
+        "kick",
+        "knock",
+        "knockdown",
+        "knockout",
+        "knockouts",
+        "knocks",
+        "punch",
+        "ram",
+        "roundhouse",
+        "shots",
+        "shove",
+        "slam",
+        "slap",
+        "slaps",
+        "smack",
+        "sock",
+        "strike",
+        "strikes",
+        "takedown",
+        "thwack",
+        "tko",
+        "uppercut",
+        "wallop",
+        "whack",
+        "fight",
+        "impact",
+        "regular"
+      ],
+      "classification": {
+        "asset_format": "Shuffle",
+        "loop": false
+      },
+      "takes": [
+        {
+          "file": "FGHTImpt_PunchRegular_OS_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 1.024
+        },
+        {
+          "file": "FGHTImpt_PunchRegular_OS_02.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 0.712
+        },
+        {
+          "file": "FGHTImpt_PunchRegular_OS_03.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 0.627
+        },
+        {
+          "file": "FGHTImpt_PunchRegular_OS_04.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 0.682
+        },
+        {
+          "file": "FGHTImpt_PunchRegular_OS_05.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 0.627
+        },
+        {
+          "file": "FGHTImpt_PunchRegular_OS_06.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 0.71
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "impact_punch_regular",
+        "source_collection": "02_floors_footsteps_body_mvmt_impacts_actions_etc"
+      }
+    }
+  ]
+}

@@ -8,6 +8,17 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
 ### Added
 
+- **Oculus Audio Pack 1** — 289 game and VR sound effects (508 files) from the
+  2015 Oculus Audio Pack: footsteps on six surfaces, themed UI sets, character
+  vocals, doors, ambience loops, musical stings, horror and interaction foley.
+  The first sound-effects collection, searchable by description through its
+  `index/`. Licensed **CC BY 4.0**: credit it with the line in its
+  `ATTRIBUTION.md`.
+- Per-collection licensing. Each collection directory now has its own
+  `LICENSE`, and `catalog.json` and each `manifest.json` carry a `license`
+  field (an SPDX id). Collections that require credit also ship an
+  `ATTRIBUTION.md`. Every collection released so far stays CC0 1.0 Universal.
+
 - **Meta Nylon Guitar** — nylon-string classical guitar (E2–B5), six string
   zones, 3 dynamic layers (two picked, one fingerstyle), 348 samples.
 - **Meta Steel Guitar** — steel-string acoustic guitar (E2–C6), six strings

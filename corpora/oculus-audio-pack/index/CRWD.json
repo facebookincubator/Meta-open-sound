@@ -1,0 +1,66 @@
+{
+  "schema_version": "1.0.0",
+  "collection": "oculus-audio-pack",
+  "cat_short": "CRWD",
+  "license": "CC-BY-4.0",
+  "attribution": "\"Oculus Audio Pack 01\" by Oculus VR, LLC (https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/), licensed under CC BY 4.0. Files renamed to the UCS naming convention; OGG previews transcoded from the original WAVs.",
+  "sounds": [
+    {
+      "id": "CRWDConv_Restaurant_LOOP_01",
+      "ucs": {
+        "cat_id": "CRWDConv",
+        "category": "CROWDS",
+        "subcategory": "CONVERSATION",
+        "confidence": "machine"
+      },
+      "summary": "Use for: a busy restaurant interior: diners chatting, cutlery and plates, a cafe or a bar.",
+      "keywords": [
+        "casual",
+        "chat",
+        "chatter",
+        "chitchat",
+        "colloquy",
+        "communication",
+        "confabulation",
+        "conversation",
+        "conversations",
+        "converse",
+        "dialogue",
+        "discussion",
+        "exchange",
+        "informal",
+        "parley",
+        "small",
+        "socializing",
+        "sparse",
+        "talk",
+        "verbalization",
+        "walla",
+        "crowds",
+        "ambient",
+        "restaurant"
+      ],
+      "classification": {
+        "asset_format": "Loop",
+        "loop": true
+      },
+      "takes": [
+        {
+          "file": "CRWDConv_Restaurant_LOOP_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 2,
+          "duration_s": 47.874
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "ambient_restaurant",
+        "source_collection": "03_weather_ambience_etc"
+      }
+    }
+  ]
+}

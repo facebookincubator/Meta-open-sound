@@ -1,0 +1,452 @@
+{
+  "schema_version": "1.0.0",
+  "collection": "oculus-audio-pack",
+  "cat_short": "ANML",
+  "license": "CC-BY-4.0",
+  "attribution": "\"Oculus Audio Pack 01\" by Oculus VR, LLC (https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/), licensed under CC BY 4.0. Files renamed to the UCS naming convention; OGG previews transcoded from the original WAVs.",
+  "sounds": [
+    {
+      "id": "ANMLDog_DogAttention_OS_01",
+      "ucs": {
+        "cat_id": "ANMLDog",
+        "category": "ANIMALS",
+        "subcategory": "DOG",
+        "confidence": "machine"
+      },
+      "summary": "Use for: a dog vocalizing for attention: whining or yipping at its owner.",
+      "keywords": [
+        "ucs marke",
+        "animals",
+        "dog",
+        "voice",
+        "animal",
+        "attention"
+      ],
+      "classification": {
+        "asset_format": "Oneshot",
+        "loop": false
+      },
+      "takes": [
+        {
+          "file": "ANMLDog_DogAttention_OS_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 1.885
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "voice_animal_dog_attention",
+        "source_collection": "06_vocal"
+      }
+    },
+    {
+      "id": "ANMLDog_DogBark_OS_01",
+      "ucs": {
+        "cat_id": "ANMLDog",
+        "category": "ANIMALS",
+        "subcategory": "DOG",
+        "confidence": "machine"
+      },
+      "summary": "Use for: a dog barking: a guard dog, a neighborhood dog, a pet alert.",
+      "keywords": [
+        "ucs marke",
+        "animals",
+        "dog",
+        "voice",
+        "animal",
+        "bark"
+      ],
+      "classification": {
+        "asset_format": "Shuffle",
+        "loop": false
+      },
+      "takes": [
+        {
+          "file": "ANMLDog_DogBark_OS_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 0.437
+        },
+        {
+          "file": "ANMLDog_DogBark_OS_02.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 0.453
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "voice_animal_dog_bark",
+        "source_collection": "06_vocal"
+      }
+    },
+    {
+      "id": "ANMLFarm_PigSqueal_OS_01",
+      "ucs": {
+        "cat_id": "ANMLFarm",
+        "category": "ANIMALS",
+        "subcategory": "FARM",
+        "confidence": "machine"
+      },
+      "summary": "Use for: a pig squealing: a farmyard, comedic panic.",
+      "keywords": [
+        "alpaca",
+        "angus",
+        "barnyard",
+        "beef",
+        "bison",
+        "bovine",
+        "bovines",
+        "buffaloes",
+        "bullocks",
+        "bulls",
+        "cattle",
+        "cattlemen",
+        "cow",
+        "domesticated",
+        "domesticates",
+        "donkey",
+        "eew",
+        "farms",
+        "farmsteads",
+        "farmyard",
+        "feedlot",
+        "goat",
+        "goats",
+        "hereford",
+        "hogs",
+        "holstein",
+        "jersey",
+        "lamb",
+        "llama",
+        "mule",
+        "pig",
+        "piggery",
+        "piggies",
+        "piglets",
+        "ram",
+        "reindeer",
+        "ruminant",
+        "ruminants",
+        "sheep",
+        "steer",
+        "wagyu",
+        "animals",
+        "farm",
+        "voice",
+        "animal",
+        "squeal"
+      ],
+      "classification": {
+        "asset_format": "Shuffle",
+        "loop": false
+      },
+      "takes": [
+        {
+          "file": "ANMLFarm_PigSqueal_OS_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 0.628
+        },
+        {
+          "file": "ANMLFarm_PigSqueal_OS_02.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 0.53
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "voice_animal_pig_squeal",
+        "source_collection": "06_vocal"
+      }
+    },
+    {
+      "id": "ANMLFarm_Sheep_OS_01",
+      "ucs": {
+        "cat_id": "ANMLFarm",
+        "category": "ANIMALS",
+        "subcategory": "FARM",
+        "confidence": "machine"
+      },
+      "summary": "Use for: a sheep bleating: a pasture, a farm.",
+      "keywords": [
+        "alpaca",
+        "angus",
+        "barnyard",
+        "beef",
+        "bison",
+        "bovine",
+        "bovines",
+        "buffaloes",
+        "bullocks",
+        "bulls",
+        "cattle",
+        "cattlemen",
+        "cow",
+        "domesticated",
+        "domesticates",
+        "donkey",
+        "eew",
+        "farms",
+        "farmsteads",
+        "farmyard",
+        "feedlot",
+        "goat",
+        "goats",
+        "hereford",
+        "hogs",
+        "holstein",
+        "jersey",
+        "lamb",
+        "llama",
+        "mule",
+        "pig",
+        "piggery",
+        "piggies",
+        "piglets",
+        "ram",
+        "reindeer",
+        "ruminant",
+        "ruminants",
+        "sheep",
+        "steer",
+        "wagyu",
+        "animals",
+        "farm",
+        "voice",
+        "animal"
+      ],
+      "classification": {
+        "asset_format": "Shuffle",
+        "loop": false
+      },
+      "takes": [
+        {
+          "file": "ANMLFarm_Sheep_OS_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 0.96
+        },
+        {
+          "file": "ANMLFarm_Sheep_OS_02.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 0.805
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "voice_animal_sheep",
+        "source_collection": "06_vocal"
+      }
+    },
+    {
+      "id": "ANMLHors_HorseNeighAmbient_OS_01",
+      "ucs": {
+        "cat_id": "ANMLHors",
+        "category": "ANIMALS",
+        "subcategory": "HORSE",
+        "confidence": "machine"
+      },
+      "summary": "Use for: a horse neighing: a stable, a farm, a medieval or western scene.",
+      "keywords": [
+        "arabian",
+        "arabians",
+        "ass",
+        "clydesdale",
+        "colt",
+        "donkey",
+        "donkeys",
+        "equestrian",
+        "equestrians",
+        "equid",
+        "equids",
+        "equine",
+        "equines",
+        "equus",
+        "filly",
+        "foal",
+        "foals",
+        "gelding",
+        "geldings",
+        "hoofs",
+        "horse",
+        "horseback",
+        "horseflesh",
+        "horseman",
+        "horsemanship",
+        "horsemen",
+        "horseraces",
+        "horsewoman",
+        "horsey",
+        "horsy",
+        "jockeys",
+        "mare",
+        "mares",
+        "mule",
+        "mules",
+        "mustang",
+        "mustangs",
+        "packhorses",
+        "palominos",
+        "ponies",
+        "pony",
+        "quarter",
+        "racehorse",
+        "racehorses",
+        "riders",
+        "saddles",
+        "sawbuck",
+        "shetland",
+        "stables",
+        "stallion",
+        "stallions",
+        "standardbreds",
+        "steeds",
+        "thoroughbred",
+        "thoroughbreds",
+        "zebra",
+        "animals",
+        "ambient",
+        "neigh"
+      ],
+      "classification": {
+        "asset_format": "Oneshot",
+        "loop": false
+      },
+      "takes": [
+        {
+          "file": "ANMLHors_HorseNeighAmbient_OS_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 1.206
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "ambient_horse_neigh",
+        "source_collection": "03_weather_ambience_etc"
+      }
+    },
+    {
+      "id": "ANMLHors_HorseNeigh_OS_01",
+      "ucs": {
+        "cat_id": "ANMLHors",
+        "category": "ANIMALS",
+        "subcategory": "HORSE",
+        "confidence": "machine"
+      },
+      "summary": "Use for: a horse neighing: a stable, a mount, a western or medieval scene.",
+      "keywords": [
+        "arabian",
+        "arabians",
+        "ass",
+        "clydesdale",
+        "colt",
+        "donkey",
+        "donkeys",
+        "equestrian",
+        "equestrians",
+        "equid",
+        "equids",
+        "equine",
+        "equines",
+        "equus",
+        "filly",
+        "foal",
+        "foals",
+        "gelding",
+        "geldings",
+        "hoofs",
+        "horse",
+        "horseback",
+        "horseflesh",
+        "horseman",
+        "horsemanship",
+        "horsemen",
+        "horseraces",
+        "horsewoman",
+        "horsey",
+        "horsy",
+        "jockeys",
+        "mare",
+        "mares",
+        "mule",
+        "mules",
+        "mustang",
+        "mustangs",
+        "packhorses",
+        "palominos",
+        "ponies",
+        "pony",
+        "quarter",
+        "racehorse",
+        "racehorses",
+        "riders",
+        "saddles",
+        "sawbuck",
+        "shetland",
+        "stables",
+        "stallion",
+        "stallions",
+        "standardbreds",
+        "steeds",
+        "thoroughbred",
+        "thoroughbreds",
+        "zebra",
+        "animals",
+        "voice",
+        "neigh"
+      ],
+      "classification": {
+        "asset_format": "Oneshot",
+        "loop": false
+      },
+      "takes": [
+        {
+          "file": "ANMLHors_HorseNeigh_OS_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 1.609
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "voice_horse_neigh",
+        "source_collection": "06_vocal"
+      }
+    }
+  ]
+}

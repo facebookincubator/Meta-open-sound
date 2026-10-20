@@ -1,0 +1,151 @@
+{
+  "schema_version": "1.0.0",
+  "collection": "oculus-audio-pack",
+  "cat_short": "WHSH",
+  "license": "CC-BY-4.0",
+  "attribution": "\"Oculus Audio Pack 01\" by Oculus VR, LLC (https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/), licensed under CC BY 4.0. Files renamed to the UCS naming convention; OGG previews transcoded from the original WAVs.",
+  "sounds": [
+    {
+      "id": "WHSH_WhooshMedium_OS_01",
+      "ucs": {
+        "cat_id": "WHSH",
+        "category": "SWOOSHES",
+        "subcategory": "WHOOSH",
+        "confidence": "machine"
+      },
+      "summary": "Use for: a medium whoosh: a swung object, a fast pass-by, a UI or camera transition.",
+      "keywords": [
+        "dart",
+        "flash",
+        "fly",
+        "glide",
+        "pass",
+        "race",
+        "rush",
+        "swipe",
+        "swishy",
+        "swoop",
+        "swoosh",
+        "whir",
+        "whirl",
+        "whiz",
+        "whoosh",
+        "whooshy",
+        "woosh",
+        "zip",
+        "zoom",
+        "swooshes",
+        "interaction",
+        "medium"
+      ],
+      "classification": {
+        "asset_format": "Shuffle",
+        "loop": false
+      },
+      "takes": [
+        {
+          "file": "WHSH_WhooshMedium_OS_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 0.226
+        },
+        {
+          "file": "WHSH_WhooshMedium_OS_02.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 0.247
+        },
+        {
+          "file": "WHSH_WhooshMedium_OS_03.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 0.274
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "interaction_whoosh_medium",
+        "source_collection": "10_interaction"
+      }
+    },
+    {
+      "id": "WHSH_WhooshSmall_OS_01",
+      "ucs": {
+        "cat_id": "WHSH",
+        "category": "SWOOSHES",
+        "subcategory": "WHOOSH",
+        "confidence": "machine"
+      },
+      "summary": "Use for: a small whoosh: a quick flick, a light swing, a subtle transition.",
+      "keywords": [
+        "dart",
+        "flash",
+        "fly",
+        "glide",
+        "pass",
+        "race",
+        "rush",
+        "swipe",
+        "swishy",
+        "swoop",
+        "swoosh",
+        "whir",
+        "whirl",
+        "whiz",
+        "whoosh",
+        "whooshy",
+        "woosh",
+        "zip",
+        "zoom",
+        "swooshes",
+        "interaction",
+        "small"
+      ],
+      "classification": {
+        "asset_format": "Shuffle",
+        "loop": false
+      },
+      "takes": [
+        {
+          "file": "WHSH_WhooshSmall_OS_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 0.189
+        },
+        {
+          "file": "WHSH_WhooshSmall_OS_02.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 0.147
+        },
+        {
+          "file": "WHSH_WhooshSmall_OS_03.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 0.243
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "interaction_whoosh_small",
+        "source_collection": "10_interaction"
+      }
+    }
+  ]
+}

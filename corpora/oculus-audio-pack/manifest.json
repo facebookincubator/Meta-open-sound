@@ -1,0 +1,4588 @@
+{
+  "id": "oculus-audio-pack",
+  "name": "Oculus Audio Pack 1",
+  "category": "sfx",
+  "format": "wav",
+  "web_formats": [
+    "ogg"
+  ],
+  "sample_rate": 48000,
+  "bit_depth": 16,
+  "samples": [
+    {
+      "file": "AMBCnst_ConstructionSiteMedium_LOOP_01.wav",
+      "original_name": "03_weather_ambience_etc/ambient_construction_site_medium_distance_01_lp.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 2,
+      "duration_s": 60.075
+    },
+    {
+      "file": "AMBFarm_FarmGeneric_LOOP_01.wav",
+      "original_name": "03_weather_ambience_etc/ambient_farm_generic_lp.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 2,
+      "duration_s": 89.816
+    },
+    {
+      "file": "AMBForst_ForestBirds_OS_01.wav",
+      "original_name": "03_weather_ambience_etc/ambience_forest_birds_01.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 5.195
+    },
+    {
+      "file": "AMBForst_ForestBirds_OS_02.wav",
+      "original_name": "03_weather_ambience_etc/ambience_forest_birds_02.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 7.296
+    },
+    {
+      "file": "AMBForst_ForestBirds_OS_03.wav",
+      "original_name": "03_weather_ambience_etc/ambience_forest_birds_03.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 3.019
+    },
+    {
+      "file": "AMBForst_Forest_LOOP_01.wav",
+      "original_name": "03_weather_ambience_etc/ambient_forest_lp.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 2,
+      "duration_s": 59.476
+    },
+    {
+      "file": "AMBForst_Night_LOOP_01.wav",
+      "original_name": "03_weather_ambience_etc/ambient_night_lp.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 2,
+      "duration_s": 45.052
+    },
+    {
+      "file": "AMBHome_RoomTone_LOOP_01.wav",
+      "original_name": "03_weather_ambience_etc/ambient_room_tone_01_lp.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 2,
+      "duration_s": 60.075
+    },
+    {
+      "file": "AMBHome_RoomTone_LOOP_02.wav",
+      "original_name": "03_weather_ambience_etc/ambient_room_tone_02_lp.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 2,
+      "duration_s": 60.032
+    },
+    {
+      "file": "AMBInd_RoomToneMachineRoom_LOOP_01.wav",
+      "original_name": "03_weather_ambience_etc/ambient_room_tone_machineroom_01_lp.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 2,
+      "duration_s": 60.16
+    },
+    {
+      "file": "AMBLake_LakeShore_LOOP_01.wav",
+      "original_name": "03_weather_ambience_etc/ambient_water_lake_shore_01_lp.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 2,
+      "duration_s": 45.0
+    },
+    {
+      "file": "AMBSea_BeachWavesStonesBirds_LOOP_01.wav",
+      "original_name": "03_weather_ambience_etc/ambient_ocean_beach_waves_on_stones_and_birds_01_lp.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 2,
+      "duration_s": 77.525
+    },
+    {
+      "file": "AMBUndwtr_Underwater_LOOP_01.wav",
+      "original_name": "03_weather_ambience_etc/ambient_water_underwater_lp.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 2,
+      "duration_s": 45.0
+    },
+    {
+      "file": "AMBUrbn_CityAmerican_LOOP_01.wav",
+      "original_name": "03_weather_ambience_etc/ambient_city_american_lp.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 2,
+      "duration_s": 85.393
+    },
+    {
+      "file": "AMBUrbn_CityEuroDaytime_LOOP_01.wav",
+      "original_name": "03_weather_ambience_etc/ambient_city_euro_daytime_01_lp.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 2,
+      "duration_s": 82.548
+    },
+    {
+      "file": "ANMLDog_DogAttention_OS_01.wav",
+      "original_name": "06_vocal/voice_animal_dog_attention.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 1.885
+    },
+    {
+      "file": "ANMLDog_DogBark_OS_01.wav",
+      "original_name": "06_vocal/voice_animal_dog_bark_01.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 0.437
+    },
+    {
+      "file": "ANMLDog_DogBark_OS_02.wav",
+      "original_name": "06_vocal/voice_animal_dog_bark_02.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 0.453
+    },
+    {
+      "file": "ANMLFarm_PigSqueal_OS_01.wav",
+      "original_name": "06_vocal/voice_animal_pig_squeal_01.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 0.628
+    },
+    {
+      "file": "ANMLFarm_PigSqueal_OS_02.wav",
+      "original_name": "06_vocal/voice_animal_pig_squeal_02.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 0.53
+    },
+    {
+      "file": "ANMLFarm_Sheep_OS_01.wav",
+      "original_name": "06_vocal/voice_animal_sheep_01.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 0.96
+    },
+    {
+      "file": "ANMLFarm_Sheep_OS_02.wav",
+      "original_name": "06_vocal/voice_animal_sheep_02.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 0.805
+    },
+    {
+      "file": "ANMLHors_HorseNeighAmbient_OS_01.wav",
+      "original_name": "03_weather_ambience_etc/ambient_horse_neigh_01.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 1.206
+    },
+    {
+      "file": "ANMLHors_HorseNeigh_OS_01.wav",
+      "original_name": "06_vocal/voice_horse_neigh_01.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 1.609
+    },
+    {
+      "file": "BIRDFowl_Chicken_OS_01.wav",
+      "original_name": "06_vocal/voice_animal_chicken_01.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 3.331
+    },
+    {
+      "file": "BIRDFowl_Duck_OS_01.wav",
+      "original_name": "06_vocal/voice_animal_duck_01.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 2.448
+    },
+    {
+      "file": "BLLTShel_ShellCasingConcrete_OS_01.wav",
+      "original_name": "02_floors_footsteps_body_mvmt_impacts_actions_etc/action_shell_casing_on_concrete_01.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 1.016
+    },
+    {
+      "file": "BLLTShel_ShellCasingConcrete_OS_02.wav",
+      "original_name": "02_floors_footsteps_body_mvmt_impacts_actions_etc/action_shell_casing_on_concrete_02.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 0.921
+    },
+    {
+      "file": "BLLTShel_ShellCasingConcrete_OS_03.wav",
+      "original_name": "02_floors_footsteps_body_mvmt_impacts_actions_etc/action_shell_casing_on_concrete_03.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 0.866
+    },
+    {
+      "file": "BLLTShel_ShellCasingGrass_OS_01.wav",
+      "original_name": "02_floors_footsteps_body_mvmt_impacts_actions_etc/action_shell_casing_on_grass_01.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 0.485
+    },
+    {
+      "file": "BLLTShel_ShellCasingGrass_OS_02.wav",
+      "original_name": "02_floors_footsteps_body_mvmt_impacts_actions_etc/action_shell_casing_on_grass_02.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 0.611
+    },
+    {
+      "file": "BLLTShel_ShellCasingGrass_OS_03.wav",
+      "original_name": "02_floors_footsteps_body_mvmt_impacts_actions_etc/action_shell_casing_on_grass_03.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 0.847
+    },
+    {
+      "file": "BLLTShel_ShellCasingMetal_OS_01.wav",
+      "original_name": "02_floors_footsteps_body_mvmt_impacts_actions_etc/action_shell_casing_on_metal_01.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 0.678
+    },
+    {
+      "file": "BLLTShel_ShellCasingMetal_OS_02.wav",
+      "original_name": "02_floors_footsteps_body_mvmt_impacts_actions_etc/action_shell_casing_on_metal_02.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 1.03
+    },
+    {
+      "file": "BLLTShel_ShellCasingMetal_OS_03.wav",
+      "original_name": "02_floors_footsteps_body_mvmt_impacts_actions_etc/action_shell_casing_on_metal_03.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 0.844
+    },
+    {
+      "file": "BOATRow_RowboatOarRowing_OS_01.wav",
+      "original_name": "03_weather_ambience_etc/ambient_rowboat_oar_rowing_01.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 3.111
+    },
+    {
+      "file": "BOATRow_RowboatOarRowing_OS_02.wav",
+      "original_name": "03_weather_ambience_etc/ambient_rowboat_oar_rowing_02.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 3.322
+    },
+    {
+      "file": "BOATRow_RowboatOarRowing_OS_03.wav",
+      "original_name": "03_weather_ambience_etc/ambient_rowboat_oar_rowing_03.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 3.565
+    },
+    {
+      "file": "BOATRow_RowboatOarRowing_OS_04.wav",
+      "original_name": "03_weather_ambience_etc/ambient_rowboat_oar_rowing_04.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 3.654
+    },
+    {
+      "file": "BOATRow_RowboatOarRowing_OS_05.wav",
+      "original_name": "03_weather_ambience_etc/ambient_rowboat_oar_rowing_05.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 3.544
+    },
+    {
+      "file": "CERMImpt_CeramicSmallImpact_OS_01.wav",
+      "original_name": "02_floors_footsteps_body_mvmt_impacts_actions_etc/impact_small_ceramic.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 1.273
+    },
+    {
+      "file": "CHAINMvmt_ChainsCreepy_OS_01.wav",
+      "original_name": "01_creepy_horror/creepy_chains_01.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 5.61
+    },
+    {
+      "file": "CHAINMvmt_ChainsCreepy_OS_02.wav",
+      "original_name": "01_creepy_horror/creepy_chains_02.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 4.159
+    },
+    {
+      "file": "CLOCKTick_ClockCreepyReverb_OS_01.wav",
+      "original_name": "01_creepy_horror/creepy_clock_reverb_01.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 8.893
+    },
+    {
+      "file": "CLOCKTick_ClockCreepy_OS_01.wav",
+      "original_name": "01_creepy_horror/creepy_clock_01.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 7.467
+    },
+    {
+      "file": "CLOTHFlp_FlagFlapping_LOOP_01.wav",
+      "original_name": "03_weather_ambience_etc/ambient_flag_fly_lp.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 18.208
+    },
+    {
+      "file": "CLOTHMvmt_ClothingMovement_OS_01.wav",
+      "original_name": "02_floors_footsteps_body_mvmt_impacts_actions_etc/body_movement_clothing_generic_01.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 0.739
+    },
+    {
+      "file": "CLOTHMvmt_ClothingMovement_OS_02.wav",
+      "original_name": "02_floors_footsteps_body_mvmt_impacts_actions_etc/body_movement_clothing_generic_02.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 0.707
+    },
+    {
+      "file": "CLOTHMvmt_ClothingMovement_OS_03.wav",
+      "original_name": "02_floors_footsteps_body_mvmt_impacts_actions_etc/body_movement_clothing_generic_03.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 1.229
+    },
+    {
+      "file": "CLOTHMvmt_ClothingMovement_OS_04.wav",
+      "original_name": "02_floors_footsteps_body_mvmt_impacts_actions_etc/body_movement_clothing_generic_04.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 0.959
+    },
+    {
+      "file": "CLOTHMvmt_MovementWithGear_OS_01.wav",
+      "original_name": "02_floors_footsteps_body_mvmt_impacts_actions_etc/body_movement_withGear_01.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 0.894
+    },
+    {
+      "file": "CLOTHMvmt_MovementWithGear_OS_02.wav",
+      "original_name": "02_floors_footsteps_body_mvmt_impacts_actions_etc/body_movement_withGear_02.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 0.53
+    },
+    {
+      "file": "CLOTHMvmt_MovementWithGear_OS_03.wav",
+      "original_name": "02_floors_footsteps_body_mvmt_impacts_actions_etc/body_movement_withGear_03.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 0.97
+    },
+    {
+      "file": "CLOTHMvmt_MovementWithGear_OS_04.wav",
+      "original_name": "02_floors_footsteps_body_mvmt_impacts_actions_etc/body_movement_withGear_04.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 1.05
+    },
+    {
+      "file": "CREAHmn_GiantDeathScream_OS_01.wav",
+      "original_name": "06_vocal/Giant/voice_giant_deathscream_01.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 5.412
+    },
+    {
+      "file": "CREAHmn_GiantDeath_OS_01.wav",
+      "original_name": "06_vocal/Giant/voice_giant_deaths_01.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 4.123
+    },
+    {
+      "file": "CREAHmn_GiantDeath_OS_02.wav",
+      "original_name": "06_vocal/Giant/voice_giant_deaths_02.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 3.674
+    },
+    {
+      "file": "CREAHmn_GiantDeath_OS_03.wav",
+      "original_name": "06_vocal/Giant/voice_giant_deaths_03.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 4.391
+    },
+    {
+      "file": "CREAHmn_GiantEffort_OS_01.wav",
+      "original_name": "06_vocal/Giant/voice_giant_effort_01.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 3.565
+    },
+    {
+      "file": "CREAHmn_GiantHurt_OS_01.wav",
+      "original_name": "06_vocal/Giant/voice_giant_hurts_01.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 2.939
+    },
+    {
+      "file": "CREAHmn_GiantHurt_OS_02.wav",
+      "original_name": "06_vocal/Giant/voice_giant_hurts_02.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 2.834
+    },
+    {
+      "file": "CREAHmn_GiantHurt_OS_03.wav",
+      "original_name": "06_vocal/Giant/voice_giant_hurts_03.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 3.233
+    },
+    {
+      "file": "CREAHmn_GiantLaugh_OS_01.wav",
+      "original_name": "06_vocal/Giant/voice_giant_laugh_01.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 5.037
+    },
+    {
+      "file": "CREAHmn_GiantLaugh_OS_02.wav",
+      "original_name": "06_vocal/Giant/voice_giant_laugh_02.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 4.18
+    },
+    {
+      "file": "CREAHmn_GiantLaugh_OS_03.wav",
+      "original_name": "06_vocal/Giant/voice_giant_laugh_03.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 3.511
+    },
+    {
+      "file": "CREAHmn_OgreDeathScream_OS_01.wav",
+      "original_name": "06_vocal/Ogre/voice_ogre_deathscream_01.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 2.133
+    },
+    {
+      "file": "CREAHmn_OgreDeath_OS_01.wav",
+      "original_name": "06_vocal/Ogre/voice_ogre_death_01.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 2.763
+    },
+    {
+      "file": "CREAHmn_OgreDeath_OS_02.wav",
+      "original_name": "06_vocal/Ogre/voice_ogre_death_02.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 1.912
+    },
+    {
+      "file": "CREAHmn_OgreDeath_OS_03.wav",
+      "original_name": "06_vocal/Ogre/voice_ogre_death_03.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 2.568
+    },
+    {
+      "file": "CREAHmn_OgreEffort_OS_01.wav",
+      "original_name": "06_vocal/Ogre/voice_ogre_effort_01.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 0.859
+    },
+    {
+      "file": "CREAHmn_OgreHurt_OS_01.wav",
+      "original_name": "06_vocal/Ogre/voice_ogre_hurt_01.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 0.919
+    },
+    {
+      "file": "CREAHmn_OgreHurt_OS_02.wav",
+      "original_name": "06_vocal/Ogre/voice_ogre_hurt_02.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 0.889
+    },
+    {
+      "file": "CREAHmn_OgreHurt_OS_03.wav",
+      "original_name": "06_vocal/Ogre/voice_ogre_hurt_03.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 0.714
+    },
+    {
+      "file": "CREAHmn_OgreLaugh_OS_01.wav",
+      "original_name": "06_vocal/Ogre/voice_ogre_laugh_01.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 1.653
+    },
+    {
+      "file": "CREAHmn_OgreLaugh_OS_02.wav",
+      "original_name": "06_vocal/Ogre/voice_ogre_laugh_02.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 2.148
+    },
+    {
+      "file": "CREAHmn_OgreLaugh_OS_03.wav",
+      "original_name": "06_vocal/Ogre/voice_ogre_laugh_03.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 1.603
+    },
+    {
+      "file": "CREAHmn_TrollDeathScream_OS_01.wav",
+      "original_name": "06_vocal/Troll/voice_troll_deathscream_01.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 2.64
+    },
+    {
+      "file": "CREAHmn_TrollDeath_OS_01.wav",
+      "original_name": "06_vocal/Troll/voice_troll_death_01.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 1.018
+    },
+    {
+      "file": "CREAHmn_TrollDeath_OS_02.wav",
+      "original_name": "06_vocal/Troll/voice_troll_death_03.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 1.251
+    },
+    {
+      "file": "CREAHmn_TrollEffort_OS_01.wav",
+      "original_name": "06_vocal/Troll/voice_troll_effort_01.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 0.605
+    },
+    {
+      "file": "CREAHmn_TrollHurt_OS_01.wav",
+      "original_name": "06_vocal/Troll/voice_troll_hurt_01.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 0.539
+    },
+    {
+      "file": "CREAHmn_TrollHurt_OS_02.wav",
+      "original_name": "06_vocal/Troll/voice_troll_hurt_02.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 0.593
+    },
+    {
+      "file": "CREAHmn_TrollHurt_OS_03.wav",
+      "original_name": "06_vocal/Troll/voice_troll_hurt_03.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 0.599
+    },
+    {
+      "file": "CREAHmn_TrollLaugh_OS_01.wav",
+      "original_name": "06_vocal/Troll/voice_troll_laugh_02.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 1.911
+    },
+    {
+      "file": "CREAHmn_TrollLaugh_OS_02.wav",
+      "original_name": "06_vocal/Troll/voice_troll_laugh_03.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 1.433
+    },
+    {
+      "file": "CREAHmn_TrollLaugh_OS_03.wav",
+      "original_name": "06_vocal/Troll/voice_troll_laugh_04.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 1.699
+    },
+    {
+      "file": "CREAMnstr_CreatureCreepyReverb_OS_01.wav",
+      "original_name": "01_creepy_horror/creepy_creature_reverb_01.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 4.98
+    },
+    {
+      "file": "CREAMnstr_CreatureCreepyReverb_OS_02.wav",
+      "original_name": "01_creepy_horror/creepy_creature_reverb_02.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 2.782
+    },
+    {
+      "file": "CREAMnstr_CreatureCreepyReverb_OS_03.wav",
+      "original_name": "01_creepy_horror/creepy_creature_reverb_03.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 3.656
+    },
+    {
+      "file": "CREAMnstr_CreatureCreepy_OS_01.wav",
+      "original_name": "01_creepy_horror/creepy_creature_01.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 3.298
+    },
+    {
+      "file": "CREAMnstr_CreatureCreepy_OS_02.wav",
+      "original_name": "01_creepy_horror/creepy_creature_02.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 1.99
+    },
+    {
+      "file": "CREAMnstr_CreatureCreepy_OS_03.wav",
+      "original_name": "01_creepy_horror/creepy_creature_03.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 2.763
+    },
+    {
+      "file": "CRWDConv_Restaurant_LOOP_01.wav",
+      "original_name": "03_weather_ambience_etc/ambient_restaurant_lp.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 2,
+      "duration_s": 47.874
+    },
+    {
+      "file": "DOORGlas_GlassDoorClose_OS_01.wav",
+      "original_name": "07_doors/doors_glass_close_01.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 0.816
+    },
+    {
+      "file": "DOORGlas_GlassDoorOpen_OS_01.wav",
+      "original_name": "07_doors/doors_glass_open_01.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 0.774
+    },
+    {
+      "file": "DOORHdwr_FrontDoorKnob_OS_01.wav",
+      "original_name": "07_doors/doors_frontdoor_doorknob_01.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 0.835
+    },
+    {
+      "file": "DOORHdwr_FrontDoorLock_OS_01.wav",
+      "original_name": "07_doors/doors_frontdoor_lock_01.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 0.372
+    },
+    {
+      "file": "DOORHdwr_GlassDoorKnob_OS_01.wav",
+      "original_name": "07_doors/doors_glass_knob_01.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 0.601
+    },
+    {
+      "file": "DOORHdwr_GlassDoorLock_OS_01.wav",
+      "original_name": "07_doors/doors_glass_lock_01.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 0.456
+    },
+    {
+      "file": "DOORHdwr_OfficeDoorKnob_OS_01.wav",
+      "original_name": "07_doors/doors_office_doorknob_01.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 0.704
+    },
+    {
+      "file": "DOORHdwr_OfficeDoorLock_OS_01.wav",
+      "original_name": "07_doors/doors_office_lock_01.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 0.405
+    },
+    {
+      "file": "DOORHdwr_SlidingDoorLock_OS_01.wav",
+      "original_name": "07_doors/doors_sliding_lock_01.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 0.48
+    },
+    {
+      "file": "DOORKnck_OfficeDoorKnock_OS_01.wav",
+      "original_name": "07_doors/doors_office_knock_01.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 1.208
+    },
+    {
+      "file": "DOORMetl_GarageDoorClose_OS_01.wav",
+      "original_name": "07_doors/garage_door_close.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 10.036
+    },
+    {
+      "file": "DOORMetl_GarageDoorOpen_OS_01.wav",
+      "original_name": "07_doors/garage_door_open.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 10.927
+    },
+    {
+      "file": "DOORMetl_HatchClose_OS_01.wav",
+      "original_name": "10_interaction/interaction_hatch_close.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 2.275
+    },
+    {
+      "file": "DOORMetl_HatchOpen_OS_01.wav",
+      "original_name": "10_interaction/interaction_hatch_open.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 1.638
+    },
+    {
+      "file": "DOORSlid_SlidingDoorClose_OS_01.wav",
+      "original_name": "07_doors/doors_sliding_close_01.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 2.499
+    },
+    {
+      "file": "DOORSlid_SlidingDoorOpen_OS_01.wav",
+      "original_name": "07_doors/doors_sliding_open_01.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 1.845
+    },
+    {
+      "file": "DOORWood_FrontDoorClose_OS_01.wav",
+      "original_name": "07_doors/doors_frontdoor_close_01.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 0.548
+    },
+    {
+      "file": "DOORWood_FrontDoorOpen_OS_01.wav",
+      "original_name": "07_doors/doors_frontdoor_open_01.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 0.591
+    },
+    {
+      "file": "DOORWood_OfficeDoorClose_OS_01.wav",
+      "original_name": "07_doors/doors_office_close_01.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 0.713
+    },
+    {
+      "file": "DRWRWood_DrawerClose_OS_01.wav",
+      "original_name": "04_indoors_hums_machines_actions_etc/Indoor_drawer_close_01.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 1.708
+    },
+    {
+      "file": "DRWRWood_DrawerClose_OS_02.wav",
+      "original_name": "04_indoors_hums_machines_actions_etc/Indoor_drawer_close_02.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 1.389
+    },
+    {
+      "file": "DRWRWood_DrawerOpen_OS_01.wav",
+      "original_name": "04_indoors_hums_machines_actions_etc/Indoor_drawer_open_01.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 1.858
+    },
+    {
+      "file": "DRWRWood_DrawerOpen_OS_02.wav",
+      "original_name": "04_indoors_hums_machines_actions_etc/Indoor_drawer_open_02.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 1.061
+    },
+    {
+      "file": "DSGNDron_DroneCreepy_OS_01.wav",
+      "original_name": "01_creepy_horror/creepy_drone_01.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 2,
+      "duration_s": 45.056
+    },
+    {
+      "file": "DSGNDron_DroneCreepy_OS_02.wav",
+      "original_name": "01_creepy_horror/creepy_drone_02.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 2,
+      "duration_s": 58.838
+    },
+    {
+      "file": "DSGNImpt_ImpactCreepyReverb_OS_01.wav",
+      "original_name": "01_creepy_horror/creepy_impacts_reverb_01.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 4.288
+    },
+    {
+      "file": "DSGNImpt_ImpactCreepyReverb_OS_02.wav",
+      "original_name": "01_creepy_horror/creepy_impacts_reverb_02.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 3.645
+    },
+    {
+      "file": "DSGNImpt_ImpactCreepyReverb_OS_03.wav",
+      "original_name": "01_creepy_horror/creepy_impacts_reverb_03.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 3.824
+    },
+    {
+      "file": "FEETHmn_ShoeConcreteLand_OS_01.wav",
+      "original_name": "02_floors_footsteps_body_mvmt_impacts_actions_etc/footsteps_shoe_concrete_land_01.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 0.228
+    },
+    {
+      "file": "FEETHmn_ShoeConcreteLand_OS_02.wav",
+      "original_name": "02_floors_footsteps_body_mvmt_impacts_actions_etc/footsteps_shoe_concrete_land_02.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 0.221
+    },
+    {
+      "file": "FEETHmn_ShoeConcreteRun_OS_01.wav",
+      "original_name": "02_floors_footsteps_body_mvmt_impacts_actions_etc/footsteps_shoe_concrete_run_01.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 0.228
+    },
+    {
+      "file": "FEETHmn_ShoeConcreteRun_OS_02.wav",
+      "original_name": "02_floors_footsteps_body_mvmt_impacts_actions_etc/footsteps_shoe_concrete_run_02.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 0.183
+    },
+    {
+      "file": "FEETHmn_ShoeConcreteRun_OS_03.wav",
+      "original_name": "02_floors_footsteps_body_mvmt_impacts_actions_etc/footsteps_shoe_concrete_run_03.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 0.192
+    },
+    {
+      "file": "FEETHmn_ShoeConcreteRun_OS_04.wav",
+      "original_name": "02_floors_footsteps_body_mvmt_impacts_actions_etc/footsteps_shoe_concrete_run_04.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 0.155
+    },
+    {
+      "file": "FEETHmn_ShoeConcreteRun_OS_05.wav",
+      "original_name": "02_floors_footsteps_body_mvmt_impacts_actions_etc/footsteps_shoe_concrete_run_05.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 0.166
+    },
+    {
+      "file": "FEETHmn_ShoeConcreteWalk_OS_01.wav",
+      "original_name": "02_floors_footsteps_body_mvmt_impacts_actions_etc/footsteps_shoe_concrete_walk_01.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 0.166
+    },
+    {
+      "file": "FEETHmn_ShoeConcreteWalk_OS_02.wav",
+      "original_name": "02_floors_footsteps_body_mvmt_impacts_actions_etc/footsteps_shoe_concrete_walk_02.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 0.176
+    },
+    {
+      "file": "FEETHmn_ShoeConcreteWalk_OS_03.wav",
+      "original_name": "02_floors_footsteps_body_mvmt_impacts_actions_etc/footsteps_shoe_concrete_walk_03.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 0.459
+    },
+    {
+      "file": "FEETHmn_ShoeConcreteWalk_OS_04.wav",
+      "original_name": "02_floors_footsteps_body_mvmt_impacts_actions_etc/footsteps_shoe_concrete_walk_04.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 0.205
+    },
+    {
+      "file": "FEETHmn_ShoeConcreteWalk_OS_05.wav",
+      "original_name": "02_floors_footsteps_body_mvmt_impacts_actions_etc/footsteps_shoe_concrete_walk_05.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 0.15
+    },
+    {
+      "file": "FEETHmn_ShoeDirtLand_OS_01.wav",
+      "original_name": "02_floors_footsteps_body_mvmt_impacts_actions_etc/footsteps_shoe_dirt_land_01.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 1.205
+    },
+    {
+      "file": "FEETHmn_ShoeDirtLand_OS_02.wav",
+      "original_name": "02_floors_footsteps_body_mvmt_impacts_actions_etc/footsteps_shoe_dirt_land_02.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 1.189
+    },
+    {
+      "file": "FEETHmn_ShoeDirtRun_OS_01.wav",
+      "original_name": "02_floors_footsteps_body_mvmt_impacts_actions_etc/footsteps_shoe_dirt_run_01.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 0.352
+    },
+    {
+      "file": "FEETHmn_ShoeDirtRun_OS_02.wav",
+      "original_name": "02_floors_footsteps_body_mvmt_impacts_actions_etc/footsteps_shoe_dirt_run_02.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 0.341
+    },
+    {
+      "file": "FEETHmn_ShoeDirtRun_OS_03.wav",
+      "original_name": "02_floors_footsteps_body_mvmt_impacts_actions_etc/footsteps_shoe_dirt_run_03.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 0.357
+    },
+    {
+      "file": "FEETHmn_ShoeDirtRun_OS_04.wav",
+      "original_name": "02_floors_footsteps_body_mvmt_impacts_actions_etc/footsteps_shoe_dirt_run_04.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 0.311
+    },
+    {
+      "file": "FEETHmn_ShoeDirtRun_OS_05.wav",
+      "original_name": "02_floors_footsteps_body_mvmt_impacts_actions_etc/footsteps_shoe_dirt_run_05.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 0.307
+    },
+    {
+      "file": "FEETHmn_ShoeDirtWalk_OS_01.wav",
+      "original_name": "02_floors_footsteps_body_mvmt_impacts_actions_etc/footsteps_shoe_dirt_walk_01.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 0.435
+    },
+    {
+      "file": "FEETHmn_ShoeDirtWalk_OS_02.wav",
+      "original_name": "02_floors_footsteps_body_mvmt_impacts_actions_etc/footsteps_shoe_dirt_walk_02.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 0.52
+    },
+    {
+      "file": "FEETHmn_ShoeDirtWalk_OS_03.wav",
+      "original_name": "02_floors_footsteps_body_mvmt_impacts_actions_etc/footsteps_shoe_dirt_walk_03.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 0.483
+    },
+    {
+      "file": "FEETHmn_ShoeDirtWalk_OS_04.wav",
+      "original_name": "02_floors_footsteps_body_mvmt_impacts_actions_etc/footsteps_shoe_dirt_walk_04.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 0.483
+    },
+    {
+      "file": "FEETHmn_ShoeDirtWalk_OS_05.wav",
+      "original_name": "02_floors_footsteps_body_mvmt_impacts_actions_etc/footsteps_shoe_dirt_walk_05.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 0.469
+    },
+    {
+      "file": "FEETHmn_ShoeGrassLand_OS_01.wav",
+      "original_name": "02_floors_footsteps_body_mvmt_impacts_actions_etc/footsteps_shoe_grass_land_01.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 0.979
+    },
+    {
+      "file": "FEETHmn_ShoeGrassLand_OS_02.wav",
+      "original_name": "02_floors_footsteps_body_mvmt_impacts_actions_etc/footsteps_shoe_grass_land_02.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 0.688
+    },
+    {
+      "file": "FEETHmn_ShoeGrassRun_OS_01.wav",
+      "original_name": "02_floors_footsteps_body_mvmt_impacts_actions_etc/footsteps_shoe_grass_run_01.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 0.372
+    },
+    {
+      "file": "FEETHmn_ShoeGrassRun_OS_02.wav",
+      "original_name": "02_floors_footsteps_body_mvmt_impacts_actions_etc/footsteps_shoe_grass_run_02.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 0.375
+    },
+    {
+      "file": "FEETHmn_ShoeGrassRun_OS_03.wav",
+      "original_name": "02_floors_footsteps_body_mvmt_impacts_actions_etc/footsteps_shoe_grass_run_03.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 0.394
+    },
+    {
+      "file": "FEETHmn_ShoeGrassRun_OS_04.wav",
+      "original_name": "02_floors_footsteps_body_mvmt_impacts_actions_etc/footsteps_shoe_grass_run_04.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 0.202
+    },
+    {
+      "file": "FEETHmn_ShoeGrassRun_OS_05.wav",
+      "original_name": "02_floors_footsteps_body_mvmt_impacts_actions_etc/footsteps_shoe_grass_run_05.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 0.388
+    },
+    {
+      "file": "FEETHmn_ShoeGrassWalk_OS_01.wav",
+      "original_name": "02_floors_footsteps_body_mvmt_impacts_actions_etc/footsteps_shoe_grass_walk_01.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 0.554
+    },
+    {
+      "file": "FEETHmn_ShoeGrassWalk_OS_02.wav",
+      "original_name": "02_floors_footsteps_body_mvmt_impacts_actions_etc/footsteps_shoe_grass_walk_02.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 0.486
+    },
+    {
+      "file": "FEETHmn_ShoeGrassWalk_OS_03.wav",
+      "original_name": "02_floors_footsteps_body_mvmt_impacts_actions_etc/footsteps_shoe_grass_walk_03.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 0.568
+    },
+    {
+      "file": "FEETHmn_ShoeGrassWalk_OS_04.wav",
+      "original_name": "02_floors_footsteps_body_mvmt_impacts_actions_etc/footsteps_shoe_grass_walk_04.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 0.646
+    },
+    {
+      "file": "FEETHmn_ShoeGrassWalk_OS_05.wav",
+      "original_name": "02_floors_footsteps_body_mvmt_impacts_actions_etc/footsteps_shoe_grass_walk_05.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 0.744
+    },
+    {
+      "file": "FEETHmn_ShoeMetalLand_OS_01.wav",
+      "original_name": "02_floors_footsteps_body_mvmt_impacts_actions_etc/footsteps_shoe_metal_land_01.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 0.34
+    },
+    {
+      "file": "FEETHmn_ShoeMetalLand_OS_02.wav",
+      "original_name": "02_floors_footsteps_body_mvmt_impacts_actions_etc/footsteps_shoe_metal_land_02.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 0.343
+    },
+    {
+      "file": "FEETHmn_ShoeMetalRun_OS_01.wav",
+      "original_name": "02_floors_footsteps_body_mvmt_impacts_actions_etc/footsteps_shoe_metal_run_01.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 0.278
+    },
+    {
+      "file": "FEETHmn_ShoeMetalRun_OS_02.wav",
+      "original_name": "02_floors_footsteps_body_mvmt_impacts_actions_etc/footsteps_shoe_metal_run_02.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 0.249
+    },
+    {
+      "file": "FEETHmn_ShoeMetalRun_OS_03.wav",
+      "original_name": "02_floors_footsteps_body_mvmt_impacts_actions_etc/footsteps_shoe_metal_run_03.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 0.28
+    },
+    {
+      "file": "FEETHmn_ShoeMetalRun_OS_04.wav",
+      "original_name": "02_floors_footsteps_body_mvmt_impacts_actions_etc/footsteps_shoe_metal_run_04.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 0.258
+    },
+    {
+      "file": "FEETHmn_ShoeMetalRun_OS_05.wav",
+      "original_name": "02_floors_footsteps_body_mvmt_impacts_actions_etc/footsteps_shoe_metal_run_05.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 0.243
+    },
+    {
+      "file": "FEETHmn_ShoeMetalWalk_OS_01.wav",
+      "original_name": "02_floors_footsteps_body_mvmt_impacts_actions_etc/footsteps_shoe_metal_walk_01.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 0.675
+    },
+    {
+      "file": "FEETHmn_ShoeMetalWalk_OS_02.wav",
+      "original_name": "02_floors_footsteps_body_mvmt_impacts_actions_etc/footsteps_shoe_metal_walk_02.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 0.55
+    },
+    {
+      "file": "FEETHmn_ShoeMetalWalk_OS_03.wav",
+      "original_name": "02_floors_footsteps_body_mvmt_impacts_actions_etc/footsteps_shoe_metal_walk_03.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 0.375
+    },
+    {
+      "file": "FEETHmn_ShoeMetalWalk_OS_04.wav",
+      "original_name": "02_floors_footsteps_body_mvmt_impacts_actions_etc/footsteps_shoe_metal_walk_04.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 0.367
+    },
+    {
+      "file": "FEETHmn_ShoeMetalWalk_OS_05.wav",
+      "original_name": "02_floors_footsteps_body_mvmt_impacts_actions_etc/footsteps_shoe_metal_walk_05.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 0.311
+    },
+    {
+      "file": "FEETHmn_ShoeSnowLand_OS_01.wav",
+      "original_name": "02_floors_footsteps_body_mvmt_impacts_actions_etc/footsteps_shoe_snow_land_01.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 0.446
+    },
+    {
+      "file": "FEETHmn_ShoeSnowLand_OS_02.wav",
+      "original_name": "02_floors_footsteps_body_mvmt_impacts_actions_etc/footsteps_shoe_snow_land_02.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 0.738
+    },
+    {
+      "file": "FEETHmn_ShoeSnowRun_OS_01.wav",
+      "original_name": "02_floors_footsteps_body_mvmt_impacts_actions_etc/footsteps_shoe_snow_run_01.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 0.291
+    },
+    {
+      "file": "FEETHmn_ShoeSnowRun_OS_02.wav",
+      "original_name": "02_floors_footsteps_body_mvmt_impacts_actions_etc/footsteps_shoe_snow_run_02.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 0.337
+    },
+    {
+      "file": "FEETHmn_ShoeSnowRun_OS_03.wav",
+      "original_name": "02_floors_footsteps_body_mvmt_impacts_actions_etc/footsteps_shoe_snow_run_03.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 0.338
+    },
+    {
+      "file": "FEETHmn_ShoeSnowRun_OS_04.wav",
+      "original_name": "02_floors_footsteps_body_mvmt_impacts_actions_etc/footsteps_shoe_snow_run_04.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 0.324
+    },
+    {
+      "file": "FEETHmn_ShoeSnowRun_OS_05.wav",
+      "original_name": "02_floors_footsteps_body_mvmt_impacts_actions_etc/footsteps_shoe_snow_run_05.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 0.314
+    },
+    {
+      "file": "FEETHmn_ShoeSnowWalk_OS_01.wav",
+      "original_name": "02_floors_footsteps_body_mvmt_impacts_actions_etc/footsteps_shoe_snow_walk_01.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 0.913
+    },
+    {
+      "file": "FEETHmn_ShoeSnowWalk_OS_02.wav",
+      "original_name": "02_floors_footsteps_body_mvmt_impacts_actions_etc/footsteps_shoe_snow_walk_02.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 1.277
+    },
+    {
+      "file": "FEETHmn_ShoeSnowWalk_OS_03.wav",
+      "original_name": "02_floors_footsteps_body_mvmt_impacts_actions_etc/footsteps_shoe_snow_walk_03.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 0.811
+    },
+    {
+      "file": "FEETHmn_ShoeSnowWalk_OS_04.wav",
+      "original_name": "02_floors_footsteps_body_mvmt_impacts_actions_etc/footsteps_shoe_snow_walk_04.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 0.793
+    },
+    {
+      "file": "FEETHmn_ShoeSnowWalk_OS_05.wav",
+      "original_name": "02_floors_footsteps_body_mvmt_impacts_actions_etc/footsteps_shoe_snow_walk_05.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 0.832
+    },
+    {
+      "file": "FEETHmn_ShoeWoodLand_OS_01.wav",
+      "original_name": "02_floors_footsteps_body_mvmt_impacts_actions_etc/footsteps_shoe_wood_land_01.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 0.29
+    },
+    {
+      "file": "FEETHmn_ShoeWoodLand_OS_02.wav",
+      "original_name": "02_floors_footsteps_body_mvmt_impacts_actions_etc/footsteps_shoe_wood_land_02.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 0.444
+    },
+    {
+      "file": "FEETHmn_ShoeWoodRun_OS_01.wav",
+      "original_name": "02_floors_footsteps_body_mvmt_impacts_actions_etc/footsteps_shoe_wood_run_01.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 0.146
+    },
+    {
+      "file": "FEETHmn_ShoeWoodRun_OS_02.wav",
+      "original_name": "02_floors_footsteps_body_mvmt_impacts_actions_etc/footsteps_shoe_wood_run_02.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 0.129
+    },
+    {
+      "file": "FEETHmn_ShoeWoodRun_OS_03.wav",
+      "original_name": "02_floors_footsteps_body_mvmt_impacts_actions_etc/footsteps_shoe_wood_run_03.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 0.136
+    },
+    {
+      "file": "FEETHmn_ShoeWoodRun_OS_04.wav",
+      "original_name": "02_floors_footsteps_body_mvmt_impacts_actions_etc/footsteps_shoe_wood_run_04.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 0.132
+    },
+    {
+      "file": "FEETHmn_ShoeWoodRun_OS_05.wav",
+      "original_name": "02_floors_footsteps_body_mvmt_impacts_actions_etc/footsteps_shoe_wood_run_05.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 0.098
+    },
+    {
+      "file": "FEETHmn_ShoeWoodWalk_OS_01.wav",
+      "original_name": "02_floors_footsteps_body_mvmt_impacts_actions_etc/footsteps_shoe_wood_walk_01.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 0.243
+    },
+    {
+      "file": "FEETHmn_ShoeWoodWalk_OS_02.wav",
+      "original_name": "02_floors_footsteps_body_mvmt_impacts_actions_etc/footsteps_shoe_wood_walk_02.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 0.238
+    },
+    {
+      "file": "FEETHmn_ShoeWoodWalk_OS_03.wav",
+      "original_name": "02_floors_footsteps_body_mvmt_impacts_actions_etc/footsteps_shoe_wood_walk_03.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 0.247
+    },
+    {
+      "file": "FEETHmn_ShoeWoodWalk_OS_04.wav",
+      "original_name": "02_floors_footsteps_body_mvmt_impacts_actions_etc/footsteps_shoe_wood_walk_04.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 0.231
+    },
+    {
+      "file": "FEETHmn_ShoeWoodWalk_OS_05.wav",
+      "original_name": "02_floors_footsteps_body_mvmt_impacts_actions_etc/footsteps_shoe_wood_walk_05.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 0.251
+    },
+    {
+      "file": "FGHTImpt_Kick_OS_01.wav",
+      "original_name": "02_floors_footsteps_body_mvmt_impacts_actions_etc/impact_kick_01.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 0.773
+    },
+    {
+      "file": "FGHTImpt_Kick_OS_02.wav",
+      "original_name": "02_floors_footsteps_body_mvmt_impacts_actions_etc/impact_kick_02.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 0.859
+    },
+    {
+      "file": "FGHTImpt_Kick_OS_03.wav",
+      "original_name": "02_floors_footsteps_body_mvmt_impacts_actions_etc/impact_kick_03.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 0.794
+    },
+    {
+      "file": "FGHTImpt_Kick_OS_04.wav",
+      "original_name": "02_floors_footsteps_body_mvmt_impacts_actions_etc/impact_kick_04.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 0.802
+    },
+    {
+      "file": "FGHTImpt_Kick_OS_05.wav",
+      "original_name": "02_floors_footsteps_body_mvmt_impacts_actions_etc/impact_kick_05.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 0.708
+    },
+    {
+      "file": "FGHTImpt_PunchHarder_OS_01.wav",
+      "original_name": "02_floors_footsteps_body_mvmt_impacts_actions_etc/impact_punch_harder_01.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 1.05
+    },
+    {
+      "file": "FGHTImpt_PunchHarder_OS_02.wav",
+      "original_name": "02_floors_footsteps_body_mvmt_impacts_actions_etc/impact_punch_harder_02.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 0.645
+    },
+    {
+      "file": "FGHTImpt_PunchHarder_OS_03.wav",
+      "original_name": "02_floors_footsteps_body_mvmt_impacts_actions_etc/impact_punch_harder_03.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 0.7
+    },
+    {
+      "file": "FGHTImpt_PunchHarder_OS_04.wav",
+      "original_name": "02_floors_footsteps_body_mvmt_impacts_actions_etc/impact_punch_harder_04.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 1.03
+    },
+    {
+      "file": "FGHTImpt_PunchHardest_OS_01.wav",
+      "original_name": "02_floors_footsteps_body_mvmt_impacts_actions_etc/impact_punch_hardest_01.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 1.014
+    },
+    {
+      "file": "FGHTImpt_PunchRegular_OS_01.wav",
+      "original_name": "02_floors_footsteps_body_mvmt_impacts_actions_etc/impact_punch_regular_01.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 1.024
+    },
+    {
+      "file": "FGHTImpt_PunchRegular_OS_02.wav",
+      "original_name": "02_floors_footsteps_body_mvmt_impacts_actions_etc/impact_punch_regular_02.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 0.712
+    },
+    {
+      "file": "FGHTImpt_PunchRegular_OS_03.wav",
+      "original_name": "02_floors_footsteps_body_mvmt_impacts_actions_etc/impact_punch_regular_03.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 0.627
+    },
+    {
+      "file": "FGHTImpt_PunchRegular_OS_04.wav",
+      "original_name": "02_floors_footsteps_body_mvmt_impacts_actions_etc/impact_punch_regular_04.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 0.682
+    },
+    {
+      "file": "FGHTImpt_PunchRegular_OS_05.wav",
+      "original_name": "02_floors_footsteps_body_mvmt_impacts_actions_etc/impact_punch_regular_05.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 0.627
+    },
+    {
+      "file": "FGHTImpt_PunchRegular_OS_06.wav",
+      "original_name": "02_floors_footsteps_body_mvmt_impacts_actions_etc/impact_punch_regular_06.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 0.71
+    },
+    {
+      "file": "FOODTware_SpoonDrop_OS_01.wav",
+      "original_name": "02_floors_footsteps_body_mvmt_impacts_actions_etc/action_drop spoon.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 0.669
+    },
+    {
+      "file": "GLASBrk_GlassBottleBreak_OS_01.wav",
+      "original_name": "02_floors_footsteps_body_mvmt_impacts_actions_etc/impact_glass bottle_break.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 1.103
+    },
+    {
+      "file": "GLASBrk_WindowPaneSmallBreak_OS_01.wav",
+      "original_name": "02_floors_footsteps_body_mvmt_impacts_actions_etc/action_small_window_pane_break.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 0.823
+    },
+    {
+      "file": "GLASImpt_GlassBottleDrop_OS_01.wav",
+      "original_name": "02_floors_footsteps_body_mvmt_impacts_actions_etc/action_glass_bottle_drop.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 1.414
+    },
+    {
+      "file": "GOREBone_BonesBreaking_OS_01.wav",
+      "original_name": "01_creepy_horror/creepy_bones_breaking_01.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 1.051
+    },
+    {
+      "file": "GOREBone_BonesBreaking_OS_02.wav",
+      "original_name": "01_creepy_horror/creepy_bones_breaking_02.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 1.653
+    },
+    {
+      "file": "GOREBone_BonesBreaking_OS_03.wav",
+      "original_name": "01_creepy_horror/creepy_bones_breaking_03.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 1.403
+    },
+    {
+      "file": "GOREBone_SkullCracking_OS_01.wav",
+      "original_name": "01_creepy_horror/creepy_skull_cracking_01.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 1.531
+    },
+    {
+      "file": "GOREBone_SkullCracking_OS_02.wav",
+      "original_name": "01_creepy_horror/creepy_skull_cracking_02.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 1.913
+    },
+    {
+      "file": "GORESqsh_BloodSquishSlimy_OS_01.wav",
+      "original_name": "01_creepy_horror/creepy_blood_squish_slimy_01.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 2.864
+    },
+    {
+      "file": "GORESqsh_BloodSquishSlimy_OS_02.wav",
+      "original_name": "01_creepy_horror/creepy_blood_squish_slimy_02.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 4.395
+    },
+    {
+      "file": "GORESqsh_BloodSquishSlimy_OS_03.wav",
+      "original_name": "01_creepy_horror/creepy_blood_squish_slimy_03.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 3.051
+    },
+    {
+      "file": "GORESqsh_BloodSquishSlimy_OS_04.wav",
+      "original_name": "01_creepy_horror/creepy_blood_squish_slimy_04.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 6.304
+    },
+    {
+      "file": "HMNBrth_FemaleBreathing_OS_01.wav",
+      "original_name": "06_vocal/voice_female_breathing_01.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 11.715
+    },
+    {
+      "file": "HMNBrth_MaleBreathing_OS_01.wav",
+      "original_name": "06_vocal/voice_male_breathing_01.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 10.856
+    },
+    {
+      "file": "HMNBurp_Burp_OS_01.wav",
+      "original_name": "06_vocal/voice_burp_01.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 0.307
+    },
+    {
+      "file": "HMNBurp_Burp_OS_02.wav",
+      "original_name": "06_vocal/voice_burp_02.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 0.596
+    },
+    {
+      "file": "HMNBurp_Burp_OS_03.wav",
+      "original_name": "06_vocal/voice_burp_03.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 0.811
+    },
+    {
+      "file": "LASRGun_LaserShootUI_OS_01.wav",
+      "original_name": "05_user_interface/ui_laser_shoot_01.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 0.974
+    },
+    {
+      "file": "LASRGun_LaserShootUI_OS_02.wav",
+      "original_name": "05_user_interface/ui_laser_shoot_02.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 0.829
+    },
+    {
+      "file": "MACHFan_FanOff_OS_01.wav",
+      "original_name": "04_indoors_hums_machines_actions_etc/Indoor_fan_off.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 7.657
+    },
+    {
+      "file": "MACHFan_FanStart_OS_01.wav",
+      "original_name": "04_indoors_hums_machines_actions_etc/Indoor_fan_start.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 8.939
+    },
+    {
+      "file": "MACHFan_Fan_LOOP_01.wav",
+      "original_name": "04_indoors_hums_machines_actions_etc/Indoor_fan_loop.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 15.0
+    },
+    {
+      "file": "MACHHvac_HVACOff_OS_01.wav",
+      "original_name": "04_indoors_hums_machines_actions_etc/indoor_HVAC_off.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 4.245
+    },
+    {
+      "file": "MACHHvac_HVACOn_OS_01.wav",
+      "original_name": "04_indoors_hums_machines_actions_etc/indoor_HVAC_on.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 6.386
+    },
+    {
+      "file": "MACHHvac_HVAC_LOOP_01.wav",
+      "original_name": "04_indoors_hums_machines_actions_etc/indoor_HVAC_lp.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 18.816
+    },
+    {
+      "file": "MACHInd_Hydraulic_OS_01.wav",
+      "original_name": "04_indoors_hums_machines_actions_etc/indoor_hydraulic_01.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 4.603
+    },
+    {
+      "file": "MACHMisc_MachineGeneric_LOOP_01.wav",
+      "original_name": "04_indoors_hums_machines_actions_etc/indoor_machine_generic_01_lp.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 46.061
+    },
+    {
+      "file": "MACHMisc_MachineGeneric_LOOP_02.wav",
+      "original_name": "04_indoors_hums_machines_actions_etc/indoor_machine_generic_02_lp.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 39.698
+    },
+    {
+      "file": "MACHMisc_MachineHum_LOOP_01.wav",
+      "original_name": "04_indoors_hums_machines_actions_etc/indoor_ambient_machine_hum_lp_01.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 2,
+      "duration_s": 30.0
+    },
+    {
+      "file": "MACHMisc_MachineHum_LOOP_02.wav",
+      "original_name": "04_indoors_hums_machines_actions_etc/indoor_ambient_machine_hum_lp_02.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 2,
+      "duration_s": 30.0
+    },
+    {
+      "file": "MAGSpel_MagicSpell_OS_01.wav",
+      "original_name": "10_interaction/interaction_magic_spell_01.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 2.369
+    },
+    {
+      "file": "MAGSpel_MagicSpell_OS_02.wav",
+      "original_name": "10_interaction/interaction_magic_spell_02.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 3.345
+    },
+    {
+      "file": "MECHLock_DoorLockKey_OS_01.wav",
+      "original_name": "07_doors/door_lock_key_01.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 1.408
+    },
+    {
+      "file": "MECHLock_DoorLockKey_OS_02.wav",
+      "original_name": "07_doors/door_lock_key_02.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 1.397
+    },
+    {
+      "file": "MECHLock_DoorLockKey_OS_03.wav",
+      "original_name": "07_doors/door_lock_key_03.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 2.016
+    },
+    {
+      "file": "MECHLock_DoorUnlockKey_OS_01.wav",
+      "original_name": "07_doors/door_unlock_key_01.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 1.416
+    },
+    {
+      "file": "MECHLock_DoorUnlockKey_OS_02.wav",
+      "original_name": "07_doors/door_unlock_key_02.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 2.107
+    },
+    {
+      "file": "MECHLock_DoorUnlockKey_OS_03.wav",
+      "original_name": "07_doors/door_unlock_key_03.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 2.347
+    },
+    {
+      "file": "MECHLvr_LeverPull_OS_01.wav",
+      "original_name": "04_indoors_hums_machines_actions_etc/indoor_lever_pull_01.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 1.531
+    },
+    {
+      "file": "MECHLvr_LeverPull_OS_02.wav",
+      "original_name": "04_indoors_hums_machines_actions_etc/indoor_lever_pull_02.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 1.142
+    },
+    {
+      "file": "MECHLvr_LeverPull_OS_03.wav",
+      "original_name": "04_indoors_hums_machines_actions_etc/indoor_lever_pull_03.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 0.893
+    },
+    {
+      "file": "MECHLvr_LeverPull_OS_04.wav",
+      "original_name": "04_indoors_hums_machines_actions_etc/indoor_lever_pull_04.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 0.897
+    },
+    {
+      "file": "MECHLvr_LeverPull_OS_05.wav",
+      "original_name": "04_indoors_hums_machines_actions_etc/indoor_lever_pull_05.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 0.806
+    },
+    {
+      "file": "MECHLvr_LeverPull_OS_06.wav",
+      "original_name": "04_indoors_hums_machines_actions_etc/indoor_lever_pull_06.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 0.624
+    },
+    {
+      "file": "MECHSwtch_SwitchSmallOff_OS_01.wav",
+      "original_name": "04_indoors_hums_machines_actions_etc/Indoor_switch_small_off_01.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 0.875
+    },
+    {
+      "file": "MECHSwtch_SwitchSmallOff_OS_02.wav",
+      "original_name": "04_indoors_hums_machines_actions_etc/indoor_switch_small_off_02.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 0.236
+    },
+    {
+      "file": "MECHSwtch_SwitchSmallOn_OS_01.wav",
+      "original_name": "04_indoors_hums_machines_actions_etc/Indoor_switch_small_on_01.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 0.448
+    },
+    {
+      "file": "MECHSwtch_SwitchSmallOn_OS_02.wav",
+      "original_name": "04_indoors_hums_machines_actions_etc/indoor_switch_small_on_02.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 0.356
+    },
+    {
+      "file": "METLFric_ScratchCreepyReverb_OS_01.wav",
+      "original_name": "01_creepy_horror/creepy_scratch_reverb_01.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 4.021
+    },
+    {
+      "file": "METLFric_ScratchCreepyReverb_OS_02.wav",
+      "original_name": "01_creepy_horror/creepy_scratch_reverb_02.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 3.118
+    },
+    {
+      "file": "METLFric_ScratchCreepy_OS_01.wav",
+      "original_name": "01_creepy_horror/creepy_scratch_01.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 2.471
+    },
+    {
+      "file": "METLFric_ScratchCreepy_OS_02.wav",
+      "original_name": "01_creepy_horror/creepy_scratch_02.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 2.104
+    },
+    {
+      "file": "METLHndl_ElectricBoxOpen_OS_01.wav",
+      "original_name": "10_interaction/interaction_electric_box_open.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 1.163
+    },
+    {
+      "file": "METLImpt_BucketDrop_OS_01.wav",
+      "original_name": "02_floors_footsteps_body_mvmt_impacts_actions_etc/action_drop_bucket_01.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 0.85
+    },
+    {
+      "file": "METLImpt_CanDrop_OS_01.wav",
+      "original_name": "02_floors_footsteps_body_mvmt_impacts_actions_etc/action_can_drop .wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 1.07
+    },
+    {
+      "file": "METLImpt_HammerAnvilAmbient_OS_01.wav",
+      "original_name": "03_weather_ambience_etc/ambient_hammer_hit_anvil.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 15.186
+    },
+    {
+      "file": "METLImpt_HammerAnvil_OS_01.wav",
+      "original_name": "10_interaction/interaction_hammer_hit_anvil.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 1.308
+    },
+    {
+      "file": "METLImpt_MetalHitSurface_OS_01.wav",
+      "original_name": "02_floors_footsteps_body_mvmt_impacts_actions_etc/impact_metal_hit_surface_01.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 1.133
+    },
+    {
+      "file": "METLImpt_MetalHitSurface_OS_02.wav",
+      "original_name": "02_floors_footsteps_body_mvmt_impacts_actions_etc/impact_metal_hit_surface_02.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 1.819
+    },
+    {
+      "file": "METLImpt_MetalHitSurface_OS_03.wav",
+      "original_name": "02_floors_footsteps_body_mvmt_impacts_actions_etc/impact_metal_hit_surface_03.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 1.402
+    },
+    {
+      "file": "METLImpt_MetalHitSurface_OS_04.wav",
+      "original_name": "02_floors_footsteps_body_mvmt_impacts_actions_etc/impact_metal_hit_surface_04.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 1.679
+    },
+    {
+      "file": "METLImpt_MetalHitSurface_OS_05.wav",
+      "original_name": "02_floors_footsteps_body_mvmt_impacts_actions_etc/impact_metal_hit_surface_05.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 1.055
+    },
+    {
+      "file": "METLImpt_MetalObjDrop_OS_01.wav",
+      "original_name": "02_floors_footsteps_body_mvmt_impacts_actions_etc/action_drop_metal_obj_01.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 0.727
+    },
+    {
+      "file": "METLImpt_MetalObjDrop_OS_02.wav",
+      "original_name": "02_floors_footsteps_body_mvmt_impacts_actions_etc/action_drop_metal_obj_02.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 0.951
+    },
+    {
+      "file": "METLImpt_MetalObjDrop_OS_03.wav",
+      "original_name": "02_floors_footsteps_body_mvmt_impacts_actions_etc/action_drop_metal_obj_03.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 1.272
+    },
+    {
+      "file": "METLImpt_MetalObjDrop_OS_04.wav",
+      "original_name": "02_floors_footsteps_body_mvmt_impacts_actions_etc/action_drop_metal_obj_04.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 1.822
+    },
+    {
+      "file": "MOTRSrvo_Servo_OS_01.wav",
+      "original_name": "04_indoors_hums_machines_actions_etc/indoor_servo_01.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 4.075
+    },
+    {
+      "file": "MOTRSrvo_Servo_OS_02.wav",
+      "original_name": "04_indoors_hums_machines_actions_etc/indoor_servo_02.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 7.599
+    },
+    {
+      "file": "MUSCChim_WindChimes_LOOP_01.wav",
+      "original_name": "03_weather_ambience_etc/ambient_wind_chimes_lp_01.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 31.561
+    },
+    {
+      "file": "MUSCChim_WindChimes_LOOP_02.wav",
+      "original_name": "03_weather_ambience_etc/ambient_wind_chimes_lp_02.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 30.72
+    },
+    {
+      "file": "MUSCKeyd_PipeOrganCreepy_OS_01.wav",
+      "original_name": "01_creepy_horror/creepy_pipe_organ_01.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 2,
+      "duration_s": 23.693
+    },
+    {
+      "file": "MUSCStngr_AcousticGuitarNegative_OS_01.wav",
+      "original_name": "08_stings/sting_acoustic_guit_neg_01.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 2,
+      "duration_s": 4.0
+    },
+    {
+      "file": "MUSCStngr_AcousticGuitarPositive_OS_01.wav",
+      "original_name": "08_stings/sting_acoustic_guit_pos_01.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 2,
+      "duration_s": 3.586
+    },
+    {
+      "file": "MUSCStngr_AcousticGuitarPositive_OS_02.wav",
+      "original_name": "08_stings/sting_acoustic_guit_pos_02.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 2,
+      "duration_s": 3.069
+    },
+    {
+      "file": "MUSCStngr_BanjoHumorous_OS_01.wav",
+      "original_name": "08_stings/sting_banjo_humorous_01.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 2,
+      "duration_s": 3.31
+    },
+    {
+      "file": "MUSCStngr_BanjoHumorous_OS_02.wav",
+      "original_name": "08_stings/sting_banjo_humorous_02.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 2,
+      "duration_s": 3.138
+    },
+    {
+      "file": "MUSCStngr_ElectricGuitarNegative_OS_01.wav",
+      "original_name": "08_stings/sting_electric_guit_neg_01.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 2,
+      "duration_s": 2.483
+    },
+    {
+      "file": "MUSCStngr_ElectricGuitarPositive_OS_01.wav",
+      "original_name": "08_stings/sting_electric_guit_pos_01.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 2,
+      "duration_s": 2.483
+    },
+    {
+      "file": "MUSCStngr_ElectricGuitarPositive_OS_02.wav",
+      "original_name": "08_stings/sting_electric_guit_pos_02.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 2,
+      "duration_s": 2.828
+    },
+    {
+      "file": "MUSCStngr_LevelUpMallet_OS_01.wav",
+      "original_name": "08_stings/sting_xp_level_up_mallet.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 2,
+      "duration_s": 2.989
+    },
+    {
+      "file": "MUSCStngr_LevelUpOrchestral_OS_01.wav",
+      "original_name": "08_stings/sting_xp_level_up_orch_01.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 2,
+      "duration_s": 1.999
+    },
+    {
+      "file": "MUSCStngr_LevelUpOrchestral_OS_02.wav",
+      "original_name": "08_stings/sting_xp_level_up_orch_02.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 2,
+      "duration_s": 2.917
+    },
+    {
+      "file": "MUSCStngr_LossElectronic_OS_01.wav",
+      "original_name": "08_stings/sting_loss_electric.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 2,
+      "duration_s": 3.246
+    },
+    {
+      "file": "MUSCStngr_LossMallet_OS_01.wav",
+      "original_name": "08_stings/sting_loss_mallet.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 2,
+      "duration_s": 3.98
+    },
+    {
+      "file": "MUSCStngr_LossOrchestral_OS_01.wav",
+      "original_name": "08_stings/sting_loss_orch_01.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 2,
+      "duration_s": 2.956
+    },
+    {
+      "file": "MUSCStngr_LossOrchestral_OS_02.wav",
+      "original_name": "08_stings/sting_loss_orch_02.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 2,
+      "duration_s": 3.947
+    },
+    {
+      "file": "MUSCStngr_LossOrchestral_OS_03.wav",
+      "original_name": "08_stings/sting_loss_orch_03.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 2,
+      "duration_s": 5.905
+    },
+    {
+      "file": "MUSCStngr_LossPiano_OS_01.wav",
+      "original_name": "08_stings/sting_loss_piano.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 2,
+      "duration_s": 3.998
+    },
+    {
+      "file": "MUSCStngr_MarchingSnare_OS_01.wav",
+      "original_name": "08_stings/sting_marching_snare_01.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 2,
+      "duration_s": 4.138
+    },
+    {
+      "file": "MUSCStngr_SnareCrash_OS_01.wav",
+      "original_name": "08_stings/sting_snare_and_crash_cym_01.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 2,
+      "duration_s": 2.0
+    },
+    {
+      "file": "MUSCStngr_VictoryElectronic_OS_01.wav",
+      "original_name": "08_stings/sting_victory_electronic.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 2,
+      "duration_s": 2.897
+    },
+    {
+      "file": "MUSCStngr_VictoryMallet_OS_01.wav",
+      "original_name": "08_stings/sting_victory_mallet.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 2,
+      "duration_s": 3.75
+    },
+    {
+      "file": "MUSCStngr_VictoryOrchestral_OS_01.wav",
+      "original_name": "08_stings/sting_victory_orch_01.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 2,
+      "duration_s": 2.893
+    },
+    {
+      "file": "MUSCStngr_VictoryOrchestral_OS_02.wav",
+      "original_name": "08_stings/sting_victory_orch_02.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 2,
+      "duration_s": 3.908
+    },
+    {
+      "file": "MUSCStngr_VictoryOrchestral_OS_03.wav",
+      "original_name": "08_stings/sting_victory_orch_03.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 2,
+      "duration_s": 5.906
+    },
+    {
+      "file": "MUSCStngr_VictoryPiano_OS_01.wav",
+      "original_name": "08_stings/sting_victory_piano.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 2,
+      "duration_s": 2.999
+    },
+    {
+      "file": "MUSCStr_StringsCreepy_OS_01.wav",
+      "original_name": "01_creepy_horror/creepy_strings_01.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 5.232
+    },
+    {
+      "file": "MUSCStr_StringsCreepy_OS_02.wav",
+      "original_name": "01_creepy_horror/creepy_strings_02.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 5.255
+    },
+    {
+      "file": "OBJBag_CanvasCaseDrop_OS_01.wav",
+      "original_name": "02_floors_footsteps_body_mvmt_impacts_actions_etc/action_drop_canvas_case_01.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 0.623
+    },
+    {
+      "file": "OBJBag_KnapsackLeatherClose_OS_01.wav",
+      "original_name": "10_interaction/interaction_knapsack_leather_close.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 0.87
+    },
+    {
+      "file": "OBJBag_KnapsackLeatherOpen_OS_01.wav",
+      "original_name": "10_interaction/interaction_knapsack_leather_open.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 1.489
+    },
+    {
+      "file": "OBJBag_KnapsackNylonClose_OS_01.wav",
+      "original_name": "10_interaction/interaction_knapsack_nylon_close.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 1.31
+    },
+    {
+      "file": "OBJBag_KnapsackNylonOpen_OS_01.wav",
+      "original_name": "10_interaction/interaction_knapsack_nylon_open.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 1.269
+    },
+    {
+      "file": "OBJBag_ToolBagDrop_OS_01.wav",
+      "original_name": "02_floors_footsteps_body_mvmt_impacts_actions_etc/action_tool_bag_drop.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 1.067
+    },
+    {
+      "file": "OBJBook_BookClose_OS_01.wav",
+      "original_name": "10_interaction/interaction_book_close.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 0.532
+    },
+    {
+      "file": "OBJBook_BookOpen_OS_01.wav",
+      "original_name": "10_interaction/interaction_book_open_01.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 1.075
+    },
+    {
+      "file": "OBJBook_BookOpen_OS_02.wav",
+      "original_name": "10_interaction/interaction_book_open_02.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 1.655
+    },
+    {
+      "file": "OBJCoin_CoinDrop_OS_01.wav",
+      "original_name": "02_floors_footsteps_body_mvmt_impacts_actions_etc/action_drop_coin_01.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 0.821
+    },
+    {
+      "file": "OBJCoin_CoinsUI_LOOP_01.wav",
+      "original_name": "05_user_interface/ui_coins_lp.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 4.523
+    },
+    {
+      "file": "OBJKey_KeyDrop_OS_01.wav",
+      "original_name": "02_floors_footsteps_body_mvmt_impacts_actions_etc/action_drop_key_01.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 0.924
+    },
+    {
+      "file": "OBJKey_KeyDrop_OS_02.wav",
+      "original_name": "02_floors_footsteps_body_mvmt_impacts_actions_etc/action_drop_key_02.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 1.094
+    },
+    {
+      "file": "OBJLug_CaseClose_OS_01.wav",
+      "original_name": "10_interaction/interaction_case_close.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 0.529
+    },
+    {
+      "file": "OBJLug_CaseOpen_OS_01.wav",
+      "original_name": "10_interaction/interaction_case_open.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 0.409
+    },
+    {
+      "file": "PAPRHndl_BookPageTurns_OS_01.wav",
+      "original_name": "10_interaction/interaction_book_page_turns.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 3.968
+    },
+    {
+      "file": "PAPRHndl_PaperCrumple_OS_01.wav",
+      "original_name": "02_floors_footsteps_body_mvmt_impacts_actions_etc/action_crumple_paper.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 3.143
+    },
+    {
+      "file": "PAPRImpt_PaperBallDrop_OS_01.wav",
+      "original_name": "02_floors_footsteps_body_mvmt_impacts_actions_etc/action_drop_paper_ball.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 1.2
+    },
+    {
+      "file": "PAPRRip_PaperTear_OS_01.wav",
+      "original_name": "02_floors_footsteps_body_mvmt_impacts_actions_etc/action_tear_paper.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 0.747
+    },
+    {
+      "file": "PLASImpt_PlasticBottleDrop_OS_01.wav",
+      "original_name": "02_floors_footsteps_body_mvmt_impacts_actions_etc/action_plastic_bottle_drop.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 1.201
+    },
+    {
+      "file": "PLASImpt_PlasticCupDrop_OS_01.wav",
+      "original_name": "02_floors_footsteps_body_mvmt_impacts_actions_etc/action_drop_plastic_cup_01.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 1.111
+    },
+    {
+      "file": "PLASImpt_PlasticObjDrop_OS_01.wav",
+      "original_name": "02_floors_footsteps_body_mvmt_impacts_actions_etc/action_drop_plastic_obj_01.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 0.526
+    },
+    {
+      "file": "PLASImpt_PlasticObjOnMetalDrop_OS_01.wav",
+      "original_name": "02_floors_footsteps_body_mvmt_impacts_actions_etc/action_drop_plastic_obj_on_metal.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 0.953
+    },
+    {
+      "file": "RAINInt_ForestCabinRain_LOOP_01.wav",
+      "original_name": "03_weather_ambience_etc/ambient_forest_cabin_rain_01_lp.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 2,
+      "duration_s": 45.0
+    },
+    {
+      "file": "RAINVege_ForestRain_LOOP_01.wav",
+      "original_name": "03_weather_ambience_etc/ambient_forest_rain_01_lp.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 2,
+      "duration_s": 45.0
+    },
+    {
+      "file": "RAIN_CityRain_LOOP_01.wav",
+      "original_name": "03_weather_ambience_etc/ambient_city_rain_lp.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 2,
+      "duration_s": 45.0
+    },
+    {
+      "file": "SWSH_Swoosh_OS_01.wav",
+      "original_name": "10_interaction/swoosh_01.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 0.614
+    },
+    {
+      "file": "SWSH_Swoosh_OS_02.wav",
+      "original_name": "10_interaction/swoosh_02.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 0.67
+    },
+    {
+      "file": "SWSH_Swoosh_OS_03.wav",
+      "original_name": "10_interaction/swoosh_03.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 0.767
+    },
+    {
+      "file": "SWSH_Swoosh_OS_04.wav",
+      "original_name": "10_interaction/swoosh_04.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 0.695
+    },
+    {
+      "file": "SWSH_Swoosh_OS_05.wav",
+      "original_name": "10_interaction/swoosh_05.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 0.691
+    },
+    {
+      "file": "SWSH_Swoosh_OS_06.wav",
+      "original_name": "10_interaction/swoosh_06.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 0.717
+    },
+    {
+      "file": "TOOLHand_WoodCutSaw_OS_01.wav",
+      "original_name": "03_weather_ambience_etc/ambient_wood_cut_saw.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 13.32
+    },
+    {
+      "file": "TOOLPowr_CircularSaw_OS_01.wav",
+      "original_name": "04_indoors_hums_machines_actions_etc/machine_circular_saw.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 13.461
+    },
+    {
+      "file": "TOOLPowr_PowerTool_OS_01.wav",
+      "original_name": "04_indoors_hums_machines_actions_etc/machine_power_tool_01.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 3.101
+    },
+    {
+      "file": "TOOLPowr_PowerTool_OS_02.wav",
+      "original_name": "04_indoors_hums_machines_actions_etc/machine_power_tool_02.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 5.287
+    },
+    {
+      "file": "TOOLPowr_PowerTool_OS_03.wav",
+      "original_name": "04_indoors_hums_machines_actions_etc/machine_power_tool_03.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 3.765
+    },
+    {
+      "file": "TOOLPowr_PowerTool_OS_04.wav",
+      "original_name": "04_indoors_hums_machines_actions_etc/machine_power_tool_04.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 10.496
+    },
+    {
+      "file": "TOOLPowr_PowerTool_OS_05.wav",
+      "original_name": "04_indoors_hums_machines_actions_etc/machine_power_tool_05.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 2.789
+    },
+    {
+      "file": "TOONBoing_BounceCartoony_OS_01.wav",
+      "original_name": "02_floors_footsteps_body_mvmt_impacts_actions_etc/bounce_cartoony_01.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 0.712
+    },
+    {
+      "file": "TOONBoing_BounceCartoony_OS_02.wav",
+      "original_name": "02_floors_footsteps_body_mvmt_impacts_actions_etc/bounce_cartoony_02.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 1.109
+    },
+    {
+      "file": "TOONBoing_BounceCartoony_OS_03.wav",
+      "original_name": "02_floors_footsteps_body_mvmt_impacts_actions_etc/bounce_cartoony_03.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 1.452
+    },
+    {
+      "file": "TOONBoing_BounceCartoony_OS_04.wav",
+      "original_name": "02_floors_footsteps_body_mvmt_impacts_actions_etc/bounce_cartoony_04.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 1.037
+    },
+    {
+      "file": "TRNDoor_TrainDoorsClose_OS_01.wav",
+      "original_name": "03_weather_ambience_etc/ambient_train_doors_close_01.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 2.127
+    },
+    {
+      "file": "TRNDoor_TrainDoorsOpen_OS_01.wav",
+      "original_name": "03_weather_ambience_etc/ambient_train_doors_open_01.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 2.724
+    },
+    {
+      "file": "TRNElec_TrainPassby_OS_01.wav",
+      "original_name": "03_weather_ambience_etc/ambient_train_passby_01.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 27.387
+    },
+    {
+      "file": "TRNSbwy_SubwayPassbyEnter_OS_01.wav",
+      "original_name": "03_weather_ambience_etc/ambient_subway_passby_enter_01.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 28.711
+    },
+    {
+      "file": "TRNSbwy_SubwayPassbyExit_OS_01.wav",
+      "original_name": "03_weather_ambience_etc/ambient_subway_passby_exit_01.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 28.248
+    },
+    {
+      "file": "UIAlert_CasualMusicalError_OS_01.wav",
+      "original_name": "05_user_interface/ui_casual_musical_error.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 1.249
+    },
+    {
+      "file": "UIAlert_CasualPopsError_OS_01.wav",
+      "original_name": "05_user_interface/ui_casual_pops_error.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 0.451
+    },
+    {
+      "file": "UIAlert_MagicalError_OS_01.wav",
+      "original_name": "05_user_interface/ui_magical_error.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 1.427
+    },
+    {
+      "file": "UIAlert_MetalError_OS_01.wav",
+      "original_name": "05_user_interface/ui_metal_error.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 0.535
+    },
+    {
+      "file": "UIAlert_MusicTone_OS_01.wav",
+      "original_name": "05_user_interface/ui_music_tone_01.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 3.441
+    },
+    {
+      "file": "UIAlert_MusicTone_OS_02.wav",
+      "original_name": "05_user_interface/ui_music_tone_02.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 3.49
+    },
+    {
+      "file": "UIAlert_MusicTone_OS_03.wav",
+      "original_name": "05_user_interface/ui_music_tone_03.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 3.627
+    },
+    {
+      "file": "UIAlert_MusicTone_OS_04.wav",
+      "original_name": "05_user_interface/ui_music_tone_04.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 3.429
+    },
+    {
+      "file": "UIAlert_MusicTone_OS_05.wav",
+      "original_name": "05_user_interface/ui_music_tone_05.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 3.554
+    },
+    {
+      "file": "UIAlert_Notification_OS_01.wav",
+      "original_name": "05_user_interface/ui_notification_01.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 0.16
+    },
+    {
+      "file": "UIAlert_Notification_OS_02.wav",
+      "original_name": "05_user_interface/ui_notification_02.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 1.14
+    },
+    {
+      "file": "UIAlert_Notification_OS_03.wav",
+      "original_name": "05_user_interface/ui_notification_03.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 0.535
+    },
+    {
+      "file": "UIAlert_Notification_OS_04.wav",
+      "original_name": "05_user_interface/ui_notification_04.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 0.191
+    },
+    {
+      "file": "UIAlert_Notification_OS_05.wav",
+      "original_name": "05_user_interface/ui_notification_05.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 0.246
+    },
+    {
+      "file": "UIAlert_ScifiHightechError_OS_01.wav",
+      "original_name": "05_user_interface/ui_scifi_hightech_error.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 0.243
+    },
+    {
+      "file": "UIAlert_ScifiTraditionalError_OS_01.wav",
+      "original_name": "05_user_interface/ui_scifi_traditional_error.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 1.55
+    },
+    {
+      "file": "UIAlert_WoodError_OS_01.wav",
+      "original_name": "05_user_interface/ui_wood_error.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 0.401
+    },
+    {
+      "file": "UIClick_CasualMusicalBack_OS_01.wav",
+      "original_name": "05_user_interface/ui_casual_musical_back.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 0.744
+    },
+    {
+      "file": "UIClick_CasualMusicalClose_OS_01.wav",
+      "original_name": "05_user_interface/ui_casual_musical_close.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 1.471
+    },
+    {
+      "file": "UIClick_CasualMusicalConfirm_OS_01.wav",
+      "original_name": "05_user_interface/ui_casual_musical_confirm.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 1.387
+    },
+    {
+      "file": "UIClick_CasualMusicalOpen_OS_01.wav",
+      "original_name": "05_user_interface/ui_casual_musical_open.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 1.079
+    },
+    {
+      "file": "UIClick_CasualOpen_OS_01.wav",
+      "original_name": "05_user_interface/ui_casual_open.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 0.69
+    },
+    {
+      "file": "UIClick_CasualPopsBack_OS_01.wav",
+      "original_name": "05_user_interface/ui_casual_pops_back.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 0.335
+    },
+    {
+      "file": "UIClick_CasualPopsClose_OS_01.wav",
+      "original_name": "05_user_interface/ui_casual_pops_close.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 0.876
+    },
+    {
+      "file": "UIClick_CasualPopsConfirm_OS_01.wav",
+      "original_name": "05_user_interface/ui_casual_pops_confirm.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 0.27
+    },
+    {
+      "file": "UIClick_KeyboardTyping_OS_01.wav",
+      "original_name": "02_floors_footsteps_body_mvmt_impacts_actions_etc/action_typing.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 18.432
+    },
+    {
+      "file": "UIClick_MagicalBack_OS_01.wav",
+      "original_name": "05_user_interface/ui_magical_back.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 1.38
+    },
+    {
+      "file": "UIClick_MagicalClose_OS_01.wav",
+      "original_name": "05_user_interface/ui_magical_close.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 1.534
+    },
+    {
+      "file": "UIClick_MagicalConfirm_OS_01.wav",
+      "original_name": "05_user_interface/ui_magical_confirm.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 1.243
+    },
+    {
+      "file": "UIClick_MagicalOpen_OS_01.wav",
+      "original_name": "05_user_interface/ui_magical_open.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 1.737
+    },
+    {
+      "file": "UIClick_MetalBack_OS_01.wav",
+      "original_name": "05_user_interface/ui_metal_back.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 0.448
+    },
+    {
+      "file": "UIClick_MetalClose_OS_01.wav",
+      "original_name": "05_user_interface/ui_metal_close.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 0.857
+    },
+    {
+      "file": "UIClick_MetalConfirm_OS_01.wav",
+      "original_name": "05_user_interface/ui_metal_confirm.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 0.546
+    },
+    {
+      "file": "UIClick_MetalOpen_OS_01.wav",
+      "original_name": "05_user_interface/ui_metal_open.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 0.924
+    },
+    {
+      "file": "UIClick_ScifiHightechBack_OS_01.wav",
+      "original_name": "05_user_interface/ui_scifi_hightech_back.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 0.232
+    },
+    {
+      "file": "UIClick_ScifiHightechClose_OS_01.wav",
+      "original_name": "05_user_interface/ui_scifi_hightech_close.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 0.152
+    },
+    {
+      "file": "UIClick_ScifiHightechConfirm_OS_01.wav",
+      "original_name": "05_user_interface/ui_scifi_hightech_confirm.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 0.457
+    },
+    {
+      "file": "UIClick_ScifiHightechOpen_OS_01.wav",
+      "original_name": "05_user_interface/ui_scifi_hightech_open.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 0.143
+    },
+    {
+      "file": "UIClick_ScifiTraditionalBack_OS_01.wav",
+      "original_name": "05_user_interface/ui_scifi_traditional_back.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 0.671
+    },
+    {
+      "file": "UIClick_ScifiTraditionalClose_OS_01.wav",
+      "original_name": "05_user_interface/ui_scifi_traditional_close.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 0.626
+    },
+    {
+      "file": "UIClick_ScifiTraditionalConfirm_OS_01.wav",
+      "original_name": "05_user_interface/ui_scifi_traditional_confirm.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 0.64
+    },
+    {
+      "file": "UIClick_ScifiTraditionalOpen_OS_01.wav",
+      "original_name": "05_user_interface/ui_scifi_traditional_open.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 0.5
+    },
+    {
+      "file": "UIClick_WoodBack_OS_01.wav",
+      "original_name": "05_user_interface/ui_wood_back.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 0.33
+    },
+    {
+      "file": "UIClick_WoodClose_OS_01.wav",
+      "original_name": "05_user_interface/ui_wood_close.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 0.644
+    },
+    {
+      "file": "UIClick_WoodConfirm_OS_01.wav",
+      "original_name": "05_user_interface/ui_wood_confirm.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 0.441
+    },
+    {
+      "file": "UIClick_WoodOpen_OS_01.wav",
+      "original_name": "05_user_interface/ui_wood_open.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 0.474
+    },
+    {
+      "file": "UIData_CasualCountup_OS_01.wav",
+      "original_name": "05_user_interface/ui_casual_countup.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 0.967
+    },
+    {
+      "file": "UIData_ScifiCountup_LOOP_01.wav",
+      "original_name": "05_user_interface/ui_scifi_countup_lp.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 2.004
+    },
+    {
+      "file": "UIMisc_BelltreeDown_OS_01.wav",
+      "original_name": "05_user_interface/ui_belltree_down_01.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 5.013
+    },
+    {
+      "file": "UIMisc_BelltreeUp_OS_01.wav",
+      "original_name": "05_user_interface/ui_belltree_up_01.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 5.016
+    },
+    {
+      "file": "UIMisc_Powerup_OS_01.wav",
+      "original_name": "05_user_interface/ui_powerup_01.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 1.708
+    },
+    {
+      "file": "UIMisc_Powerup_OS_02.wav",
+      "original_name": "05_user_interface/ui_powerup_02.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 1.46
+    },
+    {
+      "file": "VEGELeaf_MovementThroughBushes_OS_01.wav",
+      "original_name": "02_floors_footsteps_body_mvmt_impacts_actions_etc/body_movement_through_bushes_01.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 6.381
+    },
+    {
+      "file": "VEGELeaf_MovementThroughBushes_OS_02.wav",
+      "original_name": "02_floors_footsteps_body_mvmt_impacts_actions_etc/body_movement_through_bushes_02.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 6.923
+    },
+    {
+      "file": "VEGELeaf_MovementThroughBushes_OS_03.wav",
+      "original_name": "02_floors_footsteps_body_mvmt_impacts_actions_etc/body_movement_through_bushes_03.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 11.759
+    },
+    {
+      "file": "VEHCar_CarEngineHigh_LOOP_01.wav",
+      "original_name": "09_car/car_engine_high_lp.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 3.946
+    },
+    {
+      "file": "VEHCar_CarEngineSlow_LOOP_01.wav",
+      "original_name": "09_car/car_engine_slow_lp.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 4.157
+    },
+    {
+      "file": "VEHCar_CarStartRunStop_OS_01.wav",
+      "original_name": "09_car/car_start_run_stop_01.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 10.599
+    },
+    {
+      "file": "VEHCar_CarStartRunStop_OS_02.wav",
+      "original_name": "09_car/car_start_run_stop_02.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 21.857
+    },
+    {
+      "file": "VEHDoor_CarDoorClose_OS_01.wav",
+      "original_name": "09_car/car_door_close.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 0.902
+    },
+    {
+      "file": "VEHDoor_CarDoorOpen_OS_01.wav",
+      "original_name": "09_car/car_door_open.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 0.876
+    },
+    {
+      "file": "VEHDoor_CarTrunkClose_OS_01.wav",
+      "original_name": "09_car/car_trunk_close.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 0.74
+    },
+    {
+      "file": "VEHMech_CarShiftStick_OS_01.wav",
+      "original_name": "09_car/car_shift_stick.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 0.318
+    },
+    {
+      "file": "VEHWndw_CarWindowClose_OS_01.wav",
+      "original_name": "09_car/car_window_close.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 3.784
+    },
+    {
+      "file": "VEHWndw_CarWindowOpen_OS_01.wav",
+      "original_name": "09_car/car_window_open.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 3.328
+    },
+    {
+      "file": "VOXEfrt_Female01Effort_OS_01.wav",
+      "original_name": "06_vocal/Female 01/voice_female_01_effort_01.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 0.918
+    },
+    {
+      "file": "VOXEfrt_Female02Effort_OS_01.wav",
+      "original_name": "06_vocal/Female 02/voice_female_02_effort_01.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 1.022
+    },
+    {
+      "file": "VOXEfrt_Male01Effort_OS_01.wav",
+      "original_name": "06_vocal/Male 01/voice_male_01_effort_01.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 0.324
+    },
+    {
+      "file": "VOXEfrt_Male02Effort_OS_01.wav",
+      "original_name": "06_vocal/Male 02/voice_male_02_effort_01.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 0.274
+    },
+    {
+      "file": "VOXFem_Female01DeathScream_OS_01.wav",
+      "original_name": "06_vocal/Female 01/voice_female_01_deathscream_01.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 2.383
+    },
+    {
+      "file": "VOXFem_Female01Death_OS_01.wav",
+      "original_name": "06_vocal/Female 01/voice_female_01_deaths_01.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 1.104
+    },
+    {
+      "file": "VOXFem_Female01Death_OS_02.wav",
+      "original_name": "06_vocal/Female 01/voice_female_01_deaths_02.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 1.318
+    },
+    {
+      "file": "VOXFem_Female01Death_OS_03.wav",
+      "original_name": "06_vocal/Female 01/voice_female_01_deaths_03.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 1.21
+    },
+    {
+      "file": "VOXFem_Female01Hurt_OS_01.wav",
+      "original_name": "06_vocal/Female 01/voice_female_01_hurt_01.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 0.668
+    },
+    {
+      "file": "VOXFem_Female01Hurt_OS_02.wav",
+      "original_name": "06_vocal/Female 01/voice_female_01_hurt_02.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 1.064
+    },
+    {
+      "file": "VOXFem_Female01Hurt_OS_03.wav",
+      "original_name": "06_vocal/Female 01/voice_female_01_hurt_03.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 0.543
+    },
+    {
+      "file": "VOXFem_Female02DeathScream_OS_01.wav",
+      "original_name": "06_vocal/Female 02/voice_female_02_deathscream_01.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 1.681
+    },
+    {
+      "file": "VOXFem_Female02Death_OS_01.wav",
+      "original_name": "06_vocal/Female 02/voice_female_02_death_01.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 1.591
+    },
+    {
+      "file": "VOXFem_Female02Death_OS_02.wav",
+      "original_name": "06_vocal/Female 02/voice_female_02_death_02.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 1.804
+    },
+    {
+      "file": "VOXFem_Female02Death_OS_03.wav",
+      "original_name": "06_vocal/Female 02/voice_female_02_death_03.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 1.064
+    },
+    {
+      "file": "VOXFem_Female02Hurt_OS_01.wav",
+      "original_name": "06_vocal/Female 02/voice_female_02_hurt_01.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 0.376
+    },
+    {
+      "file": "VOXFem_Female02Hurt_OS_02.wav",
+      "original_name": "06_vocal/Female 02/voice_female_02_hurt_02.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 0.382
+    },
+    {
+      "file": "VOXFem_Female02Hurt_OS_03.wav",
+      "original_name": "06_vocal/Female 02/voice_female_02_hurt_03.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 0.355
+    },
+    {
+      "file": "VOXFem_GroanCreepy_OS_01.wav",
+      "original_name": "01_creepy_horror/creepy_groan_female_01.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 4.086
+    },
+    {
+      "file": "VOXLaff_EvilLaugh_OS_01.wav",
+      "original_name": "06_vocal/voice_evil_laugh_01.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 2.882
+    },
+    {
+      "file": "VOXLaff_EvilLaugh_OS_02.wav",
+      "original_name": "06_vocal/voice_evil_laugh_02.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 2.582
+    },
+    {
+      "file": "VOXLaff_EvilLaugh_OS_03.wav",
+      "original_name": "06_vocal/voice_evil_laugh_03.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 2.604
+    },
+    {
+      "file": "VOXLaff_Female01Laugh_OS_01.wav",
+      "original_name": "06_vocal/Female 01/voice_female_01_laugh_01.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 1.246
+    },
+    {
+      "file": "VOXLaff_Female01Laugh_OS_02.wav",
+      "original_name": "06_vocal/Female 01/voice_female_01_laugh_02.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 1.865
+    },
+    {
+      "file": "VOXLaff_Female01Laugh_OS_03.wav",
+      "original_name": "06_vocal/Female 01/voice_female_01_laugh_03.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 1.841
+    },
+    {
+      "file": "VOXLaff_Female02Laugh_OS_01.wav",
+      "original_name": "06_vocal/Female 02/voice_female_02_laugh_01.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 1.705
+    },
+    {
+      "file": "VOXLaff_Female02Laugh_OS_02.wav",
+      "original_name": "06_vocal/Female 02/voice_female_02_laugh_02.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 1.66
+    },
+    {
+      "file": "VOXLaff_Female02Laugh_OS_03.wav",
+      "original_name": "06_vocal/Female 02/voice_female_02_laugh_03.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 1.67
+    },
+    {
+      "file": "VOXLaff_Male01Laugh_OS_01.wav",
+      "original_name": "06_vocal/Male 01/voice_male_01_laugh_01.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 1.564
+    },
+    {
+      "file": "VOXLaff_Male01Laugh_OS_02.wav",
+      "original_name": "06_vocal/Male 01/voice_male_01_laugh_02.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 1.79
+    },
+    {
+      "file": "VOXLaff_Male02Laugh_OS_01.wav",
+      "original_name": "06_vocal/Male 02/voice_male_02_laugh_01.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 1.605
+    },
+    {
+      "file": "VOXLaff_Male02Laugh_OS_02.wav",
+      "original_name": "06_vocal/Male 02/voice_male_02_laugh_02.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 1.663
+    },
+    {
+      "file": "VOXLaff_Male02Laugh_OS_03.wav",
+      "original_name": "06_vocal/Male 02/voice_male_02_laugh_03.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 1.539
+    },
+    {
+      "file": "VOXMale_GroanCreepy_OS_01.wav",
+      "original_name": "01_creepy_horror/creepy_groan_male_01.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 5.224
+    },
+    {
+      "file": "VOXMale_Male01DeathScream_OS_01.wav",
+      "original_name": "06_vocal/Male 01/voice_male_01_deathscream_01.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 3.349
+    },
+    {
+      "file": "VOXMale_Male01Death_OS_01.wav",
+      "original_name": "06_vocal/Male 01/voice_male_01_death_01.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 1.182
+    },
+    {
+      "file": "VOXMale_Male01Death_OS_02.wav",
+      "original_name": "06_vocal/Male 01/voice_male_01_death_02.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 1.885
+    },
+    {
+      "file": "VOXMale_Male01Death_OS_03.wav",
+      "original_name": "06_vocal/Male 01/voice_male_01_death_03.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 2.053
+    },
+    {
+      "file": "VOXMale_Male01Hurt_OS_01.wav",
+      "original_name": "06_vocal/Male 01/voice_male_01_hurt_01.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 0.637
+    },
+    {
+      "file": "VOXMale_Male01Hurt_OS_02.wav",
+      "original_name": "06_vocal/Male 01/voice_male_01_hurt_02.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 1.005
+    },
+    {
+      "file": "VOXMale_Male01Hurt_OS_03.wav",
+      "original_name": "06_vocal/Male 01/voice_male_01_hurt_03.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 0.37
+    },
+    {
+      "file": "VOXMale_Male02DeathScream_OS_01.wav",
+      "original_name": "06_vocal/Male 02/voice_male_02_deathscream_01.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 2.833
+    },
+    {
+      "file": "VOXMale_Male02Death_OS_01.wav",
+      "original_name": "06_vocal/Male 02/voice_male_02_death_01.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 1.073
+    },
+    {
+      "file": "VOXMale_Male02Death_OS_02.wav",
+      "original_name": "06_vocal/Male 02/voice_male_02_death_02.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 1.538
+    },
+    {
+      "file": "VOXMale_Male02Death_OS_03.wav",
+      "original_name": "06_vocal/Male 02/voice_male_02_death_03.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 1.215
+    },
+    {
+      "file": "VOXMale_Male02Hurt_OS_01.wav",
+      "original_name": "06_vocal/Male 02/voice_male_02_hurt_01.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 0.5
+    },
+    {
+      "file": "VOXMale_Male02Hurt_OS_02.wav",
+      "original_name": "06_vocal/Male 02/voice_male_02_hurt_02.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 0.419
+    },
+    {
+      "file": "VOXMale_Male02Hurt_OS_03.wav",
+      "original_name": "06_vocal/Male 02/voice_male_02_hurt_03.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 0.411
+    },
+    {
+      "file": "VOXScrm_FemaleScream_OS_01.wav",
+      "original_name": "06_vocal/voice_female_scream_01.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 2.092
+    },
+    {
+      "file": "VOXScrm_MaleScream_OS_01.wav",
+      "original_name": "06_vocal/voice_male_scream_01.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 1.049
+    },
+    {
+      "file": "VOXScrm_MaleScream_OS_02.wav",
+      "original_name": "06_vocal/voice_male_scream_03.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 1.312
+    },
+    {
+      "file": "VOXScrm_MaleScream_OS_03.wav",
+      "original_name": "06_vocal/voice_male_scream_04.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 1.643
+    },
+    {
+      "file": "VOXWhsp_WhispersCreepyReverb_OS_01.wav",
+      "original_name": "01_creepy_horror/creepy_whispers_reverb_01.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 7.096
+    },
+    {
+      "file": "VOXWhsp_WhispersCreepy_OS_01.wav",
+      "original_name": "01_creepy_horror/creepy_whispers_01.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 5.376
+    },
+    {
+      "file": "WATRBubl_WaterBubbles_LOOP_01.wav",
+      "original_name": "03_weather_ambience_etc/ambient_water_bubbles_lp.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 29.659
+    },
+    {
+      "file": "WATRFall_Waterfall_LOOP_01.wav",
+      "original_name": "03_weather_ambience_etc/ambient_water_waterfall_lp.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 2,
+      "duration_s": 43.635
+    },
+    {
+      "file": "WATRFlow_CreekInWoods_LOOP_01.wav",
+      "original_name": "03_weather_ambience_etc/ambient_creek_in_the_wood_lp.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 2,
+      "duration_s": 44.612
+    },
+    {
+      "file": "WATRFlow_River_LOOP_01.wav",
+      "original_name": "03_weather_ambience_etc/ambient_water_river_01_lp.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 2,
+      "duration_s": 44.619
+    },
+    {
+      "file": "WATRLap_WaterLapping_LOOP_01.wav",
+      "original_name": "03_weather_ambience_etc/ambient_water_lapping_01_lp.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 2,
+      "duration_s": 45.0
+    },
+    {
+      "file": "WATRPlmb_FaucetOff_OS_01.wav",
+      "original_name": "10_interaction/interaction_faucet_off.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 1.106
+    },
+    {
+      "file": "WATRPlmb_FaucetOn_OS_01.wav",
+      "original_name": "10_interaction/interaction_faucet_on.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 1.102
+    },
+    {
+      "file": "WATRPlmb_FaucetWaterRun_LOOP_01.wav",
+      "original_name": "10_interaction/interaction_faucet_water_run_lp.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 30.0
+    },
+    {
+      "file": "WATRPlmb_ToiletFlushAmerican_OS_01.wav",
+      "original_name": "10_interaction/interaction_flush_toilet_american.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 18.133
+    },
+    {
+      "file": "WATRPlmb_ToiletFlushEuropean_OS_01.wav",
+      "original_name": "10_interaction/interaction_flush_toilet_european.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 8.0
+    },
+    {
+      "file": "WATRPlmb_ValveTurn_OS_01.wav",
+      "original_name": "10_interaction/interaction_valve_01_turn.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 0.91
+    },
+    {
+      "file": "WATRWave_OceanWaves_LOOP_01.wav",
+      "original_name": "03_weather_ambience_etc/ambient_ocean_waves_lp.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 2,
+      "duration_s": 45.0
+    },
+    {
+      "file": "WEAPAxe_WoodCutAxe_OS_01.wav",
+      "original_name": "03_weather_ambience_etc/ambient_wood_cut_axe.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 18.372
+    },
+    {
+      "file": "WEAPKnif_KnifeScrape_OS_01.wav",
+      "original_name": "02_floors_footsteps_body_mvmt_impacts_actions_etc/action_knife scrape.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 0.981
+    },
+    {
+      "file": "WEAPSwrd_SwordClash_OS_01.wav",
+      "original_name": "02_floors_footsteps_body_mvmt_impacts_actions_etc/action_sword_clash.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 1.547
+    },
+    {
+      "file": "WEAPSwrd_SwordScrape_OS_01.wav",
+      "original_name": "02_floors_footsteps_body_mvmt_impacts_actions_etc/action_sword_scrape_01.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 1.284
+    },
+    {
+      "file": "WEAPSwrd_SwordScrape_OS_02.wav",
+      "original_name": "02_floors_footsteps_body_mvmt_impacts_actions_etc/action_sword_scrape_02.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 1.336
+    },
+    {
+      "file": "WEAPSwrd_Sword_OS_01.wav",
+      "original_name": "02_floors_footsteps_body_mvmt_impacts_actions_etc/action_sword_01.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 1.297
+    },
+    {
+      "file": "WEAPSwrd_Sword_OS_02.wav",
+      "original_name": "02_floors_footsteps_body_mvmt_impacts_actions_etc/action_sword_02.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 1.762
+    },
+    {
+      "file": "WHSH_WhooshMedium_OS_01.wav",
+      "original_name": "10_interaction/interaction_whoosh_medium_01.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 0.226
+    },
+    {
+      "file": "WHSH_WhooshMedium_OS_02.wav",
+      "original_name": "10_interaction/interaction_whoosh_medium_02.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 0.247
+    },
+    {
+      "file": "WHSH_WhooshMedium_OS_03.wav",
+      "original_name": "10_interaction/interaction_whoosh_medium_03.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 0.274
+    },
+    {
+      "file": "WHSH_WhooshSmall_OS_01.wav",
+      "original_name": "10_interaction/interaction_whoosh_small_01.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 0.189
+    },
+    {
+      "file": "WHSH_WhooshSmall_OS_02.wav",
+      "original_name": "10_interaction/interaction_whoosh_small_02.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 0.147
+    },
+    {
+      "file": "WHSH_WhooshSmall_OS_03.wav",
+      "original_name": "10_interaction/interaction_whoosh_small_03.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 0.243
+    },
+    {
+      "file": "WINDVege_LightWindTreesBirds_LOOP_01.wav",
+      "original_name": "03_weather_ambience_etc/ambient_light_wind_through_trees_with_birds_01_lp.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 73.941
+    },
+    {
+      "file": "WINDVege_WindTreesBirdsFlies_LOOP_01.wav",
+      "original_name": "03_weather_ambience_etc/ambient_wind_through_trees_with_birds_and_flies_01_lp.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 2,
+      "duration_s": 60.79
+    },
+    {
+      "file": "WOODFric_CreaksCreepyReverb_OS_01.wav",
+      "original_name": "01_creepy_horror/creepy_creaks_reverb_01.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 4.441
+    },
+    {
+      "file": "WOODFric_CreaksCreepyReverb_OS_02.wav",
+      "original_name": "01_creepy_horror/creepy_creaks_reverb_02.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 5.661
+    },
+    {
+      "file": "WOODFric_CreaksCreepy_OS_01.wav",
+      "original_name": "01_creepy_horror/creepy_creaks_01.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 3.539
+    },
+    {
+      "file": "WOODFric_CreaksCreepy_OS_02.wav",
+      "original_name": "01_creepy_horror/creepy_creaks_02.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 3.549
+    },
+    {
+      "file": "WOODFric_LargeWoodMetalDrag_OS_01.wav",
+      "original_name": "02_floors_footsteps_body_mvmt_impacts_actions_etc/action_drag_large_wood_metal_on_floor.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 2.898
+    },
+    {
+      "file": "WOODImpt_LargeWoodDrop_OS_01.wav",
+      "original_name": "02_floors_footsteps_body_mvmt_impacts_actions_etc/action_large_wood_drop.wav",
+      "sample_rate": 48000,
+      "bit_depth": 16,
+      "sample_format": "pcm_s16le",
+      "channels": 1,
+      "duration_s": 1.418
+    }
+  ],
+  "ogg_dir": "ogg",
+  "license": "CC-BY-4.0",
+  "attribution": "\"Oculus Audio Pack 01\" by Oculus VR, LLC (https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/), licensed under CC BY 4.0. Files renamed to the UCS naming convention; OGG previews transcoded from the original WAVs."
+}

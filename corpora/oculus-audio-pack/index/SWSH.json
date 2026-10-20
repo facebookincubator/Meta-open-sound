@@ -1,0 +1,106 @@
+{
+  "schema_version": "1.0.0",
+  "collection": "oculus-audio-pack",
+  "cat_short": "SWSH",
+  "license": "CC-BY-4.0",
+  "attribution": "\"Oculus Audio Pack 01\" by Oculus VR, LLC (https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/), licensed under CC BY 4.0. Files renamed to the UCS naming convention; OGG previews transcoded from the original WAVs.",
+  "sounds": [
+    {
+      "id": "SWSH_Swoosh_OS_01",
+      "ucs": {
+        "cat_id": "SWSH",
+        "category": "SWOOSHES",
+        "subcategory": "SWISH",
+        "confidence": "machine"
+      },
+      "summary": "Use for: a swoosh: a fast swing, a dash, a menu or camera transition.",
+      "keywords": [
+        "by",
+        "dart",
+        "flash",
+        "flutter",
+        "fly",
+        "glide",
+        "kungfu",
+        "pass",
+        "race",
+        "rush",
+        "swing",
+        "swipe",
+        "swish",
+        "swishy",
+        "swoop",
+        "swoosh",
+        "whir",
+        "whirl",
+        "whiz",
+        "whoosh",
+        "whooshy",
+        "zip",
+        "zoom",
+        "swooshes"
+      ],
+      "classification": {
+        "asset_format": "Shuffle",
+        "loop": false
+      },
+      "takes": [
+        {
+          "file": "SWSH_Swoosh_OS_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 0.614
+        },
+        {
+          "file": "SWSH_Swoosh_OS_02.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 0.67
+        },
+        {
+          "file": "SWSH_Swoosh_OS_03.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 0.767
+        },
+        {
+          "file": "SWSH_Swoosh_OS_04.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 0.695
+        },
+        {
+          "file": "SWSH_Swoosh_OS_05.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 0.691
+        },
+        {
+          "file": "SWSH_Swoosh_OS_06.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 0.717
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "swoosh",
+        "source_collection": "10_interaction"
+      }
+    }
+  ]
+}

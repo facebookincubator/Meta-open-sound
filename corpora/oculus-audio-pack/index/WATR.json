@@ -1,0 +1,762 @@
+{
+  "schema_version": "1.0.0",
+  "collection": "oculus-audio-pack",
+  "cat_short": "WATR",
+  "license": "CC-BY-4.0",
+  "attribution": "\"Oculus Audio Pack 01\" by Oculus VR, LLC (https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/), licensed under CC BY 4.0. Files renamed to the UCS naming convention; OGG previews transcoded from the original WAVs.",
+  "sounds": [
+    {
+      "id": "WATRBubl_WaterBubbles_LOOP_01",
+      "ucs": {
+        "cat_id": "WATRBubl",
+        "category": "WATER",
+        "subcategory": "BUBBLES",
+        "confidence": "machine"
+      },
+      "summary": "Use for: bubbling water: an aquarium, a cauldron, an underwater vent.",
+      "keywords": [
+        "aerate",
+        "aerated",
+        "aeration",
+        "aqua",
+        "blub",
+        "boil",
+        "boiling",
+        "boils",
+        "bubble",
+        "bubbler",
+        "bubbling",
+        "bubbly",
+        "carbonation",
+        "cauldron",
+        "cavitation",
+        "effervesce",
+        "effervescence",
+        "effervescent",
+        "foam",
+        "froth",
+        "frothy",
+        "glub",
+        "gurgling",
+        "h20",
+        "hissing",
+        "potion",
+        "scuba",
+        "simmer",
+        "water",
+        "bubbles",
+        "ambient"
+      ],
+      "classification": {
+        "asset_format": "Loop",
+        "loop": true
+      },
+      "takes": [
+        {
+          "file": "WATRBubl_WaterBubbles_LOOP_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 29.659
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "ambient_water_bubbles",
+        "source_collection": "03_weather_ambience_etc"
+      }
+    },
+    {
+      "id": "WATRFall_Waterfall_LOOP_01",
+      "ucs": {
+        "cat_id": "WATRFall",
+        "category": "WATER",
+        "subcategory": "WATERFALL",
+        "confidence": "machine"
+      },
+      "summary": "Use for: a waterfall: a constant roaring cascade.",
+      "keywords": [
+        "aqua",
+        "cascade",
+        "cascading",
+        "cataract",
+        "dam",
+        "falls",
+        "h20",
+        "niagara",
+        "plunge",
+        "rapids",
+        "torrent",
+        "victoria",
+        "waterfall",
+        "water",
+        "ambient"
+      ],
+      "classification": {
+        "asset_format": "Loop",
+        "loop": true
+      },
+      "takes": [
+        {
+          "file": "WATRFall_Waterfall_LOOP_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 2,
+          "duration_s": 43.635
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "ambient_water_waterfall",
+        "source_collection": "03_weather_ambience_etc"
+      }
+    },
+    {
+      "id": "WATRFlow_CreekInWoods_LOOP_01",
+      "ucs": {
+        "cat_id": "WATRFlow",
+        "category": "WATER",
+        "subcategory": "FLOW",
+        "confidence": "machine"
+      },
+      "summary": "Use for: a small creek running through woods: babbling water, a forest stream.",
+      "keywords": [
+        "aqua",
+        "brook",
+        "creek",
+        "current",
+        "gully",
+        "h20",
+        "rill",
+        "river",
+        "rivulet",
+        "runnel",
+        "running",
+        "spring",
+        "stream",
+        "tributary",
+        "water",
+        "watercourse",
+        "flow",
+        "ambient",
+        "the",
+        "wood"
+      ],
+      "classification": {
+        "asset_format": "Loop",
+        "loop": true
+      },
+      "takes": [
+        {
+          "file": "WATRFlow_CreekInWoods_LOOP_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 2,
+          "duration_s": 44.612
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "ambient_creek_in_the_wood",
+        "source_collection": "03_weather_ambience_etc"
+      }
+    },
+    {
+      "id": "WATRFlow_River_LOOP_01",
+      "ucs": {
+        "cat_id": "WATRFlow",
+        "category": "WATER",
+        "subcategory": "FLOW",
+        "confidence": "machine"
+      },
+      "summary": "Use for: a flowing river: steady running water in nature.",
+      "keywords": [
+        "aqua",
+        "brook",
+        "creek",
+        "current",
+        "gully",
+        "h20",
+        "rill",
+        "river",
+        "rivulet",
+        "runnel",
+        "running",
+        "spring",
+        "stream",
+        "tributary",
+        "water",
+        "watercourse",
+        "flow",
+        "ambient"
+      ],
+      "classification": {
+        "asset_format": "Loop",
+        "loop": true
+      },
+      "takes": [
+        {
+          "file": "WATRFlow_River_LOOP_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 2,
+          "duration_s": 44.619
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "ambient_water_river",
+        "source_collection": "03_weather_ambience_etc"
+      }
+    },
+    {
+      "id": "WATRLap_WaterLapping_LOOP_01",
+      "ucs": {
+        "cat_id": "WATRLap",
+        "category": "WATER",
+        "subcategory": "LAP",
+        "confidence": "machine"
+      },
+      "summary": "Use for: gentle water lapping against a surface: a dock, a boat hull, a pier.",
+      "keywords": [
+        "aqua",
+        "h20",
+        "hull",
+        "lap",
+        "lapping",
+        "ripple",
+        "slap",
+        "slosh",
+        "sloshing",
+        "water",
+        "ambient"
+      ],
+      "classification": {
+        "asset_format": "Loop",
+        "loop": true
+      },
+      "takes": [
+        {
+          "file": "WATRLap_WaterLapping_LOOP_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 2,
+          "duration_s": 45.0
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "ambient_water_lapping",
+        "source_collection": "03_weather_ambience_etc"
+      }
+    },
+    {
+      "id": "WATRPlmb_FaucetOff_OS_01",
+      "ucs": {
+        "cat_id": "WATRPlmb",
+        "category": "WATER",
+        "subcategory": "PLUMBING",
+        "confidence": "machine"
+      },
+      "summary": "Use for: turning off a faucet: water stopping at a sink.",
+      "keywords": [
+        "aqua",
+        "aqueduct",
+        "auger",
+        "bathtub",
+        "bidet",
+        "channel",
+        "clog",
+        "commode",
+        "conduit",
+        "crapper",
+        "drain",
+        "drainpipe",
+        "faucet",
+        "fixtures",
+        "flush",
+        "grease",
+        "gutter",
+        "h20",
+        "p-trap",
+        "pipage",
+        "pipeline",
+        "pipes",
+        "piping",
+        "plumber",
+        "plumbing",
+        "septic",
+        "sewage",
+        "sewer",
+        "shower",
+        "sink",
+        "spout",
+        "tank",
+        "toilet",
+        "trap",
+        "trough",
+        "valve",
+        "waterworks",
+        "water",
+        "interaction",
+        "off"
+      ],
+      "classification": {
+        "asset_format": "Oneshot",
+        "loop": false
+      },
+      "takes": [
+        {
+          "file": "WATRPlmb_FaucetOff_OS_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 1.106
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "interaction_faucet_off",
+        "source_collection": "10_interaction"
+      }
+    },
+    {
+      "id": "WATRPlmb_FaucetOn_OS_01",
+      "ucs": {
+        "cat_id": "WATRPlmb",
+        "category": "WATER",
+        "subcategory": "PLUMBING",
+        "confidence": "machine"
+      },
+      "summary": "Use for: turning on a faucet: water starting at a sink.",
+      "keywords": [
+        "aqua",
+        "aqueduct",
+        "auger",
+        "bathtub",
+        "bidet",
+        "channel",
+        "clog",
+        "commode",
+        "conduit",
+        "crapper",
+        "drain",
+        "drainpipe",
+        "faucet",
+        "fixtures",
+        "flush",
+        "grease",
+        "gutter",
+        "h20",
+        "p-trap",
+        "pipage",
+        "pipeline",
+        "pipes",
+        "piping",
+        "plumber",
+        "plumbing",
+        "septic",
+        "sewage",
+        "sewer",
+        "shower",
+        "sink",
+        "spout",
+        "tank",
+        "toilet",
+        "trap",
+        "trough",
+        "valve",
+        "waterworks",
+        "water",
+        "interaction"
+      ],
+      "classification": {
+        "asset_format": "Oneshot",
+        "loop": false
+      },
+      "takes": [
+        {
+          "file": "WATRPlmb_FaucetOn_OS_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 1.102
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "interaction_faucet_on",
+        "source_collection": "10_interaction"
+      }
+    },
+    {
+      "id": "WATRPlmb_FaucetWaterRun_LOOP_01",
+      "ucs": {
+        "cat_id": "WATRPlmb",
+        "category": "WATER",
+        "subcategory": "PLUMBING",
+        "confidence": "machine"
+      },
+      "summary": "Use for: water running from a faucet: a sink, washing hands or dishes.",
+      "keywords": [
+        "aqua",
+        "aqueduct",
+        "auger",
+        "bathtub",
+        "bidet",
+        "channel",
+        "clog",
+        "commode",
+        "conduit",
+        "crapper",
+        "drain",
+        "drainpipe",
+        "faucet",
+        "fixtures",
+        "flush",
+        "grease",
+        "gutter",
+        "h20",
+        "p-trap",
+        "pipage",
+        "pipeline",
+        "pipes",
+        "piping",
+        "plumber",
+        "plumbing",
+        "septic",
+        "sewage",
+        "sewer",
+        "shower",
+        "sink",
+        "spout",
+        "tank",
+        "toilet",
+        "trap",
+        "trough",
+        "valve",
+        "waterworks",
+        "water",
+        "interaction",
+        "run"
+      ],
+      "classification": {
+        "asset_format": "Loop",
+        "loop": true
+      },
+      "takes": [
+        {
+          "file": "WATRPlmb_FaucetWaterRun_LOOP_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 30.0
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "interaction_faucet_water_run",
+        "source_collection": "10_interaction"
+      }
+    },
+    {
+      "id": "WATRPlmb_ToiletFlushAmerican_OS_01",
+      "ucs": {
+        "cat_id": "WATRPlmb",
+        "category": "WATER",
+        "subcategory": "PLUMBING",
+        "confidence": "machine"
+      },
+      "summary": "Use for: an American-style toilet flushing.",
+      "keywords": [
+        "aqua",
+        "aqueduct",
+        "auger",
+        "bathtub",
+        "bidet",
+        "channel",
+        "clog",
+        "commode",
+        "conduit",
+        "crapper",
+        "drain",
+        "drainpipe",
+        "faucet",
+        "fixtures",
+        "flush",
+        "grease",
+        "gutter",
+        "h20",
+        "p-trap",
+        "pipage",
+        "pipeline",
+        "pipes",
+        "piping",
+        "plumber",
+        "plumbing",
+        "septic",
+        "sewage",
+        "sewer",
+        "shower",
+        "sink",
+        "spout",
+        "tank",
+        "toilet",
+        "trap",
+        "trough",
+        "valve",
+        "waterworks",
+        "water",
+        "interaction",
+        "american"
+      ],
+      "classification": {
+        "asset_format": "Oneshot",
+        "loop": false
+      },
+      "takes": [
+        {
+          "file": "WATRPlmb_ToiletFlushAmerican_OS_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 18.133
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "interaction_flush_toilet_american",
+        "source_collection": "10_interaction"
+      }
+    },
+    {
+      "id": "WATRPlmb_ToiletFlushEuropean_OS_01",
+      "ucs": {
+        "cat_id": "WATRPlmb",
+        "category": "WATER",
+        "subcategory": "PLUMBING",
+        "confidence": "machine"
+      },
+      "summary": "Use for: a European-style toilet flushing.",
+      "keywords": [
+        "aqua",
+        "aqueduct",
+        "auger",
+        "bathtub",
+        "bidet",
+        "channel",
+        "clog",
+        "commode",
+        "conduit",
+        "crapper",
+        "drain",
+        "drainpipe",
+        "faucet",
+        "fixtures",
+        "flush",
+        "grease",
+        "gutter",
+        "h20",
+        "p-trap",
+        "pipage",
+        "pipeline",
+        "pipes",
+        "piping",
+        "plumber",
+        "plumbing",
+        "septic",
+        "sewage",
+        "sewer",
+        "shower",
+        "sink",
+        "spout",
+        "tank",
+        "toilet",
+        "trap",
+        "trough",
+        "valve",
+        "waterworks",
+        "water",
+        "interaction",
+        "european"
+      ],
+      "classification": {
+        "asset_format": "Oneshot",
+        "loop": false
+      },
+      "takes": [
+        {
+          "file": "WATRPlmb_ToiletFlushEuropean_OS_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 8.0
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "interaction_flush_toilet_european",
+        "source_collection": "10_interaction"
+      }
+    },
+    {
+      "id": "WATRPlmb_ValveTurn_OS_01",
+      "ucs": {
+        "cat_id": "WATRPlmb",
+        "category": "WATER",
+        "subcategory": "PLUMBING",
+        "confidence": "machine"
+      },
+      "summary": "Use for: turning a valve wheel: a pipe valve, a steam or water control, an industrial puzzle.",
+      "keywords": [
+        "aqua",
+        "aqueduct",
+        "auger",
+        "bathtub",
+        "bidet",
+        "channel",
+        "clog",
+        "commode",
+        "conduit",
+        "crapper",
+        "drain",
+        "drainpipe",
+        "faucet",
+        "fixtures",
+        "flush",
+        "grease",
+        "gutter",
+        "h20",
+        "p-trap",
+        "pipage",
+        "pipeline",
+        "pipes",
+        "piping",
+        "plumber",
+        "plumbing",
+        "septic",
+        "sewage",
+        "sewer",
+        "shower",
+        "sink",
+        "spout",
+        "tank",
+        "toilet",
+        "trap",
+        "trough",
+        "valve",
+        "waterworks",
+        "water",
+        "interaction",
+        "turn"
+      ],
+      "classification": {
+        "asset_format": "Oneshot",
+        "loop": false
+      },
+      "takes": [
+        {
+          "file": "WATRPlmb_ValveTurn_OS_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 0.91
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "interaction_valve_01_turn",
+        "source_collection": "10_interaction"
+      }
+    },
+    {
+      "id": "WATRWave_OceanWaves_LOOP_01",
+      "ucs": {
+        "cat_id": "WATRWave",
+        "category": "WATER",
+        "subcategory": "WAVE",
+        "confidence": "machine"
+      },
+      "summary": "Use for: ocean waves breaking on a shore: a beach, a seaside scene.",
+      "keywords": [
+        "aqua",
+        "billow",
+        "breaker",
+        "breakers",
+        "breakwater",
+        "crest",
+        "current",
+        "h20",
+        "ocean",
+        "ripples",
+        "roller",
+        "sea",
+        "seashore",
+        "surf",
+        "surge",
+        "swell",
+        "swells",
+        "tides",
+        "water",
+        "wave",
+        "waves",
+        "whitecap",
+        "ambient"
+      ],
+      "classification": {
+        "asset_format": "Loop",
+        "loop": true
+      },
+      "takes": [
+        {
+          "file": "WATRWave_OceanWaves_LOOP_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 2,
+          "duration_s": 45.0
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "ambient_ocean_waves",
+        "source_collection": "03_weather_ambience_etc"
+      }
+    }
+  ]
+}

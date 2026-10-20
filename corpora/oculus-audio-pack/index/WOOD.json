@@ -1,0 +1,314 @@
+{
+  "schema_version": "1.0.0",
+  "collection": "oculus-audio-pack",
+  "cat_short": "WOOD",
+  "license": "CC-BY-4.0",
+  "attribution": "\"Oculus Audio Pack 01\" by Oculus VR, LLC (https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/), licensed under CC BY 4.0. Files renamed to the UCS naming convention; OGG previews transcoded from the original WAVs.",
+  "sounds": [
+    {
+      "id": "WOODFric_CreaksCreepyReverb_OS_01",
+      "ucs": {
+        "cat_id": "WOODFric",
+        "category": "WOOD",
+        "subcategory": "FRICTION",
+        "confidence": "machine"
+      },
+      "summary": "Use for: stressed creaks in a large reverberant space: an abandoned building, a cavernous haunted interior.",
+      "keywords": [
+        "2x4",
+        "abrasion",
+        "beam",
+        "board",
+        "creaking",
+        "creaks",
+        "dowel",
+        "grating",
+        "grinding",
+        "hardwood",
+        "joist",
+        "log",
+        "lumber",
+        "plank",
+        "plywood",
+        "rafter",
+        "rasping",
+        "rubbing",
+        "scrapes",
+        "scraping",
+        "scratching",
+        "screech",
+        "screeching",
+        "scuffing",
+        "sliding",
+        "softwood",
+        "squeaks",
+        "stress",
+        "stud",
+        "timber",
+        "wear",
+        "wood",
+        "friction",
+        "creepy",
+        "reverb"
+      ],
+      "classification": {
+        "asset_format": "Shuffle",
+        "loop": false
+      },
+      "takes": [
+        {
+          "file": "WOODFric_CreaksCreepyReverb_OS_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 4.441
+        },
+        {
+          "file": "WOODFric_CreaksCreepyReverb_OS_02.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 5.661
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "creepy_creaks_reverb",
+        "source_collection": "01_creepy_horror"
+      }
+    },
+    {
+      "id": "WOODFric_CreaksCreepy_OS_01",
+      "ucs": {
+        "cat_id": "WOODFric",
+        "category": "WOOD",
+        "subcategory": "FRICTION",
+        "confidence": "machine"
+      },
+      "summary": "Use for: slow, stressed creaks of old wood: a haunted house settling, a floorboard under an unseen weight. Dry version.",
+      "keywords": [
+        "2x4",
+        "abrasion",
+        "beam",
+        "board",
+        "creaking",
+        "creaks",
+        "dowel",
+        "grating",
+        "grinding",
+        "hardwood",
+        "joist",
+        "log",
+        "lumber",
+        "plank",
+        "plywood",
+        "rafter",
+        "rasping",
+        "rubbing",
+        "scrapes",
+        "scraping",
+        "scratching",
+        "screech",
+        "screeching",
+        "scuffing",
+        "sliding",
+        "softwood",
+        "squeaks",
+        "stress",
+        "stud",
+        "timber",
+        "wear",
+        "wood",
+        "friction",
+        "creepy"
+      ],
+      "classification": {
+        "asset_format": "Shuffle",
+        "loop": false
+      },
+      "takes": [
+        {
+          "file": "WOODFric_CreaksCreepy_OS_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 3.539
+        },
+        {
+          "file": "WOODFric_CreaksCreepy_OS_02.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 3.549
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "creepy_creaks",
+        "source_collection": "01_creepy_horror"
+      }
+    },
+    {
+      "id": "WOODFric_LargeWoodMetalDrag_OS_01",
+      "ucs": {
+        "cat_id": "WOODFric",
+        "category": "WOOD",
+        "subcategory": "FRICTION",
+        "confidence": "machine"
+      },
+      "summary": "Use for: dragging a large, heavy wood-and-metal object across a floor: moving a crate, a desk or a barricade.",
+      "keywords": [
+        "2x4",
+        "abrasion",
+        "beam",
+        "board",
+        "creaking",
+        "creaks",
+        "dowel",
+        "grating",
+        "grinding",
+        "hardwood",
+        "joist",
+        "log",
+        "lumber",
+        "plank",
+        "plywood",
+        "rafter",
+        "rasping",
+        "rubbing",
+        "scrapes",
+        "scraping",
+        "scratching",
+        "screech",
+        "screeching",
+        "scuffing",
+        "sliding",
+        "softwood",
+        "squeaks",
+        "stress",
+        "stud",
+        "timber",
+        "wear",
+        "wood",
+        "friction",
+        "action",
+        "drag",
+        "large",
+        "metal",
+        "floor"
+      ],
+      "classification": {
+        "asset_format": "Oneshot",
+        "loop": false
+      },
+      "takes": [
+        {
+          "file": "WOODFric_LargeWoodMetalDrag_OS_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 2.898
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "action_drag_large_wood_metal_on_floor",
+        "source_collection": "02_floors_footsteps_body_mvmt_impacts_actions_etc"
+      }
+    },
+    {
+      "id": "WOODImpt_LargeWoodDrop_OS_01",
+      "ucs": {
+        "cat_id": "WOODImpt",
+        "category": "WOOD",
+        "subcategory": "IMPACT",
+        "confidence": "machine"
+      },
+      "summary": "Use for: a large piece of wood dropped on the floor: a plank, a log or a crate landing heavily.",
+      "keywords": [
+        "2x4",
+        "bang",
+        "banging",
+        "bash",
+        "beam",
+        "blow",
+        "board",
+        "bonk",
+        "chop",
+        "clang",
+        "clap",
+        "clink",
+        "clunk",
+        "collide",
+        "colliding",
+        "collision",
+        "conk",
+        "crash",
+        "crashing",
+        "dowel",
+        "drop",
+        "dropped",
+        "hardwood",
+        "hit",
+        "hitting",
+        "impact",
+        "impacting",
+        "joist",
+        "jolt",
+        "knock",
+        "log",
+        "lumber",
+        "plank",
+        "plywood",
+        "pound",
+        "rafter",
+        "ram",
+        "slam",
+        "slamming",
+        "smack",
+        "smacking",
+        "softwood",
+        "strike",
+        "striking",
+        "stud",
+        "thrust",
+        "timber",
+        "wood",
+        "action",
+        "large"
+      ],
+      "classification": {
+        "asset_format": "Oneshot",
+        "loop": false
+      },
+      "takes": [
+        {
+          "file": "WOODImpt_LargeWoodDrop_OS_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 1.418
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "action_large_wood_drop",
+        "source_collection": "02_floors_footsteps_body_mvmt_impacts_actions_etc"
+      }
+    }
+  ]
+}

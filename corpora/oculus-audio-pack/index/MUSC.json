@@ -1,0 +1,1066 @@
+{
+  "schema_version": "1.0.0",
+  "collection": "oculus-audio-pack",
+  "cat_short": "MUSC",
+  "license": "CC-BY-4.0",
+  "attribution": "\"Oculus Audio Pack 01\" by Oculus VR, LLC (https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/), licensed under CC BY 4.0. Files renamed to the UCS naming convention; OGG previews transcoded from the original WAVs.",
+  "sounds": [
+    {
+      "id": "MUSCChim_WindChimes_LOOP_01",
+      "ucs": {
+        "cat_id": "MUSCChim",
+        "category": "MUSICAL",
+        "subcategory": "CHIME",
+        "confidence": "machine"
+      },
+      "summary": "Use for: wind chimes ringing in a breeze: a porch, a garden, a peaceful or eerie moment.",
+      "keywords": [
+        "bell",
+        "chime",
+        "chimes",
+        "chiming",
+        "jingle",
+        "shimmer",
+        "tinkle",
+        "tintinnabulation",
+        "tree",
+        "twinkle",
+        "wind",
+        "musical",
+        "ambient"
+      ],
+      "classification": {
+        "asset_format": "Loop",
+        "loop": true
+      },
+      "takes": [
+        {
+          "file": "MUSCChim_WindChimes_LOOP_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 31.561
+        },
+        {
+          "file": "MUSCChim_WindChimes_LOOP_02.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 30.72
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "ambient_wind_chimes",
+        "source_collection": "03_weather_ambience_etc"
+      }
+    },
+    {
+      "id": "MUSCKeyd_PipeOrganCreepy_OS_01",
+      "ucs": {
+        "cat_id": "MUSCKeyd",
+        "category": "MUSICAL",
+        "subcategory": "KEYED",
+        "confidence": "machine"
+      },
+      "summary": "Use for: a sinister pipe organ phrase: a haunted cathedral, a gothic villain's lair, a horror title card.",
+      "keywords": [
+        "accordion",
+        "celesta",
+        "clavichord",
+        "clavinet",
+        "dulcitone",
+        "electric",
+        "fortepiano",
+        "harmonium",
+        "harpsichord",
+        "keyboard",
+        "melodica",
+        "organ",
+        "organetto",
+        "piano",
+        "pianoforte",
+        "regal",
+        "rhodes",
+        "spinet",
+        "virginal",
+        "wurlitzer",
+        "musical",
+        "keyed",
+        "creepy",
+        "pipe"
+      ],
+      "classification": {
+        "asset_format": "Oneshot",
+        "loop": false
+      },
+      "takes": [
+        {
+          "file": "MUSCKeyd_PipeOrganCreepy_OS_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 2,
+          "duration_s": 23.693
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "creepy_pipe_organ",
+        "source_collection": "01_creepy_horror"
+      }
+    },
+    {
+      "id": "MUSCStngr_AcousticGuitarNegative_OS_01",
+      "ucs": {
+        "cat_id": "MUSCStngr",
+        "category": "MUSICAL",
+        "subcategory": "STINGER",
+        "confidence": "machine"
+      },
+      "summary": "Use for: a negative acoustic-guitar sting: failure, a wrong answer, a sad beat.",
+      "keywords": [
+        "accent",
+        "fanfare",
+        "flourish",
+        "interjection",
+        "jingle",
+        "music",
+        "news",
+        "punctuation",
+        "stab",
+        "sting",
+        "title",
+        "musical",
+        "stinger",
+        "acoustic",
+        "guit",
+        "neg"
+      ],
+      "classification": {
+        "asset_format": "Oneshot",
+        "loop": false
+      },
+      "takes": [
+        {
+          "file": "MUSCStngr_AcousticGuitarNegative_OS_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 2,
+          "duration_s": 4.0
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "sting_acoustic_guit_neg",
+        "source_collection": "08_stings"
+      }
+    },
+    {
+      "id": "MUSCStngr_AcousticGuitarPositive_OS_01",
+      "ucs": {
+        "cat_id": "MUSCStngr",
+        "category": "MUSICAL",
+        "subcategory": "STINGER",
+        "confidence": "machine"
+      },
+      "summary": "Use for: a positive acoustic-guitar sting: success, a correct answer, an upbeat moment.",
+      "keywords": [
+        "accent",
+        "fanfare",
+        "flourish",
+        "interjection",
+        "jingle",
+        "music",
+        "news",
+        "punctuation",
+        "stab",
+        "sting",
+        "title",
+        "musical",
+        "stinger",
+        "acoustic",
+        "guit",
+        "pos"
+      ],
+      "classification": {
+        "asset_format": "Shuffle",
+        "loop": false
+      },
+      "takes": [
+        {
+          "file": "MUSCStngr_AcousticGuitarPositive_OS_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 2,
+          "duration_s": 3.586
+        },
+        {
+          "file": "MUSCStngr_AcousticGuitarPositive_OS_02.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 2,
+          "duration_s": 3.069
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "sting_acoustic_guit_pos",
+        "source_collection": "08_stings"
+      }
+    },
+    {
+      "id": "MUSCStngr_BanjoHumorous_OS_01",
+      "ucs": {
+        "cat_id": "MUSCStngr",
+        "category": "MUSICAL",
+        "subcategory": "STINGER",
+        "confidence": "machine"
+      },
+      "summary": "Use for: a humorous banjo sting: comedy beats, a silly fail, a country-flavored gag.",
+      "keywords": [
+        "accent",
+        "fanfare",
+        "flourish",
+        "interjection",
+        "jingle",
+        "music",
+        "news",
+        "punctuation",
+        "stab",
+        "sting",
+        "title",
+        "musical",
+        "stinger",
+        "banjo",
+        "humorous"
+      ],
+      "classification": {
+        "asset_format": "Shuffle",
+        "loop": false
+      },
+      "takes": [
+        {
+          "file": "MUSCStngr_BanjoHumorous_OS_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 2,
+          "duration_s": 3.31
+        },
+        {
+          "file": "MUSCStngr_BanjoHumorous_OS_02.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 2,
+          "duration_s": 3.138
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "sting_banjo_humorous",
+        "source_collection": "08_stings"
+      }
+    },
+    {
+      "id": "MUSCStngr_ElectricGuitarNegative_OS_01",
+      "ucs": {
+        "cat_id": "MUSCStngr",
+        "category": "MUSICAL",
+        "subcategory": "STINGER",
+        "confidence": "machine"
+      },
+      "summary": "Use for: a negative electric-guitar sting: failure, game over, a dramatic letdown.",
+      "keywords": [
+        "accent",
+        "fanfare",
+        "flourish",
+        "interjection",
+        "jingle",
+        "music",
+        "news",
+        "punctuation",
+        "stab",
+        "sting",
+        "title",
+        "musical",
+        "stinger",
+        "electric",
+        "guit",
+        "neg"
+      ],
+      "classification": {
+        "asset_format": "Oneshot",
+        "loop": false
+      },
+      "takes": [
+        {
+          "file": "MUSCStngr_ElectricGuitarNegative_OS_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 2,
+          "duration_s": 2.483
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "sting_electric_guit_neg",
+        "source_collection": "08_stings"
+      }
+    },
+    {
+      "id": "MUSCStngr_ElectricGuitarPositive_OS_01",
+      "ucs": {
+        "cat_id": "MUSCStngr",
+        "category": "MUSICAL",
+        "subcategory": "STINGER",
+        "confidence": "machine"
+      },
+      "summary": "Use for: a positive electric-guitar sting: success, an energetic win.",
+      "keywords": [
+        "accent",
+        "fanfare",
+        "flourish",
+        "interjection",
+        "jingle",
+        "music",
+        "news",
+        "punctuation",
+        "stab",
+        "sting",
+        "title",
+        "musical",
+        "stinger",
+        "electric",
+        "guit",
+        "pos"
+      ],
+      "classification": {
+        "asset_format": "Shuffle",
+        "loop": false
+      },
+      "takes": [
+        {
+          "file": "MUSCStngr_ElectricGuitarPositive_OS_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 2,
+          "duration_s": 2.483
+        },
+        {
+          "file": "MUSCStngr_ElectricGuitarPositive_OS_02.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 2,
+          "duration_s": 2.828
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "sting_electric_guit_pos",
+        "source_collection": "08_stings"
+      }
+    },
+    {
+      "id": "MUSCStngr_LevelUpMallet_OS_01",
+      "ucs": {
+        "cat_id": "MUSCStngr",
+        "category": "MUSICAL",
+        "subcategory": "STINGER",
+        "confidence": "machine"
+      },
+      "summary": "Use for: a mallet-percussion level-up sting: gaining XP, a new rank.",
+      "keywords": [
+        "accent",
+        "fanfare",
+        "flourish",
+        "interjection",
+        "jingle",
+        "music",
+        "news",
+        "punctuation",
+        "stab",
+        "sting",
+        "title",
+        "musical",
+        "stinger",
+        "level",
+        "mallet"
+      ],
+      "classification": {
+        "asset_format": "Oneshot",
+        "loop": false
+      },
+      "takes": [
+        {
+          "file": "MUSCStngr_LevelUpMallet_OS_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 2,
+          "duration_s": 2.989
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "sting_xp_level_up_mallet",
+        "source_collection": "08_stings"
+      }
+    },
+    {
+      "id": "MUSCStngr_LevelUpOrchestral_OS_01",
+      "ucs": {
+        "cat_id": "MUSCStngr",
+        "category": "MUSICAL",
+        "subcategory": "STINGER",
+        "confidence": "machine"
+      },
+      "summary": "Use for: an orchestral level-up sting: a big rank-up, an achievement unlocked.",
+      "keywords": [
+        "accent",
+        "fanfare",
+        "flourish",
+        "interjection",
+        "jingle",
+        "music",
+        "news",
+        "punctuation",
+        "stab",
+        "sting",
+        "title",
+        "musical",
+        "stinger",
+        "level",
+        "orch"
+      ],
+      "classification": {
+        "asset_format": "Shuffle",
+        "loop": false
+      },
+      "takes": [
+        {
+          "file": "MUSCStngr_LevelUpOrchestral_OS_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 2,
+          "duration_s": 1.999
+        },
+        {
+          "file": "MUSCStngr_LevelUpOrchestral_OS_02.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 2,
+          "duration_s": 2.917
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "sting_xp_level_up_orch",
+        "source_collection": "08_stings"
+      }
+    },
+    {
+      "id": "MUSCStngr_LossElectronic_OS_01",
+      "ucs": {
+        "cat_id": "MUSCStngr",
+        "category": "MUSICAL",
+        "subcategory": "STINGER",
+        "confidence": "machine"
+      },
+      "summary": "Use for: an electronic loss sting: game over, a failed level.",
+      "keywords": [
+        "accent",
+        "fanfare",
+        "flourish",
+        "interjection",
+        "jingle",
+        "music",
+        "news",
+        "punctuation",
+        "stab",
+        "sting",
+        "title",
+        "musical",
+        "stinger",
+        "loss",
+        "electric"
+      ],
+      "classification": {
+        "asset_format": "Oneshot",
+        "loop": false
+      },
+      "takes": [
+        {
+          "file": "MUSCStngr_LossElectronic_OS_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 2,
+          "duration_s": 3.246
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "sting_loss_electric",
+        "source_collection": "08_stings"
+      }
+    },
+    {
+      "id": "MUSCStngr_LossMallet_OS_01",
+      "ucs": {
+        "cat_id": "MUSCStngr",
+        "category": "MUSICAL",
+        "subcategory": "STINGER",
+        "confidence": "machine"
+      },
+      "summary": "Use for: a mallet-percussion loss sting: a gentle game over or fail.",
+      "keywords": [
+        "accent",
+        "fanfare",
+        "flourish",
+        "interjection",
+        "jingle",
+        "music",
+        "news",
+        "punctuation",
+        "stab",
+        "sting",
+        "title",
+        "musical",
+        "stinger",
+        "loss",
+        "mallet"
+      ],
+      "classification": {
+        "asset_format": "Oneshot",
+        "loop": false
+      },
+      "takes": [
+        {
+          "file": "MUSCStngr_LossMallet_OS_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 2,
+          "duration_s": 3.98
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "sting_loss_mallet",
+        "source_collection": "08_stings"
+      }
+    },
+    {
+      "id": "MUSCStngr_LossOrchestral_OS_01",
+      "ucs": {
+        "cat_id": "MUSCStngr",
+        "category": "MUSICAL",
+        "subcategory": "STINGER",
+        "confidence": "machine"
+      },
+      "summary": "Use for: an orchestral loss sting: a dramatic defeat, game over.",
+      "keywords": [
+        "accent",
+        "fanfare",
+        "flourish",
+        "interjection",
+        "jingle",
+        "music",
+        "news",
+        "punctuation",
+        "stab",
+        "sting",
+        "title",
+        "musical",
+        "stinger",
+        "loss",
+        "orch"
+      ],
+      "classification": {
+        "asset_format": "Shuffle",
+        "loop": false
+      },
+      "takes": [
+        {
+          "file": "MUSCStngr_LossOrchestral_OS_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 2,
+          "duration_s": 2.956
+        },
+        {
+          "file": "MUSCStngr_LossOrchestral_OS_02.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 2,
+          "duration_s": 3.947
+        },
+        {
+          "file": "MUSCStngr_LossOrchestral_OS_03.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 2,
+          "duration_s": 5.905
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "sting_loss_orch",
+        "source_collection": "08_stings"
+      }
+    },
+    {
+      "id": "MUSCStngr_LossPiano_OS_01",
+      "ucs": {
+        "cat_id": "MUSCStngr",
+        "category": "MUSICAL",
+        "subcategory": "STINGER",
+        "confidence": "machine"
+      },
+      "summary": "Use for: a piano loss sting: a soft, sad failure.",
+      "keywords": [
+        "accent",
+        "fanfare",
+        "flourish",
+        "interjection",
+        "jingle",
+        "music",
+        "news",
+        "punctuation",
+        "stab",
+        "sting",
+        "title",
+        "musical",
+        "stinger",
+        "loss",
+        "piano"
+      ],
+      "classification": {
+        "asset_format": "Oneshot",
+        "loop": false
+      },
+      "takes": [
+        {
+          "file": "MUSCStngr_LossPiano_OS_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 2,
+          "duration_s": 3.998
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "sting_loss_piano",
+        "source_collection": "08_stings"
+      }
+    },
+    {
+      "id": "MUSCStngr_MarchingSnare_OS_01",
+      "ucs": {
+        "cat_id": "MUSCStngr",
+        "category": "MUSICAL",
+        "subcategory": "STINGER",
+        "confidence": "machine"
+      },
+      "summary": "Use for: a marching-snare sting: a fanfare, a start-of-round cue.",
+      "keywords": [
+        "accent",
+        "fanfare",
+        "flourish",
+        "interjection",
+        "jingle",
+        "music",
+        "news",
+        "punctuation",
+        "stab",
+        "sting",
+        "title",
+        "musical",
+        "stinger",
+        "marching",
+        "snare"
+      ],
+      "classification": {
+        "asset_format": "Oneshot",
+        "loop": false
+      },
+      "takes": [
+        {
+          "file": "MUSCStngr_MarchingSnare_OS_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 2,
+          "duration_s": 4.138
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "sting_marching_snare",
+        "source_collection": "08_stings"
+      }
+    },
+    {
+      "id": "MUSCStngr_SnareCrash_OS_01",
+      "ucs": {
+        "cat_id": "MUSCStngr",
+        "category": "MUSICAL",
+        "subcategory": "STINGER",
+        "confidence": "machine"
+      },
+      "summary": "Use for: a snare and crash-cymbal hit: a rimshot punchline, a reveal, a dramatic accent.",
+      "keywords": [
+        "accent",
+        "fanfare",
+        "flourish",
+        "interjection",
+        "jingle",
+        "music",
+        "news",
+        "punctuation",
+        "stab",
+        "sting",
+        "title",
+        "musical",
+        "stinger",
+        "snare",
+        "and",
+        "crash",
+        "cym"
+      ],
+      "classification": {
+        "asset_format": "Oneshot",
+        "loop": false
+      },
+      "takes": [
+        {
+          "file": "MUSCStngr_SnareCrash_OS_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 2,
+          "duration_s": 2.0
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "sting_snare_and_crash_cym",
+        "source_collection": "08_stings"
+      }
+    },
+    {
+      "id": "MUSCStngr_VictoryElectronic_OS_01",
+      "ucs": {
+        "cat_id": "MUSCStngr",
+        "category": "MUSICAL",
+        "subcategory": "STINGER",
+        "confidence": "machine"
+      },
+      "summary": "Use for: an electronic victory sting: winning a level, a high score.",
+      "keywords": [
+        "accent",
+        "fanfare",
+        "flourish",
+        "interjection",
+        "jingle",
+        "music",
+        "news",
+        "punctuation",
+        "stab",
+        "sting",
+        "title",
+        "musical",
+        "stinger",
+        "victory",
+        "electronic"
+      ],
+      "classification": {
+        "asset_format": "Oneshot",
+        "loop": false
+      },
+      "takes": [
+        {
+          "file": "MUSCStngr_VictoryElectronic_OS_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 2,
+          "duration_s": 2.897
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "sting_victory_electronic",
+        "source_collection": "08_stings"
+      }
+    },
+    {
+      "id": "MUSCStngr_VictoryMallet_OS_01",
+      "ucs": {
+        "cat_id": "MUSCStngr",
+        "category": "MUSICAL",
+        "subcategory": "STINGER",
+        "confidence": "machine"
+      },
+      "summary": "Use for: a mallet-percussion victory sting: a light, playful win.",
+      "keywords": [
+        "accent",
+        "fanfare",
+        "flourish",
+        "interjection",
+        "jingle",
+        "music",
+        "news",
+        "punctuation",
+        "stab",
+        "sting",
+        "title",
+        "musical",
+        "stinger",
+        "victory",
+        "mallet"
+      ],
+      "classification": {
+        "asset_format": "Oneshot",
+        "loop": false
+      },
+      "takes": [
+        {
+          "file": "MUSCStngr_VictoryMallet_OS_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 2,
+          "duration_s": 3.75
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "sting_victory_mallet",
+        "source_collection": "08_stings"
+      }
+    },
+    {
+      "id": "MUSCStngr_VictoryOrchestral_OS_01",
+      "ucs": {
+        "cat_id": "MUSCStngr",
+        "category": "MUSICAL",
+        "subcategory": "STINGER",
+        "confidence": "machine"
+      },
+      "summary": "Use for: an orchestral victory sting: a triumphant win, quest complete.",
+      "keywords": [
+        "accent",
+        "fanfare",
+        "flourish",
+        "interjection",
+        "jingle",
+        "music",
+        "news",
+        "punctuation",
+        "stab",
+        "sting",
+        "title",
+        "musical",
+        "stinger",
+        "victory",
+        "orch"
+      ],
+      "classification": {
+        "asset_format": "Shuffle",
+        "loop": false
+      },
+      "takes": [
+        {
+          "file": "MUSCStngr_VictoryOrchestral_OS_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 2,
+          "duration_s": 2.893
+        },
+        {
+          "file": "MUSCStngr_VictoryOrchestral_OS_02.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 2,
+          "duration_s": 3.908
+        },
+        {
+          "file": "MUSCStngr_VictoryOrchestral_OS_03.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 2,
+          "duration_s": 5.906
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "sting_victory_orch",
+        "source_collection": "08_stings"
+      }
+    },
+    {
+      "id": "MUSCStngr_VictoryPiano_OS_01",
+      "ucs": {
+        "cat_id": "MUSCStngr",
+        "category": "MUSICAL",
+        "subcategory": "STINGER",
+        "confidence": "machine"
+      },
+      "summary": "Use for: a piano victory sting: a gentle win or completion.",
+      "keywords": [
+        "accent",
+        "fanfare",
+        "flourish",
+        "interjection",
+        "jingle",
+        "music",
+        "news",
+        "punctuation",
+        "stab",
+        "sting",
+        "title",
+        "musical",
+        "stinger",
+        "victory",
+        "piano"
+      ],
+      "classification": {
+        "asset_format": "Oneshot",
+        "loop": false
+      },
+      "takes": [
+        {
+          "file": "MUSCStngr_VictoryPiano_OS_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 2,
+          "duration_s": 2.999
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "sting_victory_piano",
+        "source_collection": "08_stings"
+      }
+    },
+    {
+      "id": "MUSCStr_StringsCreepy_OS_01",
+      "ucs": {
+        "cat_id": "MUSCStr",
+        "category": "MUSICAL",
+        "subcategory": "STRINGED",
+        "confidence": "machine"
+      },
+      "summary": "Use for: dissonant horror strings: tension stabs and screeches, a scare or a creeping reveal.",
+      "keywords": [
+        "adagio",
+        "bass",
+        "bowed",
+        "cello",
+        "dahu",
+        "double",
+        "erhu",
+        "fiddle",
+        "hardanger",
+        "hurdy-gurdy",
+        "nyckelharpa",
+        "rebec",
+        "viola",
+        "violin",
+        "violoncello",
+        "musical",
+        "stringed",
+        "creepy",
+        "strings"
+      ],
+      "classification": {
+        "asset_format": "Shuffle",
+        "loop": false
+      },
+      "takes": [
+        {
+          "file": "MUSCStr_StringsCreepy_OS_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 5.232
+        },
+        {
+          "file": "MUSCStr_StringsCreepy_OS_02.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 5.255
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "creepy_strings",
+        "source_collection": "01_creepy_horror"
+      }
+    }
+  ]
+}

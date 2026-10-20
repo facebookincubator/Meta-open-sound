@@ -1,0 +1,111 @@
+{
+  "schema_version": "1.0.0",
+  "collection": "oculus-audio-pack",
+  "cat_short": "MAG",
+  "license": "CC-BY-4.0",
+  "attribution": "\"Oculus Audio Pack 01\" by Oculus VR, LLC (https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/), licensed under CC BY 4.0. Files renamed to the UCS naming convention; OGG previews transcoded from the original WAVs.",
+  "sounds": [
+    {
+      "id": "MAGSpel_MagicSpell_OS_01",
+      "ucs": {
+        "cat_id": "MAGSpel",
+        "category": "MAGIC",
+        "subcategory": "SPELL",
+        "confidence": "machine"
+      },
+      "summary": "Use for: casting a magic spell: a fantasy ability, an enchantment.",
+      "keywords": [
+        "abracadabra",
+        "banishing",
+        "bewitch",
+        "cast",
+        "charm",
+        "conjuration",
+        "conjure",
+        "conjured",
+        "conjuring",
+        "curse",
+        "divination",
+        "enchant",
+        "enchanting",
+        "enchantment",
+        "enchantments",
+        "evocation",
+        "exorcism",
+        "healing",
+        "hex",
+        "illusion",
+        "illusionary",
+        "illusionism",
+        "illusionistic",
+        "illusions",
+        "incantation",
+        "incantational",
+        "incantations",
+        "incantatory",
+        "invocation",
+        "invocations",
+        "mesmerize",
+        "prestidigitation",
+        "protection",
+        "rune",
+        "sorcerer",
+        "sorceries",
+        "sorcerous",
+        "sorcery",
+        "spellacy",
+        "spellbind",
+        "spellbinding",
+        "spellcheck",
+        "spelled",
+        "spelling",
+        "spellings",
+        "spells",
+        "spellwork",
+        "summoned",
+        "summoning",
+        "summons",
+        "supernaturally",
+        "trance",
+        "voodoo",
+        "warding",
+        "witch",
+        "wizard",
+        "wizardly",
+        "wizardry",
+        "magic",
+        "spell",
+        "interaction"
+      ],
+      "classification": {
+        "asset_format": "Shuffle",
+        "loop": false
+      },
+      "takes": [
+        {
+          "file": "MAGSpel_MagicSpell_OS_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 2.369
+        },
+        {
+          "file": "MAGSpel_MagicSpell_OS_02.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 3.345
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "interaction_magic_spell",
+        "source_collection": "10_interaction"
+      }
+    }
+  ]
+}

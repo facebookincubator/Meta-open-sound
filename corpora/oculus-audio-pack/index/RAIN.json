@@ -1,0 +1,156 @@
+{
+  "schema_version": "1.0.0",
+  "collection": "oculus-audio-pack",
+  "cat_short": "RAIN",
+  "license": "CC-BY-4.0",
+  "attribution": "\"Oculus Audio Pack 01\" by Oculus VR, LLC (https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/), licensed under CC BY 4.0. Files renamed to the UCS naming convention; OGG previews transcoded from the original WAVs.",
+  "sounds": [
+    {
+      "id": "RAINInt_ForestCabinRain_LOOP_01",
+      "ucs": {
+        "cat_id": "RAINInt",
+        "category": "RAIN",
+        "subcategory": "INTERIOR",
+        "confidence": "machine"
+      },
+      "summary": "Use for: rain heard from inside a cabin in the forest: a cozy interior during a storm.",
+      "keywords": [
+        "drizzle",
+        "indoor",
+        "interior",
+        "precipitation",
+        "rain",
+        "rainstorm",
+        "roof",
+        "sunroof",
+        "windshield",
+        "ambient",
+        "forest",
+        "cabin"
+      ],
+      "classification": {
+        "asset_format": "Loop",
+        "loop": true
+      },
+      "takes": [
+        {
+          "file": "RAINInt_ForestCabinRain_LOOP_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 2,
+          "duration_s": 45.0
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "ambient_forest_cabin_rain",
+        "source_collection": "03_weather_ambience_etc"
+      }
+    },
+    {
+      "id": "RAINVege_ForestRain_LOOP_01",
+      "ucs": {
+        "cat_id": "RAINVege",
+        "category": "RAIN",
+        "subcategory": "VEGETATION",
+        "confidence": "machine"
+      },
+      "summary": "Use for: rain falling through forest foliage: a wet woodland, rain on leaves.",
+      "keywords": [
+        "drizzle",
+        "foliage",
+        "grass",
+        "jungle",
+        "leaf",
+        "leaves",
+        "plants",
+        "precipitation",
+        "rainforest",
+        "tree",
+        "vegetation",
+        "rain",
+        "ambient",
+        "forest"
+      ],
+      "classification": {
+        "asset_format": "Loop",
+        "loop": true
+      },
+      "takes": [
+        {
+          "file": "RAINVege_ForestRain_LOOP_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 2,
+          "duration_s": 45.0
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "ambient_forest_rain",
+        "source_collection": "03_weather_ambience_etc"
+      }
+    },
+    {
+      "id": "RAIN_CityRain_LOOP_01",
+      "ucs": {
+        "cat_id": "RAIN",
+        "category": "RAIN",
+        "subcategory": "GENERAL",
+        "confidence": "machine"
+      },
+      "summary": "Use for: rain falling on a city: wet streets, traffic through rain, a moody urban night.",
+      "keywords": [
+        "damp",
+        "deluge",
+        "downpour",
+        "drenched",
+        "drizzle",
+        "mist",
+        "monsoon",
+        "precipitate",
+        "precipitation",
+        "rain",
+        "rainfall",
+        "raining",
+        "rains",
+        "rainstorm",
+        "rainy",
+        "shower",
+        "sprinkle",
+        "torrent",
+        "wet",
+        "general",
+        "ambient",
+        "city"
+      ],
+      "classification": {
+        "asset_format": "Loop",
+        "loop": true
+      },
+      "takes": [
+        {
+          "file": "RAIN_CityRain_LOOP_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 2,
+          "duration_s": 45.0
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "ambient_city_rain",
+        "source_collection": "03_weather_ambience_etc"
+      }
+    }
+  ]
+}

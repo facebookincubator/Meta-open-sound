@@ -1,0 +1,1098 @@
+{
+  "schema_version": "1.0.0",
+  "collection": "oculus-audio-pack",
+  "cat_short": "CREA",
+  "license": "CC-BY-4.0",
+  "attribution": "\"Oculus Audio Pack 01\" by Oculus VR, LLC (https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/), licensed under CC BY 4.0. Files renamed to the UCS naming convention; OGG previews transcoded from the original WAVs.",
+  "sounds": [
+    {
+      "id": "CREAHmn_GiantDeathScream_OS_01",
+      "ucs": {
+        "cat_id": "CREAHmn",
+        "category": "CREATURES",
+        "subcategory": "HUMANOID",
+        "confidence": "machine"
+      },
+      "summary": "Use for: a dramatic death scream from a giant creature voice. Matches the other Giant vocals.",
+      "keywords": [
+        "bigfoot",
+        "dead",
+        "elf",
+        "frankenstein",
+        "ghoul",
+        "living",
+        "mummy",
+        "ogre",
+        "orcs",
+        "swamp",
+        "tengu",
+        "thing",
+        "troll",
+        "undead",
+        "vampire",
+        "werewolf",
+        "witch",
+        "zombie",
+        "creatures",
+        "humanoid",
+        "voice",
+        "giant",
+        "deathscream"
+      ],
+      "classification": {
+        "asset_format": "Oneshot",
+        "loop": false
+      },
+      "takes": [
+        {
+          "file": "CREAHmn_GiantDeathScream_OS_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 5.412
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "voice_giant_deathscream",
+        "source_collection": "06_vocal/Giant"
+      }
+    },
+    {
+      "id": "CREAHmn_GiantDeath_OS_01",
+      "ucs": {
+        "cat_id": "CREAHmn",
+        "category": "CREATURES",
+        "subcategory": "HUMANOID",
+        "confidence": "machine"
+      },
+      "summary": "Use for: a character dying: the death vocal of a giant creature voice. Matches the other Giant vocals.",
+      "keywords": [
+        "bigfoot",
+        "dead",
+        "elf",
+        "frankenstein",
+        "ghoul",
+        "living",
+        "mummy",
+        "ogre",
+        "orcs",
+        "swamp",
+        "tengu",
+        "thing",
+        "troll",
+        "undead",
+        "vampire",
+        "werewolf",
+        "witch",
+        "zombie",
+        "creatures",
+        "humanoid",
+        "voice",
+        "giant",
+        "deaths"
+      ],
+      "classification": {
+        "asset_format": "Shuffle",
+        "loop": false
+      },
+      "takes": [
+        {
+          "file": "CREAHmn_GiantDeath_OS_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 4.123
+        },
+        {
+          "file": "CREAHmn_GiantDeath_OS_02.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 3.674
+        },
+        {
+          "file": "CREAHmn_GiantDeath_OS_03.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 4.391
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "voice_giant_deaths",
+        "source_collection": "06_vocal/Giant"
+      }
+    },
+    {
+      "id": "CREAHmn_GiantEffort_OS_01",
+      "ucs": {
+        "cat_id": "CREAHmn",
+        "category": "CREATURES",
+        "subcategory": "HUMANOID",
+        "confidence": "machine"
+      },
+      "summary": "Use for: a grunt of effort from a giant creature voice: attacking, jumping, lifting. Matches the other Giant vocals.",
+      "keywords": [
+        "bigfoot",
+        "dead",
+        "elf",
+        "frankenstein",
+        "ghoul",
+        "living",
+        "mummy",
+        "ogre",
+        "orcs",
+        "swamp",
+        "tengu",
+        "thing",
+        "troll",
+        "undead",
+        "vampire",
+        "werewolf",
+        "witch",
+        "zombie",
+        "creatures",
+        "humanoid",
+        "voice",
+        "giant",
+        "effort"
+      ],
+      "classification": {
+        "asset_format": "Oneshot",
+        "loop": false
+      },
+      "takes": [
+        {
+          "file": "CREAHmn_GiantEffort_OS_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 3.565
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "voice_giant_effort",
+        "source_collection": "06_vocal/Giant"
+      }
+    },
+    {
+      "id": "CREAHmn_GiantHurt_OS_01",
+      "ucs": {
+        "cat_id": "CREAHmn",
+        "category": "CREATURES",
+        "subcategory": "HUMANOID",
+        "confidence": "machine"
+      },
+      "summary": "Use for: a pain reaction from a giant creature voice: taking damage. Matches the other Giant vocals.",
+      "keywords": [
+        "bigfoot",
+        "dead",
+        "elf",
+        "frankenstein",
+        "ghoul",
+        "living",
+        "mummy",
+        "ogre",
+        "orcs",
+        "swamp",
+        "tengu",
+        "thing",
+        "troll",
+        "undead",
+        "vampire",
+        "werewolf",
+        "witch",
+        "zombie",
+        "creatures",
+        "humanoid",
+        "voice",
+        "giant",
+        "hurts"
+      ],
+      "classification": {
+        "asset_format": "Shuffle",
+        "loop": false
+      },
+      "takes": [
+        {
+          "file": "CREAHmn_GiantHurt_OS_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 2.939
+        },
+        {
+          "file": "CREAHmn_GiantHurt_OS_02.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 2.834
+        },
+        {
+          "file": "CREAHmn_GiantHurt_OS_03.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 3.233
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "voice_giant_hurts",
+        "source_collection": "06_vocal/Giant"
+      }
+    },
+    {
+      "id": "CREAHmn_GiantLaugh_OS_01",
+      "ucs": {
+        "cat_id": "CREAHmn",
+        "category": "CREATURES",
+        "subcategory": "HUMANOID",
+        "confidence": "machine"
+      },
+      "summary": "Use for: a laugh from a giant creature voice: taunting, victory, amusement. Matches the other Giant vocals.",
+      "keywords": [
+        "bigfoot",
+        "dead",
+        "elf",
+        "frankenstein",
+        "ghoul",
+        "living",
+        "mummy",
+        "ogre",
+        "orcs",
+        "swamp",
+        "tengu",
+        "thing",
+        "troll",
+        "undead",
+        "vampire",
+        "werewolf",
+        "witch",
+        "zombie",
+        "creatures",
+        "humanoid",
+        "voice",
+        "giant",
+        "laugh"
+      ],
+      "classification": {
+        "asset_format": "Shuffle",
+        "loop": false
+      },
+      "takes": [
+        {
+          "file": "CREAHmn_GiantLaugh_OS_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 5.037
+        },
+        {
+          "file": "CREAHmn_GiantLaugh_OS_02.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 4.18
+        },
+        {
+          "file": "CREAHmn_GiantLaugh_OS_03.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 3.511
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "voice_giant_laugh",
+        "source_collection": "06_vocal/Giant"
+      }
+    },
+    {
+      "id": "CREAHmn_OgreDeathScream_OS_01",
+      "ucs": {
+        "cat_id": "CREAHmn",
+        "category": "CREATURES",
+        "subcategory": "HUMANOID",
+        "confidence": "machine"
+      },
+      "summary": "Use for: a dramatic death scream from a ogre creature voice. Matches the other Ogre vocals.",
+      "keywords": [
+        "bigfoot",
+        "dead",
+        "elf",
+        "frankenstein",
+        "ghoul",
+        "living",
+        "mummy",
+        "ogre",
+        "orcs",
+        "swamp",
+        "tengu",
+        "thing",
+        "troll",
+        "undead",
+        "vampire",
+        "werewolf",
+        "witch",
+        "zombie",
+        "creatures",
+        "humanoid",
+        "voice",
+        "deathscream"
+      ],
+      "classification": {
+        "asset_format": "Oneshot",
+        "loop": false
+      },
+      "takes": [
+        {
+          "file": "CREAHmn_OgreDeathScream_OS_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 2.133
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "voice_ogre_deathscream",
+        "source_collection": "06_vocal/Ogre"
+      }
+    },
+    {
+      "id": "CREAHmn_OgreDeath_OS_01",
+      "ucs": {
+        "cat_id": "CREAHmn",
+        "category": "CREATURES",
+        "subcategory": "HUMANOID",
+        "confidence": "machine"
+      },
+      "summary": "Use for: a character dying: the death vocal of a ogre creature voice. Matches the other Ogre vocals.",
+      "keywords": [
+        "bigfoot",
+        "dead",
+        "elf",
+        "frankenstein",
+        "ghoul",
+        "living",
+        "mummy",
+        "ogre",
+        "orcs",
+        "swamp",
+        "tengu",
+        "thing",
+        "troll",
+        "undead",
+        "vampire",
+        "werewolf",
+        "witch",
+        "zombie",
+        "creatures",
+        "humanoid",
+        "voice",
+        "death"
+      ],
+      "classification": {
+        "asset_format": "Shuffle",
+        "loop": false
+      },
+      "takes": [
+        {
+          "file": "CREAHmn_OgreDeath_OS_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 2.763
+        },
+        {
+          "file": "CREAHmn_OgreDeath_OS_02.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 1.912
+        },
+        {
+          "file": "CREAHmn_OgreDeath_OS_03.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 2.568
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "voice_ogre_death",
+        "source_collection": "06_vocal/Ogre"
+      }
+    },
+    {
+      "id": "CREAHmn_OgreEffort_OS_01",
+      "ucs": {
+        "cat_id": "CREAHmn",
+        "category": "CREATURES",
+        "subcategory": "HUMANOID",
+        "confidence": "machine"
+      },
+      "summary": "Use for: a grunt of effort from a ogre creature voice: attacking, jumping, lifting. Matches the other Ogre vocals.",
+      "keywords": [
+        "bigfoot",
+        "dead",
+        "elf",
+        "frankenstein",
+        "ghoul",
+        "living",
+        "mummy",
+        "ogre",
+        "orcs",
+        "swamp",
+        "tengu",
+        "thing",
+        "troll",
+        "undead",
+        "vampire",
+        "werewolf",
+        "witch",
+        "zombie",
+        "creatures",
+        "humanoid",
+        "voice",
+        "effort"
+      ],
+      "classification": {
+        "asset_format": "Oneshot",
+        "loop": false
+      },
+      "takes": [
+        {
+          "file": "CREAHmn_OgreEffort_OS_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 0.859
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "voice_ogre_effort",
+        "source_collection": "06_vocal/Ogre"
+      }
+    },
+    {
+      "id": "CREAHmn_OgreHurt_OS_01",
+      "ucs": {
+        "cat_id": "CREAHmn",
+        "category": "CREATURES",
+        "subcategory": "HUMANOID",
+        "confidence": "machine"
+      },
+      "summary": "Use for: a pain reaction from a ogre creature voice: taking damage. Matches the other Ogre vocals.",
+      "keywords": [
+        "bigfoot",
+        "dead",
+        "elf",
+        "frankenstein",
+        "ghoul",
+        "living",
+        "mummy",
+        "ogre",
+        "orcs",
+        "swamp",
+        "tengu",
+        "thing",
+        "troll",
+        "undead",
+        "vampire",
+        "werewolf",
+        "witch",
+        "zombie",
+        "creatures",
+        "humanoid",
+        "voice",
+        "hurt"
+      ],
+      "classification": {
+        "asset_format": "Shuffle",
+        "loop": false
+      },
+      "takes": [
+        {
+          "file": "CREAHmn_OgreHurt_OS_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 0.919
+        },
+        {
+          "file": "CREAHmn_OgreHurt_OS_02.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 0.889
+        },
+        {
+          "file": "CREAHmn_OgreHurt_OS_03.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 0.714
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "voice_ogre_hurt",
+        "source_collection": "06_vocal/Ogre"
+      }
+    },
+    {
+      "id": "CREAHmn_OgreLaugh_OS_01",
+      "ucs": {
+        "cat_id": "CREAHmn",
+        "category": "CREATURES",
+        "subcategory": "HUMANOID",
+        "confidence": "machine"
+      },
+      "summary": "Use for: a laugh from a ogre creature voice: taunting, victory, amusement. Matches the other Ogre vocals.",
+      "keywords": [
+        "bigfoot",
+        "dead",
+        "elf",
+        "frankenstein",
+        "ghoul",
+        "living",
+        "mummy",
+        "ogre",
+        "orcs",
+        "swamp",
+        "tengu",
+        "thing",
+        "troll",
+        "undead",
+        "vampire",
+        "werewolf",
+        "witch",
+        "zombie",
+        "creatures",
+        "humanoid",
+        "voice",
+        "laugh"
+      ],
+      "classification": {
+        "asset_format": "Shuffle",
+        "loop": false
+      },
+      "takes": [
+        {
+          "file": "CREAHmn_OgreLaugh_OS_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 1.653
+        },
+        {
+          "file": "CREAHmn_OgreLaugh_OS_02.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 2.148
+        },
+        {
+          "file": "CREAHmn_OgreLaugh_OS_03.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 1.603
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "voice_ogre_laugh",
+        "source_collection": "06_vocal/Ogre"
+      }
+    },
+    {
+      "id": "CREAHmn_TrollDeathScream_OS_01",
+      "ucs": {
+        "cat_id": "CREAHmn",
+        "category": "CREATURES",
+        "subcategory": "HUMANOID",
+        "confidence": "machine"
+      },
+      "summary": "Use for: a dramatic death scream from a troll creature voice. Matches the other Troll vocals.",
+      "keywords": [
+        "bigfoot",
+        "dead",
+        "elf",
+        "frankenstein",
+        "ghoul",
+        "living",
+        "mummy",
+        "ogre",
+        "orcs",
+        "swamp",
+        "tengu",
+        "thing",
+        "troll",
+        "undead",
+        "vampire",
+        "werewolf",
+        "witch",
+        "zombie",
+        "creatures",
+        "humanoid",
+        "voice",
+        "deathscream"
+      ],
+      "classification": {
+        "asset_format": "Oneshot",
+        "loop": false
+      },
+      "takes": [
+        {
+          "file": "CREAHmn_TrollDeathScream_OS_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 2.64
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "voice_troll_deathscream",
+        "source_collection": "06_vocal/Troll"
+      }
+    },
+    {
+      "id": "CREAHmn_TrollDeath_OS_01",
+      "ucs": {
+        "cat_id": "CREAHmn",
+        "category": "CREATURES",
+        "subcategory": "HUMANOID",
+        "confidence": "machine"
+      },
+      "summary": "Use for: a character dying: the death vocal of a troll creature voice. Matches the other Troll vocals.",
+      "keywords": [
+        "bigfoot",
+        "dead",
+        "elf",
+        "frankenstein",
+        "ghoul",
+        "living",
+        "mummy",
+        "ogre",
+        "orcs",
+        "swamp",
+        "tengu",
+        "thing",
+        "troll",
+        "undead",
+        "vampire",
+        "werewolf",
+        "witch",
+        "zombie",
+        "creatures",
+        "humanoid",
+        "voice",
+        "death"
+      ],
+      "classification": {
+        "asset_format": "Shuffle",
+        "loop": false
+      },
+      "takes": [
+        {
+          "file": "CREAHmn_TrollDeath_OS_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 1.018
+        },
+        {
+          "file": "CREAHmn_TrollDeath_OS_02.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 1.251
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "voice_troll_death",
+        "source_collection": "06_vocal/Troll"
+      }
+    },
+    {
+      "id": "CREAHmn_TrollEffort_OS_01",
+      "ucs": {
+        "cat_id": "CREAHmn",
+        "category": "CREATURES",
+        "subcategory": "HUMANOID",
+        "confidence": "machine"
+      },
+      "summary": "Use for: a grunt of effort from a troll creature voice: attacking, jumping, lifting. Matches the other Troll vocals.",
+      "keywords": [
+        "bigfoot",
+        "dead",
+        "elf",
+        "frankenstein",
+        "ghoul",
+        "living",
+        "mummy",
+        "ogre",
+        "orcs",
+        "swamp",
+        "tengu",
+        "thing",
+        "troll",
+        "undead",
+        "vampire",
+        "werewolf",
+        "witch",
+        "zombie",
+        "creatures",
+        "humanoid",
+        "voice",
+        "effort"
+      ],
+      "classification": {
+        "asset_format": "Oneshot",
+        "loop": false
+      },
+      "takes": [
+        {
+          "file": "CREAHmn_TrollEffort_OS_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 0.605
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "voice_troll_effort",
+        "source_collection": "06_vocal/Troll"
+      }
+    },
+    {
+      "id": "CREAHmn_TrollHurt_OS_01",
+      "ucs": {
+        "cat_id": "CREAHmn",
+        "category": "CREATURES",
+        "subcategory": "HUMANOID",
+        "confidence": "machine"
+      },
+      "summary": "Use for: a pain reaction from a troll creature voice: taking damage. Matches the other Troll vocals.",
+      "keywords": [
+        "bigfoot",
+        "dead",
+        "elf",
+        "frankenstein",
+        "ghoul",
+        "living",
+        "mummy",
+        "ogre",
+        "orcs",
+        "swamp",
+        "tengu",
+        "thing",
+        "troll",
+        "undead",
+        "vampire",
+        "werewolf",
+        "witch",
+        "zombie",
+        "creatures",
+        "humanoid",
+        "voice",
+        "hurt"
+      ],
+      "classification": {
+        "asset_format": "Shuffle",
+        "loop": false
+      },
+      "takes": [
+        {
+          "file": "CREAHmn_TrollHurt_OS_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 0.539
+        },
+        {
+          "file": "CREAHmn_TrollHurt_OS_02.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 0.593
+        },
+        {
+          "file": "CREAHmn_TrollHurt_OS_03.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 0.599
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "voice_troll_hurt",
+        "source_collection": "06_vocal/Troll"
+      }
+    },
+    {
+      "id": "CREAHmn_TrollLaugh_OS_01",
+      "ucs": {
+        "cat_id": "CREAHmn",
+        "category": "CREATURES",
+        "subcategory": "HUMANOID",
+        "confidence": "machine"
+      },
+      "summary": "Use for: a laugh from a troll creature voice: taunting, victory, amusement. Matches the other Troll vocals.",
+      "keywords": [
+        "bigfoot",
+        "dead",
+        "elf",
+        "frankenstein",
+        "ghoul",
+        "living",
+        "mummy",
+        "ogre",
+        "orcs",
+        "swamp",
+        "tengu",
+        "thing",
+        "troll",
+        "undead",
+        "vampire",
+        "werewolf",
+        "witch",
+        "zombie",
+        "creatures",
+        "humanoid",
+        "voice",
+        "laugh"
+      ],
+      "classification": {
+        "asset_format": "Shuffle",
+        "loop": false
+      },
+      "takes": [
+        {
+          "file": "CREAHmn_TrollLaugh_OS_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 1.911
+        },
+        {
+          "file": "CREAHmn_TrollLaugh_OS_02.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 1.433
+        },
+        {
+          "file": "CREAHmn_TrollLaugh_OS_03.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 1.699
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "voice_troll_laugh",
+        "source_collection": "06_vocal/Troll"
+      }
+    },
+    {
+      "id": "CREAMnstr_CreatureCreepyReverb_OS_01",
+      "ucs": {
+        "cat_id": "CREAMnstr",
+        "category": "CREATURES",
+        "subcategory": "MONSTER",
+        "confidence": "machine"
+      },
+      "summary": "Use for: a horror creature vocalizing in a large reverberant space: a monster in a cave, a sewer or a far corridor.",
+      "keywords": [
+        "behemoth",
+        "chupacabra",
+        "godzilla",
+        "king",
+        "kong",
+        "rancor",
+        "xenomorph",
+        "yeti",
+        "creatures",
+        "monster",
+        "creepy",
+        "creature",
+        "reverb"
+      ],
+      "classification": {
+        "asset_format": "Shuffle",
+        "loop": false
+      },
+      "takes": [
+        {
+          "file": "CREAMnstr_CreatureCreepyReverb_OS_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 4.98
+        },
+        {
+          "file": "CREAMnstr_CreatureCreepyReverb_OS_02.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 2.782
+        },
+        {
+          "file": "CREAMnstr_CreatureCreepyReverb_OS_03.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 3.656
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "creepy_creature_reverb",
+        "source_collection": "01_creepy_horror"
+      }
+    },
+    {
+      "id": "CREAMnstr_CreatureCreepy_OS_01",
+      "ucs": {
+        "cat_id": "CREAMnstr",
+        "category": "CREATURES",
+        "subcategory": "MONSTER",
+        "confidence": "machine"
+      },
+      "summary": "Use for: a horror creature vocalizing: growls, hisses and gurgles from a monster in the dark. Dry version.",
+      "keywords": [
+        "behemoth",
+        "chupacabra",
+        "godzilla",
+        "king",
+        "kong",
+        "rancor",
+        "xenomorph",
+        "yeti",
+        "creatures",
+        "monster",
+        "creepy",
+        "creature"
+      ],
+      "classification": {
+        "asset_format": "Shuffle",
+        "loop": false
+      },
+      "takes": [
+        {
+          "file": "CREAMnstr_CreatureCreepy_OS_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 3.298
+        },
+        {
+          "file": "CREAMnstr_CreatureCreepy_OS_02.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 1.99
+        },
+        {
+          "file": "CREAMnstr_CreatureCreepy_OS_03.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 2.763
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "creepy_creature",
+        "source_collection": "01_creepy_horror"
+      }
+    }
+  ]
+}

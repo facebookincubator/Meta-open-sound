@@ -1,0 +1,245 @@
+{
+  "schema_version": "1.0.0",
+  "collection": "oculus-audio-pack",
+  "cat_short": "PAPR",
+  "license": "CC-BY-4.0",
+  "attribution": "\"Oculus Audio Pack 01\" by Oculus VR, LLC (https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/), licensed under CC BY 4.0. Files renamed to the UCS naming convention; OGG previews transcoded from the original WAVs.",
+  "sounds": [
+    {
+      "id": "PAPRHndl_BookPageTurns_OS_01",
+      "ucs": {
+        "cat_id": "PAPRHndl",
+        "category": "PAPER",
+        "subcategory": "HANDLE",
+        "confidence": "machine"
+      },
+      "summary": "Use for: turning book pages: reading, flipping through a journal or manual.",
+      "keywords": [
+        "bill",
+        "browse",
+        "cardboard",
+        "clasp",
+        "clutch",
+        "count",
+        "crease",
+        "crinkle",
+        "crumple",
+        "flip",
+        "fold",
+        "grip",
+        "handle",
+        "holder",
+        "kraft",
+        "manila",
+        "page",
+        "paper",
+        "papyrus",
+        "parchment",
+        "peruse",
+        "pull",
+        "roll",
+        "sheet",
+        "throw",
+        "tissue",
+        "toss",
+        "turn",
+        "vellum",
+        "interaction",
+        "book",
+        "turns"
+      ],
+      "classification": {
+        "asset_format": "Oneshot",
+        "loop": false
+      },
+      "takes": [
+        {
+          "file": "PAPRHndl_BookPageTurns_OS_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 3.968
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "interaction_book_page_turns",
+        "source_collection": "10_interaction"
+      }
+    },
+    {
+      "id": "PAPRHndl_PaperCrumple_OS_01",
+      "ucs": {
+        "cat_id": "PAPRHndl",
+        "category": "PAPER",
+        "subcategory": "HANDLE",
+        "confidence": "machine"
+      },
+      "summary": "Use for: crumpling a sheet of paper into a ball: office frustration, discarding a note.",
+      "keywords": [
+        "bill",
+        "browse",
+        "cardboard",
+        "clasp",
+        "clutch",
+        "count",
+        "crease",
+        "crinkle",
+        "crumple",
+        "flip",
+        "fold",
+        "grip",
+        "handle",
+        "holder",
+        "kraft",
+        "manila",
+        "page",
+        "paper",
+        "papyrus",
+        "parchment",
+        "peruse",
+        "pull",
+        "roll",
+        "sheet",
+        "throw",
+        "tissue",
+        "toss",
+        "turn",
+        "vellum",
+        "action"
+      ],
+      "classification": {
+        "asset_format": "Oneshot",
+        "loop": false
+      },
+      "takes": [
+        {
+          "file": "PAPRHndl_PaperCrumple_OS_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 3.143
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "action_crumple_paper",
+        "source_collection": "02_floors_footsteps_body_mvmt_impacts_actions_etc"
+      }
+    },
+    {
+      "id": "PAPRImpt_PaperBallDrop_OS_01",
+      "ucs": {
+        "cat_id": "PAPRImpt",
+        "category": "PAPER",
+        "subcategory": "IMPACT",
+        "confidence": "machine"
+      },
+      "summary": "Use for: a crumpled paper ball dropped or tossed: a light papery thud, missing the wastebasket.",
+      "keywords": [
+        "bump",
+        "cardboard",
+        "drop",
+        "dropped",
+        "hit",
+        "kraft",
+        "magazine",
+        "manila",
+        "newspaper",
+        "paper",
+        "papyrus",
+        "parchment",
+        "punch",
+        "slam",
+        "slap",
+        "smack",
+        "strike",
+        "thump",
+        "tissue",
+        "vellum",
+        "whack",
+        "impact",
+        "action",
+        "ball"
+      ],
+      "classification": {
+        "asset_format": "Oneshot",
+        "loop": false
+      },
+      "takes": [
+        {
+          "file": "PAPRImpt_PaperBallDrop_OS_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 1.2
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "action_drop_paper_ball",
+        "source_collection": "02_floors_footsteps_body_mvmt_impacts_actions_etc"
+      }
+    },
+    {
+      "id": "PAPRRip_PaperTear_OS_01",
+      "ucs": {
+        "cat_id": "PAPRRip",
+        "category": "PAPER",
+        "subcategory": "RIP",
+        "confidence": "machine"
+      },
+      "summary": "Use for: tearing a sheet of paper: ripping up a letter, opening a paper package.",
+      "keywords": [
+        "cardboard",
+        "kraft",
+        "manila",
+        "paper",
+        "papyrus",
+        "parchment",
+        "rend",
+        "scraps",
+        "shred",
+        "tatter",
+        "tear",
+        "tearing",
+        "tears",
+        "tissue",
+        "tore",
+        "vellum",
+        "rip",
+        "action"
+      ],
+      "classification": {
+        "asset_format": "Oneshot",
+        "loop": false
+      },
+      "takes": [
+        {
+          "file": "PAPRRip_PaperTear_OS_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 0.747
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "action_tear_paper",
+        "source_collection": "02_floors_footsteps_body_mvmt_impacts_actions_etc"
+      }
+    }
+  ]
+}

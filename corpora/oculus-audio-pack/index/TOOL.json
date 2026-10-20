@@ -1,0 +1,231 @@
+{
+  "schema_version": "1.0.0",
+  "collection": "oculus-audio-pack",
+  "cat_short": "TOOL",
+  "license": "CC-BY-4.0",
+  "attribution": "\"Oculus Audio Pack 01\" by Oculus VR, LLC (https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/), licensed under CC BY 4.0. Files renamed to the UCS naming convention; OGG previews transcoded from the original WAVs.",
+  "sounds": [
+    {
+      "id": "TOOLHand_WoodCutSaw_OS_01",
+      "ucs": {
+        "cat_id": "TOOLHand",
+        "category": "TOOLS",
+        "subcategory": "HAND",
+        "confidence": "machine"
+      },
+      "summary": "Use for: sawing wood with a hand saw: carpentry, a workshop.",
+      "keywords": [
+        "allen",
+        "bar",
+        "chisel",
+        "clamp",
+        "cutter",
+        "drill",
+        "file",
+        "files",
+        "grip",
+        "gun",
+        "hacksaw",
+        "hammer",
+        "hand",
+        "knife",
+        "level",
+        "mallet",
+        "measure",
+        "pliers",
+        "pry",
+        "ratchet",
+        "saw",
+        "scissors",
+        "scraper",
+        "screwdriver",
+        "shears",
+        "snips",
+        "socket",
+        "staple",
+        "tape",
+        "toolbox",
+        "utility",
+        "vise",
+        "wrench",
+        "tools",
+        "ambient",
+        "wood",
+        "cut"
+      ],
+      "classification": {
+        "asset_format": "Oneshot",
+        "loop": false
+      },
+      "takes": [
+        {
+          "file": "TOOLHand_WoodCutSaw_OS_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 13.32
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "ambient_wood_cut_saw",
+        "source_collection": "03_weather_ambience_etc"
+      }
+    },
+    {
+      "id": "TOOLPowr_CircularSaw_OS_01",
+      "ucs": {
+        "cat_id": "TOOLPowr",
+        "category": "TOOLS",
+        "subcategory": "POWER",
+        "confidence": "machine"
+      },
+      "summary": "Use for: a circular saw cutting: a workshop, construction, power-tool use.",
+      "keywords": [
+        "air",
+        "angle",
+        "belt",
+        "circular",
+        "compressor",
+        "drill",
+        "driver",
+        "grinder",
+        "gun",
+        "heat",
+        "impact",
+        "jigsaw",
+        "miter",
+        "nail",
+        "planer",
+        "power",
+        "press",
+        "reciprocating",
+        "router",
+        "sander",
+        "saw",
+        "screwdriver",
+        "staple",
+        "table",
+        "tool",
+        "tools",
+        "machine"
+      ],
+      "classification": {
+        "asset_format": "Oneshot",
+        "loop": false
+      },
+      "takes": [
+        {
+          "file": "TOOLPowr_CircularSaw_OS_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 13.461
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "machine_circular_saw",
+        "source_collection": "04_indoors_hums_machines_actions_etc"
+      }
+    },
+    {
+      "id": "TOOLPowr_PowerTool_OS_01",
+      "ucs": {
+        "cat_id": "TOOLPowr",
+        "category": "TOOLS",
+        "subcategory": "POWER",
+        "confidence": "machine"
+      },
+      "summary": "Use for: a handheld power tool running: drills and drivers in a workshop or construction scene.",
+      "keywords": [
+        "air",
+        "angle",
+        "belt",
+        "circular",
+        "compressor",
+        "drill",
+        "driver",
+        "grinder",
+        "gun",
+        "heat",
+        "impact",
+        "jigsaw",
+        "miter",
+        "nail",
+        "planer",
+        "power",
+        "press",
+        "reciprocating",
+        "router",
+        "sander",
+        "saw",
+        "screwdriver",
+        "staple",
+        "table",
+        "tool",
+        "tools",
+        "machine"
+      ],
+      "classification": {
+        "asset_format": "Shuffle",
+        "loop": false
+      },
+      "takes": [
+        {
+          "file": "TOOLPowr_PowerTool_OS_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 3.101
+        },
+        {
+          "file": "TOOLPowr_PowerTool_OS_02.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 5.287
+        },
+        {
+          "file": "TOOLPowr_PowerTool_OS_03.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 3.765
+        },
+        {
+          "file": "TOOLPowr_PowerTool_OS_04.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 10.496
+        },
+        {
+          "file": "TOOLPowr_PowerTool_OS_05.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 2.789
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "machine_power_tool",
+        "source_collection": "04_indoors_hums_machines_actions_etc"
+      }
+    }
+  ]
+}

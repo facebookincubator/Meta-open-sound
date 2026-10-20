@@ -1,0 +1,134 @@
+{
+  "schema_version": "1.0.0",
+  "collection": "oculus-audio-pack",
+  "cat_short": "DSGN",
+  "license": "CC-BY-4.0",
+  "attribution": "\"Oculus Audio Pack 01\" by Oculus VR, LLC (https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/), licensed under CC BY 4.0. Files renamed to the UCS naming convention; OGG previews transcoded from the original WAVs.",
+  "sounds": [
+    {
+      "id": "DSGNDron_DroneCreepy_OS_01",
+      "ucs": {
+        "cat_id": "DSGNDron",
+        "category": "DESIGNED",
+        "subcategory": "DRONE",
+        "confidence": "machine"
+      },
+      "summary": "Use for: a sustained, tense horror drone: dread underscore, exploring a dark space, building suspense.",
+      "keywords": [
+        "ambient",
+        "drone",
+        "droning",
+        "hum",
+        "humming",
+        "monotonous",
+        "ominous",
+        "pad",
+        "pulsing",
+        "resonant",
+        "sustained",
+        "tension",
+        "texture",
+        "throb",
+        "throbbing",
+        "whirring",
+        "designed",
+        "creepy"
+      ],
+      "classification": {
+        "asset_format": "Shuffle",
+        "loop": false
+      },
+      "takes": [
+        {
+          "file": "DSGNDron_DroneCreepy_OS_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 2,
+          "duration_s": 45.056
+        },
+        {
+          "file": "DSGNDron_DroneCreepy_OS_02.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 2,
+          "duration_s": 58.838
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "creepy_drone",
+        "source_collection": "01_creepy_horror"
+      }
+    },
+    {
+      "id": "DSGNImpt_ImpactCreepyReverb_OS_01",
+      "ucs": {
+        "cat_id": "DSGNImpt",
+        "category": "DESIGNED",
+        "subcategory": "IMPACT",
+        "confidence": "machine"
+      },
+      "summary": "Use for: heavy, reverberant horror hits: jump scares, a door slamming somewhere far off, a dramatic reveal.",
+      "keywords": [
+        "blow",
+        "bump",
+        "collision",
+        "crash",
+        "hit",
+        "impact",
+        "jolt",
+        "knock",
+        "slam",
+        "smash",
+        "strike",
+        "thud",
+        "trailer",
+        "designed",
+        "creepy",
+        "impacts",
+        "reverb"
+      ],
+      "classification": {
+        "asset_format": "Shuffle",
+        "loop": false
+      },
+      "takes": [
+        {
+          "file": "DSGNImpt_ImpactCreepyReverb_OS_01.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 4.288
+        },
+        {
+          "file": "DSGNImpt_ImpactCreepyReverb_OS_02.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 3.645
+        },
+        {
+          "file": "DSGNImpt_ImpactCreepyReverb_OS_03.wav",
+          "sample_rate": 48000,
+          "bit_depth": 16,
+          "sample_format": "pcm_s16le",
+          "channels": 1,
+          "duration_s": 3.824
+        }
+      ],
+      "provenance": {
+        "source": "https://developers.meta.com/vr/downloads/package/oculus-audio-pack-1/",
+        "package_name": "Oculus Audio Pack 01",
+        "package_version": "1.0",
+        "original_name": "creepy_impacts_reverb",
+        "source_collection": "01_creepy_horror"
+      }
+    }
+  ]
+}
