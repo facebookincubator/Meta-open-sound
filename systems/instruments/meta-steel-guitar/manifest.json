@@ -1136,5 +1136,17 @@
     }
   ],
   "ogg_dir": "ogg",
-  "license": "CC0-1.0"
+  "license": "CC0-1.0",
+  "sfz_maps": {
+    "reference": "meta-steel-guitar.sfz",
+    "keyboard": "meta-steel-guitar-sforzando.sfz",
+    "strings": {
+      "LowE": "string-maps/meta-steel-guitar-StringLowE.sfz",
+      "A": "string-maps/meta-steel-guitar-StringA.sfz",
+      "D": "string-maps/meta-steel-guitar-StringD.sfz",
+      "G": "string-maps/meta-steel-guitar-StringG.sfz",
+      "B": "string-maps/meta-steel-guitar-StringB.sfz",
+      "HighE": "string-maps/meta-steel-guitar-StringHighE.sfz"
+    }
+  }
 }

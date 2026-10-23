@@ -338,3 +338,19 @@ the range where the timbral jump is largest:
 - Playable instrument in VR/AR environments
 - Interactive or generative music systems needing a credible acoustic guitar
 - Warm, organic UI and notification tones (use `Vel01` on the higher strings)
+
+## SFZ sampler maps
+
+Load [`meta-steel-guitar-sforzando.sfz`](meta-steel-guitar-sforzando.sfz) for
+normal keyboard playing in sforzando. It selects one first-position string per
+note without relying on per-region MIDI channel filtering. The original
+[`meta-steel-guitar.sfz`](meta-steel-guitar.sfz) remains available for samplers
+that support its channel-based string selection.
+
+[`string-maps/`](string-maps/) contains six separate full-string instruments,
+for explicit string selection on separate sampler instances or tracks. These
+retain the reference map's velocity behavior, release and random variation.
+
+See [the guitar SFZ guide](../../../docs/sforzando-guitar-maps.md) for
+OGG/WAV sample paths, keyswitches, reproduction steps and validation. The
+`sfz_maps` paths in the manifest and catalog are relative to this collection.

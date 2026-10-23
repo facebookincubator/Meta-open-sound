@@ -13,8 +13,9 @@ just as free to use, but you must credit it. See [License](#license).
 Each instrument comes with a design specification covering note mapping,
 velocity layers, and playback guidance. The spec doesn't assume an engine, so
 you can build a working sampler in any engine or framework. Each instrument
-also ships an SFZ map that loads directly in SFZ samplers such as sfizz and
-Sforzando.
+also ships a reference SFZ map. For guitar keyboard playing in sforzando, use the
+[guitar compatibility maps](docs/sforzando-guitar-maps.md), which isolate strings
+without depending on per-region MIDI channel filtering.
 
 > **AI agents:** start with [AGENTS.md](AGENTS.md). It covers how to find a sample,
 > read its design spec, and download the audio.
@@ -85,6 +86,9 @@ gh release download meta-piano-v1.0.0 \
   field points at the in-repo OGG previews; full-quality WAVs are in the
   matching Release.
 - Each instrument's `<id>.sfz` maps every sample to its keys and velocities.
+- Guitar entries also provide `sfz_maps`: `reference`, `keyboard`, and a `strings`
+  object keyed by string name. These paths are relative to the collection
+  directory (`path` in the catalog), and match the collection manifest.
 - Each collection's `SHA256SUMS` lets you check a download with
   `sha256sum -c SHA256SUMS`.
 - Each collection's `LICENSE` holds its license text, and its `manifest.json`
