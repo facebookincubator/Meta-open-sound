@@ -1,0 +1,82 @@
+// meta-steel-guitar: full StringHighE map, on any MIDI channel.
+// Load on a separate sampler instance/track for explicit string selection.
+// Musical settings and velocity mapping match the reference string map.
+// Voice choking applies within this instance only.
+
+<control>
+default_path=../ogg/
+
+<global>
+ampeg_release=0.05
+pitch_random=4
+amp_random=1.5
+off_mode=normal
+
+<group> group=6 off_by=6 lovel=1 hivel=48 amp_velcurve_1=0.708 amp_velcurve_48=1
+<region> key=64 sample=INSGuitarSteel_StringHighE_Vel01_E4_01.ogg
+<region> key=65 sample=INSGuitarSteel_StringHighE_Vel01_F4_01.ogg
+<region> key=66 sample=INSGuitarSteel_StringHighE_Vel01_Fs4_01.ogg
+<region> key=67 sample=INSGuitarSteel_StringHighE_Vel01_G4_01.ogg
+<region> key=68 sample=INSGuitarSteel_StringHighE_Vel01_Gs4_01.ogg
+<region> key=69 sample=INSGuitarSteel_StringHighE_Vel01_A4_01.ogg
+<region> key=70 sample=INSGuitarSteel_StringHighE_Vel01_As4_01.ogg
+<region> key=71 sample=INSGuitarSteel_StringHighE_Vel01_B4_01.ogg
+<region> key=72 sample=INSGuitarSteel_StringHighE_Vel01_C5_01.ogg
+<region> key=73 sample=INSGuitarSteel_StringHighE_Vel01_Cs5_01.ogg
+<region> key=74 sample=INSGuitarSteel_StringHighE_Vel01_D5_01.ogg
+<region> key=75 sample=INSGuitarSteel_StringHighE_Vel01_Ds5_01.ogg
+<region> key=76 sample=INSGuitarSteel_StringHighE_Vel01_E5_01.ogg
+<region> key=77 sample=INSGuitarSteel_StringHighE_Vel01_F5_01.ogg
+<region> key=78 sample=INSGuitarSteel_StringHighE_Vel01_Fs5_01.ogg
+<region> key=79 sample=INSGuitarSteel_StringHighE_Vel01_G5_01.ogg
+<region> key=80 sample=INSGuitarSteel_StringHighE_Vel01_Gs5_01.ogg
+<region> key=81 sample=INSGuitarSteel_StringHighE_Vel01_A5_01.ogg
+<region> key=82 sample=INSGuitarSteel_StringHighE_Vel01_As5_01.ogg
+<region> key=83 sample=INSGuitarSteel_StringHighE_Vel01_B5_01.ogg
+<region> key=84 sample=INSGuitarSteel_StringHighE_Vel01_C6_01.ogg
+
+<group> group=6 off_by=6 lovel=49 hivel=96 amp_velcurve_49=0.708 amp_velcurve_96=1
+<region> key=64 sample=INSGuitarSteel_StringHighE_Vel02_E4_01.ogg
+<region> key=65 sample=INSGuitarSteel_StringHighE_Vel02_F4_01.ogg
+<region> key=66 sample=INSGuitarSteel_StringHighE_Vel02_Fs4_01.ogg
+<region> key=67 sample=INSGuitarSteel_StringHighE_Vel02_G4_01.ogg
+<region> key=68 sample=INSGuitarSteel_StringHighE_Vel02_Gs4_01.ogg
+<region> key=69 sample=INSGuitarSteel_StringHighE_Vel02_A4_01.ogg
+<region> key=70 sample=INSGuitarSteel_StringHighE_Vel02_As4_01.ogg
+<region> key=71 sample=INSGuitarSteel_StringHighE_Vel02_B4_01.ogg
+<region> key=72 sample=INSGuitarSteel_StringHighE_Vel02_C5_01.ogg
+<region> key=73 sample=INSGuitarSteel_StringHighE_Vel02_Cs5_01.ogg
+<region> key=74 sample=INSGuitarSteel_StringHighE_Vel02_D5_01.ogg
+<region> key=75 sample=INSGuitarSteel_StringHighE_Vel02_Ds5_01.ogg
+<region> key=76 sample=INSGuitarSteel_StringHighE_Vel02_E5_01.ogg
+<region> key=77 sample=INSGuitarSteel_StringHighE_Vel02_F5_01.ogg
+<region> key=78 sample=INSGuitarSteel_StringHighE_Vel02_Fs5_01.ogg
+<region> key=79 sample=INSGuitarSteel_StringHighE_Vel02_G5_01.ogg
+<region> key=80 sample=INSGuitarSteel_StringHighE_Vel02_Gs5_01.ogg
+<region> key=81 sample=INSGuitarSteel_StringHighE_Vel02_A5_01.ogg
+<region> key=82 sample=INSGuitarSteel_StringHighE_Vel02_As5_01.ogg
+<region> key=83 sample=INSGuitarSteel_StringHighE_Vel02_B5_01.ogg
+<region> key=84 sample=INSGuitarSteel_StringHighE_Vel02_C6_01.ogg
+
+<group> group=6 off_by=6 lovel=97 hivel=127 amp_velcurve_97=0.708 amp_velcurve_127=1
+<region> key=64 sample=INSGuitarSteel_StringHighE_Vel03_E4_01.ogg
+<region> key=65 sample=INSGuitarSteel_StringHighE_Vel03_F4_01.ogg
+<region> key=66 sample=INSGuitarSteel_StringHighE_Vel03_Fs4_01.ogg
+<region> key=67 sample=INSGuitarSteel_StringHighE_Vel03_G4_01.ogg
+<region> key=68 sample=INSGuitarSteel_StringHighE_Vel03_Gs4_01.ogg
+<region> key=69 sample=INSGuitarSteel_StringHighE_Vel03_A4_01.ogg
+<region> key=70 sample=INSGuitarSteel_StringHighE_Vel03_As4_01.ogg
+<region> key=71 sample=INSGuitarSteel_StringHighE_Vel03_B4_01.ogg
+<region> key=72 sample=INSGuitarSteel_StringHighE_Vel03_C5_01.ogg
+<region> key=73 sample=INSGuitarSteel_StringHighE_Vel03_Cs5_01.ogg
+<region> key=74 sample=INSGuitarSteel_StringHighE_Vel03_D5_01.ogg
+<region> key=75 sample=INSGuitarSteel_StringHighE_Vel03_Ds5_01.ogg
+<region> key=76 sample=INSGuitarSteel_StringHighE_Vel03_E5_01.ogg
+<region> key=77 sample=INSGuitarSteel_StringHighE_Vel03_F5_01.ogg
+<region> key=78 sample=INSGuitarSteel_StringHighE_Vel03_Fs5_01.ogg
+<region> key=79 sample=INSGuitarSteel_StringHighE_Vel03_G5_01.ogg
+<region> key=80 sample=INSGuitarSteel_StringHighE_Vel03_Gs5_01.ogg
+<region> key=81 sample=INSGuitarSteel_StringHighE_Vel03_A5_01.ogg
+<region> key=82 sample=INSGuitarSteel_StringHighE_Vel03_As5_01.ogg
+<region> key=83 sample=INSGuitarSteel_StringHighE_Vel03_B5_01.ogg
+<region> key=84 sample=INSGuitarSteel_StringHighE_Vel03_C6_01.ogg

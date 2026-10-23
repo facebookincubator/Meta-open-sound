@@ -290,3 +290,19 @@ the numbers line up.
 - Ambient and intimate acoustic beds
 - Melodic UI accents and notification tones
 - Layering under vocal or dialogue-led content
+
+## SFZ sampler maps
+
+Load [`meta-nylon-guitar-sforzando.sfz`](meta-nylon-guitar-sforzando.sfz) for
+normal keyboard playing in sforzando. It selects one first-position string per
+note without relying on per-region MIDI channel filtering. The original
+[`meta-nylon-guitar.sfz`](meta-nylon-guitar.sfz) remains available for samplers
+that support its channel-based string selection.
+
+[`string-maps/`](string-maps/) contains six separate full-string instruments,
+for explicit string selection on separate sampler instances or tracks. These
+retain the reference map's velocity behavior, release and random variation.
+
+See [the guitar SFZ guide](../../../docs/sforzando-guitar-maps.md) for
+OGG/WAV sample paths, keyswitches, reproduction steps and validation. The
+`sfz_maps` paths in the manifest and catalog are relative to this collection.

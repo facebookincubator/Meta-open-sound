@@ -1403,5 +1403,17 @@
     }
   ],
   "ogg_dir": "ogg",
-  "license": "CC0-1.0"
+  "license": "CC0-1.0",
+  "sfz_maps": {
+    "reference": "meta-nylon-guitar.sfz",
+    "keyboard": "meta-nylon-guitar-sforzando.sfz",
+    "strings": {
+      "LowE": "string-maps/meta-nylon-guitar-StringLowE.sfz",
+      "A": "string-maps/meta-nylon-guitar-StringA.sfz",
+      "D": "string-maps/meta-nylon-guitar-StringD.sfz",
+      "G": "string-maps/meta-nylon-guitar-StringG.sfz",
+      "B": "string-maps/meta-nylon-guitar-StringB.sfz",
+      "HighE": "string-maps/meta-nylon-guitar-StringHighE.sfz"
+    }
+  }
 }
